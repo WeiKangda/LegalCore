@@ -1,0 +1,168 @@
+
+Execution version
+
+Exhibit 10.3
+
+CONFIDENTIAL TREATMENT  REQUESTED  - REDACTED COPY Confidential Treatment has been  requested  for portions of this Exhibit. Confidential portions of this Exhibit are  designated  by [*****]. A complete version of this Exhibit has been  filed  separately with the Securities and Exchange Commission. GLOBAL MAINTENANCE AGREEMENT Contract No. DS/CS-3957/14 issue 7
+
+Between
+
+AZUL  LINHAS  AÃREAS BRASILEIRAS S/A (as Company)
+
+and
+
+AVIONS DE TRANSPORT REGIONAL, G.I.E. (as Repairer)
+
+ March 9th, 2015 
+
+    AZUL-ATR   Global Maintenance Master Agreement DS/CS-3957/14/Issue 7   Page 1/110
+
+Source: AZUL SA, F-1/A,  3/3/2017 
+
+
+
+
+
+Execution version   CONTENTS   Clause   Page  1. SUBJECT-MATTER OF THE AGREEMENT     6  2. DEFINITIONS AND INTERPRETATION     6  3. DURATION AND RENEWAL     15  4. EXCUSABLE DELAY     15  5. SERVICES, LEASE AND OBLIGATIONS OF THE PARTIES     16  6. DELIVERIES     18  7. WORK ORDERS     20  8. INSURANCES     21  9. WARRANTIES     22  10. PRICES     22  11. RECONCILIATION     22  12. INVOICING AND PAYMENT TERMS     23  13. SECURITY DEPOSIT     26  14. DISCLAIMER     27  15. LIABILITY AND INDEMNITY     27  16. TERMINATION     28  17. CONDITIONS PRECEDENT     31  18. EXPORT CONTROL     31  19. NOTICES     31  20. CONFIDENTIALITY     32  21. TAXES     34  22. ASSIGNMENT     34  23. MISCELLANEOUS     35  24.  GOVERNING  LAW AND ARBITRATION     37      AZUL-ATR   Global Maintenance Master Agreement DS/CS-3957/14/Issue 7   Page 2/110
+
+Source: AZUL SA, F-1/A,  3/3/2017 
+
+
+
+
+
+Execution version     EXECUTION PAGE     39  EXHIBIT 1 - LIST OF ATR AIRCRAFT COVERED UNDER THIS AGREEMENT     40  EXHIBIT 2 - LIST OF SERVICES  PROVIDED  UNDER THIS AGREEMENT     42  EXHIBIT 3 - MAIN ELEMENTS COVERED UNDER THE AGREEMENT     43  EXHIBIT 4 - LIST OF LANDING GEAR ON CONDITION PARTS     44  EXHIBIT 5 - STOCK     45  EXHIBIT 6 - LRUS COVERED BY REPAIR AND STANDARD EXCHANGE SERVICES     61  EXHIBIT 7 - REPAIRER STANDARD WORK ORDER FORMS     70  EXHIBIT 8 - LEASE OF THE STOCK     74  EXHIBIT 9 -  SPARE  PARTS STANDARD EXCHANGE SERVICE     80  EXHIBIT 10 - LRUS REPAIR SERVICE     84   EXHIBIT  11 - MAIN ELEMENTS SERVICES     86  EXHIBIT 12 - INTENTIONALLY LEFT BLANK     92  EXHIBIT 13 - FORM OF STANDBY LETTER OF CREDIT     93   EXHIBIT  14 - PRICE CONDITIONS     94  EXHIBIT 15 - ADVANCED POOL SERVICE    101  EXHIBIT 16 - ADVANCED POOL STOCK    106  EXHIBIT 17 - INSURANCE CERTIFICATES    108  EXHIBIT 18 - NOTA FISCAL REPORTING    109      AZUL-ATR   Global Maintenance Master Agreement DS/CS-3957/14/Issue 7   Page 3/110
+
+Source: AZUL SA, F-1/A,  3/3/2017 
+
+
+
+
+
+Execution version   THIS GLOBAL MAINTENANCE AGREEMENT (HEREINAFTER REFERRED TO AS THE "AGREEMENT" OR "GMMA")  IS   MADE  ON  March 9th 2015 :
+
+BETWEEN:
+
+AZUL  LINHAS  AÃREAS BRASILEIRAS S/A, a company  incorporated  under the laws of Brazil, the  registered  office of which is  located  at Avenida Marcos Penteado de UlhÃ´a Rodrigues, 939 - Edif. Castello Branco Office Park - Torre JatobÃ¡ - 9Â° andar - CEP 06460-040 - Alphaville Industrial - Barueri - SÃ£o Paulo - Brazil,  identified  under Cadastro Nacional de pessoa Juridica (CNPJ) number 09.296.295/0001-60. Hereafter  referred  to as the "Company" or "AZUL",
+
+on the one part,
+
+AND:
+
+AVIONS DE TRANSPORT REGIONAL, G.I.E., a French groupement d'intÃ©rÃªt Ã©conomique  established  under articles L.251-1 to L251-23 of the French Commercial Code, whose registered office is at 1 allÃ©e Pierre Nadot, 31712 Blagnac, France  identified  under Corporate and Trade Register of Toulouse number 323 932 236,
+
+Hereafter  referred  to as the "Repairer"or "ATR",
+
+on the other part. Hereinafter individually  referred  to as the "Party" or collectively as the "Parties", as the context  requires  . AZUL-ATR   Global Maintenance Master Agreement DS/CS-3957/14/Issue 7   Page 4/110
+
+Source: AZUL SA, F-1/A,  3/3/2017 
+
+
+
+
+
+Execution version   RECITALS:
+
+  1) WHEREAS AZUL and ATR have  entered  into a Global Maintenance Agreement ref DS/CC- 2612 /10 ( dated   December  24t h,  2010 ) to  support  AZUL ATR aircraft fleet for operational support tasks as well as  scheduled  and unscheduled maintenance, as  amended  from time to time ("GMA AZUL"); and,
+
+  2) WHEREAS TRIP and ATR have  entered  into a Global Maintenance Agreement ref DS/C-  2883 /09 ( dated   September  10t h,  2010 ) to  support  TRIP ATR aircraft fleet for operational support tasks as well as  scheduled  and unscheduled maintenance, as  amended  from time to time ("GMA TRIP"); and,
+
+
+
+3) WHEREAS pursuant to an investment agreement  dated  on  May 25, 2012 ,  entered  into between Trip shareholders and Azul S.A., TRIP  became  a wholly  owned  subsidiary of the latter,  integrating  the Azul Group which already  includes  AZUL, an  operating  company, as duly  approved  in due time by their respective corporate governing bodies and the relevant authorities (National Civil Aviation Agency-"ANAC"-and Brazilian Antitrust Authority-"CADE"); and     4) WHEREAS further to operation as  detailed  above in 3), AZUL progressively  operated  an enlarged fleet of Aircraft  coming  from TRIP;and,
+
+  5) WHEREAS, in consideration of the local repair service in Brazil and the Aircraft fleet  now  solely  operated  by AZUL, the Parties  wish  to  terminate  the GMA TRIP and the GMA AZUL, and to  enter  into negotiation for a new GMLA between ATR and AZUL, on the terms and conditions set forth herein. NOW THEREFORE, IT  IS  HEREBY AGREED AS FOLLOWS:     AZUL-ATR   Global Maintenance Master Agreement DS/CS-3957/14/Issue 7   Page 5/110
+
+Source: AZUL SA, F-1/A,  3/3/2017 
+
+
+
+
+
+Execution version
+
+1. SUBJECT-MATTER OF THE AGREEMENT
+
+This Agreement  describes  the terms and conditions  according  to which the Repairer (i) shall  provide  , or  cause  its Subcontractors to  provide  , Services for the Company's Aircraft fleet; and (ii)  agrees  to  lease  the Stock to the Company and the Company  agrees  to  take  the Stock on lease, subject to the terms and conditions set forth on Exhibit 8. 2. DEFINITIONS AND INTERPRETATION
+
+2.1 Unless otherwise  defined  ,  capitalised  terms, singular or plural,  used  in this Agreement shall have the meaning set out below:   "Abnormal Use"
+
+
+
+means any usage, maintenance, storage, handling of the Aircraft, or its sub-assemblies, or its systems, or Items fitted on it including LRUs, Main Elements, Spare Main Elements, that does not comply with all applicable technical documentation and any other instructions issued by the manufacturers and which is not attributable to the Repairer or Subcontractors, including:   (i) Any failure by the Company to correctly comply with any Repairer and/or OEM instructions or recommendations, technical directives, or any workmanship defect, lack of qualification, non- approved repair and/or maintenance method; or,   (ii) Any negligence or failure to exercise reasonable effort(s) made to initiate corrective action(s), or lateness or total or partial failure in undertaking corrective action(s), for Aircraft or LRU(s) or Main Element(s) malfunctions which should have been reasonably identified by the Company; or,   (iii) Any Aircraft, LRU(s) or Main Element(s) suffering damage or premature removal arising out of or in connection with any defective storage, inappropriate Packaging or transport by the Company or its forwarder agent, or gross negligence or wilful misconduct of the Company(or its subcontractors or agents); or   (iv) Any events or circumstances, including: FOD, abnormal wear, hard contact, material drop or shock, engine fire or submersion, lightning strike, hard landing, hail (including on storage position), partial or total destruction or loss of Aircraft, LRU(s) or, Main Element(s);
+
+"Affiliates"   means with respect to any entity, any entity Controlled by, Controlling or under Common Control with, the first entity, and/or their respective lawful successors and/or assigns;
+
+"Agreement"   has the meaning set forth in page four (4) here above;
+
+"Aircraft"
+
+
+
+means collectively or individually as the context requires the ATR aircraft listed in Exhibit 1 ("List of ATR Aircraft covered under this Agreement"), amended from time to time by way of notice sent to the Company , as relevant, by Repairer in order to cover any further ATR aircraft entering the Company's fleet, including the airframe, engines, propellers and landing gears and parts installed on the Aircraft, when solely operated by the Company ;     AZUL-ATR   Global Maintenance Master Agreement DS/CS-3957/14/Issue 7   Page 6/110
+
+Source: AZUL SA, F-1/A,  3/3/2017 
+
+
+
+
+
+Execution version   CONFIDENTIAL TREATMENT  REQUESTED      "Airworthiness Authority"
+
+
+
+means, in respect of any jurisdiction, the Government Entity, which under the laws of such jurisdiction, has control over civil aviation or the registration, airworthiness, operation of aircraft in such jurisdiction, including, in the European Union, the European Aviation Safety Agency (the "EASA") and, in the United States of America, the Federal Aviation Administration (the "FAA");
+
+"Airworthiness Directives" or "AD"   means enforceable rules issued by the relevant Airworthiness Authorities that have a mandatory impact on Aircraft operation and/or maintenance;
+
+"Aircraft Maintenance Manual" or "AMM"
+
+means the customized manual, drafted in compliance with the ATA100 specifications, issued by ATR, as Aircraft manufacturer, and which is split into three (3) separate parts, namely: the Description and Operation Manual, the Trouble Shooting Manual and the Job Instruction Cards; the purpose of which is to provide all information required for Aircraft maintenance, while ensuring personnel and flight safety;
+
+"Aircraft On Ground" or "AOG"
+
+means the highest priority designation to process a requirement for an LRU and/or maintenance action; when applied to an Aircraft, such  term  indicates that such Aircraft is unable to continue or to be returned to revenue service until that appropriate action is taken;
+
+"ANAC"   means AgÃªncia Nacional de AviaÃ§Ã£o Civil, the Brazilian Civil Aviation Authority;
+
+"ATA"   means Air Transport Association of America Inc.;
+
+"ATA 300"
+
+
+
+means documentation issued by ATA (as amended from time to time, or any other ATA's substituted documentation) reviews the design, development and procurement of effective packaging of supplies shipped by either Party to the other Party; it provides packaging instructions for repairable and expendable units and components, included packaging standards for kits, preparation of hazardous materials for shipment and handling of electrostatic discharge sensitive devices. "BER" or "Beyond Economical Repair"
+
+means the case in which the repair cost of any unserviceable Item is greater than [*****] of the price for a brand new identical LRU and/or Main Element;
+
+" BUR  " or "Basic Unscheduled Removal"
+
+
+
+means any basic unplanned removal, premature removal of a LRU or a Main Element, due to a sub- component or accessory induced malfunction. Likewise, removal of a LRU and/or a Main Element, component or accessory due to a problem which could have been rectified  using  troubleshooting and/or corrective line maintenance actions as  specified  in the applicable AMM is not  considered  to be a BUR;
+
+"Business Day"   means  a day , other than a  Saturday  or a  Sunday , on which banks are open for the transaction of domestic and foreign exchange business in Paris (France) and SÃ£o Paulo (Brazil);
+
+"CMM" or "Component Maintenance Manuals"
+
+means a manual issued either by any relevant OEM and containing instruction concerning the overhaul and/or repair of components together with procedures for restoring such components to a fully serviceable condition. These manuals shall be compliant with ATA100 Specification;     [*****] Confidential material  redacted  and  filed  separately with the Securities and Exchange Commission. AZUL-ATR   Global Maintenance Master Agreement DS/CS-3957/14/Issue 7   Page 7/110
+
+Source: AZUL SA, F-1/A,  3/3/2017 
+
+
+
+
+
+Execution version     "Confidential Information"
+
+
+
+means all and/or any part of any information and/or data disclosed to and/or obtained by either Party from the other Party during the  Term  relating to or in connection with the performance of this Agreement; such information is conclusively considered as confidential without it being necessary to mention at the moment of its disclosure, and includes: (i) technical information, such as instructional know-how, academic and/or practical maintenance courses and/or aircraft piloting courses, programs, software, manufacturing secrets, processes, prototypes, research work, studies, plans, sketches, formulae, samples, specifications, diagrams, etc., (ii) commercial information, such as list of customers, suppliers, etc., (iii) financial (tariffs, margins, market parts, etc.), (iv) legal information, such as the Agreement, Exhibits, contracts, amendments, appendices, contractual relations, negotiations, partners, etc. and (v)  written  , electronic or oral information (hard copy, computer, digital, etc.);
+
+Control", " Controlled  ", " Controlling  " and "Common Control"
+
+
+
+are to be  interpreted  as  follows  :   "I. A company is  deemed  to  control  another company:   (i) When it directly or indirectly  holds  a fraction of the capital that  gives  it a majority of the voting rights at that company's general meetings;   (ii) When it alone  holds  a majority of the voting rights in that company by virtue of an agreement  entered  into with other partners or shareholders and this is not contrary to the company's interests;   (iii) When it effectively  determines  the decisions  taken  at that company's general meetings through the voting rights it  holds  ;   (iv) When it is a partner in, or shareholder of, that company and has the power to  appoint  or  dismiss  the majority of the members of that company's administrative, management or supervisory structures. II.âIt is  presumed  to  exercise  such control when it directly or indirectly  holds  a fraction of the voting rights above 40% and no other partner or shareholder directly or indirectly  holds  a fraction larger than its own.  III.âFor  the purposes of the same sections of the present chapter, two or more companies  acting  jointly are  deemed  to jointly  control  another company when they effectively  determine  the decisions  taken  at its general meetings". "Core Unit"   means any unserviceable LRU returned by the Company to the Repairer as a counterpart to standard exchange;
+
+"Credit Note"   "Credit Note"  Means  the credit note to be  issued  by the Repairer in accordance with Clause 11 ("Reconciliation") of this Agreement.

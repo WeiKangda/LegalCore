@@ -1,0 +1,84 @@
+
+EXHIBIT 99.3 Case 18-10248- MFW Doc 632-1  Filed   04/18/18  Page 2 of 60
+
+AGENCY AGREEMENT This Agency Agreement ("Agreement") is  made  as of  April 18, 2018 , by and between The Bon-Ton Stores, Inc. and its  associated  chapter 11 debtors in possession (collectively, "Merchant"),1 on the one hand, and (a) a contractual joint venture  comprised  of GA Retail, Inc. ("GA") and Tiger Capital Group, LLC ("Tiger" and collectively with GA, the "Agent") and (b) Wilmington Savings Fund Society, FSB, as the indenture agent and collateral trustee for the 8.00% second-lien senior  secured  notes due  2021  (the "Second-Lien Notes")  issued  by BTDS, on the other hand (in such capacities, the "Notes Trustee" and collectively with Agent, "Purchaser"). Purchaser and Merchant are collectively the "Parties."
+
+Section 1. Recitals
+
+WHEREAS, on  February 4, 2018 , the entities  comprising  Merchant  commenced  ten voluntary chapter 11 bankruptcy cases (the "Bankruptcy Cases") in the United States Bankruptcy Court for the District of Delaware (the "Bankruptcy Court"). WHEREAS, pursuant to an order of the Bankruptcy Court  entered  on  February 6, 2018  [D.I. 105], the Bankruptcy Cases are being jointly  administered  under the caption In re The Bon-Ton Stores, Inc., et al., Lead Case No. 18-10248-MFW (Bankr. D. Del.). WHEREAS, on  March 12, 2018 , the Bankruptcy Court  entered  an order (the "Bidding Procedures Order") [D.I. 348] that, among other relief,  approved  bidding procedures (the "Bidding Procedures") for and  scheduled  a hearing (the "Sale Approval Hearing") on the approval of the sale of all or substantially of Merchant's assets. WHEREAS, on  March 12, 2018 , the Bankruptcy Court  entered  an order (the "Final DIP Order") [D.I. 352]  authorizing  Merchant to  obtain  postpetition  secured  debtor-in-possession financing on a final basis. WHEREAS, an ad hoc group of holders of $251,325,000 in principal amount of the Second-Lien Notes (the "Second Lien Noteholders") has  issued  a direction to the Notes Trustee to credit bid (the "Credit Bid") $125,000,000 of its claims under the indenture  governing  the Second-Lien Notes (the "Notes Claims") as consideration under this Agreement and the Notes Trustee has  made  the Credit Bid. WHEREAS, Merchant  operates  retail stores and desires that the Agent act as Merchant's exclusive agent for the purposes of:
+
+(a) selling all of the Merchandise (as hereinafter  defined  ) from Merchant's retail store locations  identified  on Exhibit 1(a)(1)  attached  hereto (each a "Store" and collectively the "Stores") and distribution centers ( including  e-commerce
+
+1 Merchant  consists  of The Bon-Ton Stores, Inc.; The Bon-Ton Department Stores, Inc. ("BTDS"); The Bon-Ton Giftco, LLC; Carson Pirie Scott II, Inc.; Bon- Ton Distribution, LLC; McRIL, LLC; Bonstores Holdings One, LLC; Bonstores Realty One, LLC; Bonstores Holdings Two, LLC; and Bonstores Realty Two, LLC. Case 18-10248- MFW Doc 632-1  Filed   04/18/18  Page 3 of 60
+
+facilities)  identified  on Exhibit 1(a)(2)  attached  hereto (each a "Distribution Center" and collectively, the "Distribution Centers") by means of a "going out of business," "store closing," "sale on everything," "everything must go," or similar sale as described further below (the "GOB Sale"), with the nature and manner of advertising the GOB Sale being in Agent's sole discretion, subject to the terms and conditions of this Agreement and the Sale Guidelines and Approval Order (each as defined below);
+
+(b) marketing and selling, or otherwise  designating  the purchasers of, the furniture, furnishings, trade fixtures, machinery, equipment, office supplies, Supplies (as  defined  below), conveyor systems,  racking  ,  rolling  stock, and other tangible personal property (collectively, "FF&E")  owned  by Merchant, wherever  located  ("Owned FF&E");
+
+(c)  designating  the assignees of any or all of Merchant's unexpired leases of non-residential real property (together with all amendments, extensions, modifications, and other material documents  related  thereto, each a "Lease" and all such Leases collectively, the "Leases") and executory contracts (together with all amendments, extensions, modifications, and other material documents  related  thereto, each a "Contract" and all such Contracts collectively, the "Contracts"), in each case  excluding  any Leases or Contracts that may be  rejected  as  permitted  and in accordance with the procedures under the Approval Order ( defined  below) and subject to the assumption and assignment procedures to be  incorporated  into the Approval Order;
+
+(d) marketing and selling, and/or otherwise  designating  the purchasers and/or  assignees  of any or all real property  owned  by Merchant (the "Owned Real Estate"),  including  but not limited to the real property  identified  on Exhibit 1(d) annexed hereto;
+
+(e) marketing and selling, and/or otherwise  designating  the purchasers,  assignees  , and/or licensees of any or all intellectual property  owned  by Merchant (the "Intellectual Property"),  including  but not  limited  to the intellectual property  identified  on Exhibit 1(e) annexed hereto,  provided  that, the disposition of any Intellectual Property that would  result  in the sale or lease of personally identifiable information (as such  term  is  defined  in section 101(41A) of the Bankruptcy Code) shall be subject to a determination  made  by a consumer privacy ombudsman  appointed  in Merchant's chapter 11 cases; and
+
+(f) marketing and selling, and/or otherwise  designating  the purchasers, licensees, and/or  assignees  of any or all of Merchant's other real and tangible and intangible personal property (the "Other Assets" and, collectively with the Merchandise, the Owned FF&E, all Leases, all Contracts, the Owned Real Estate, and the Intellectual Property, the "Assets"). For the avoidance of doubt, the Other Assets  include  but are not limited to all cash on hand and in the Debtors' retail store locations, cash in transit, cash in bank accounts, Merchant's interest in and rights with respect to cash  posted  as collateral for letters of credit, receivables ( including  
+
+2
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1  Filed   04/18/18  Page 4 of 60 credit card receivables), deposits, security deposits, credit card processing float, proceeds of retail sales in all of the Debtors' retail store locations from and after the date of this Agreement to the extent not  used  to  pay  down the DIP Obligations (as  defined  in the Final DIP Order), claims and causes of action  arising  under chapter 5 of the Bankruptcy Code and similar state law ("Avoidance Actions"), and all other claims and causes of action,  including  but not  limited  to commercial tort claims,  based  on facts and circumstances  existing  as of the Closing, whether or not theretofore  discovered  or  asserted  ("Other Causes of Action"). Notwithstanding the foregoing, the Assets shall not  include  (a) the Consulting Agreement by and between Merchant and a joint venture  comprised  of Hilco Merchant Resources, LLC and Gordon Brothers Retail Partners, LLC (the "Phase 1 Consultant"),  dated   January 29, 2018  (the "Phase 1 Liquidation Agreement"), which shall not be subject to the Lease/Contract Designation Rights (as  defined  below) or otherwise  assumed  by Purchaser or (b) the proceeds from the sale of Additional Agent Goods (as  defined  in the Phase 1 Liquidation Agreement) pursuant to the Phase 1 Liquidation Agreement, other than the "Additional Agent Goods Fee" due to Merchant under the Phase 1 Liquidation Agreement. Merchant shall not  reject  or  amend  the Phase 1 Liquidation Agreement without the express  written  consent of Purchaser. For the avoidance of doubt, all Net Proceeds, less the Consulting Fee, plus the Additional Agent Goods Fee (each as  defined  in the Phase 1 Liquidation Agreement) shall  constitute  Assets under this Agreement and shall be  remitted  to Purchaser pursuant to the terms hereof. WHEREAS, the Official Committee of Unsecured Creditors  appointed  in the Bankruptcy Cases (the "Committee")  filed  an adversary proceeding (the "Adversary Proceeding") on  March 29, 2018  seeking, among other relief, to  avoid  certain liens  securing  the Notes Claims. NOW, THEREFORE, in consideration of the Purchase Price ( defined  below) and the mutual covenants and agreements set forth in this Agreement, the Parties hereby  agree  as  follows  :
+
+Section 2. Appointment of Agent/Approval Order. Consistent with the Bidding Procedures and as soon as practicable after full execution of this Agreement, Merchant shall  file  in the Bankruptcy Cases a  proposed  form of order (the "Approval Order") in a form reasonably satisfactory to Merchant and Purchaser. At the Sale Approval Hearing, Merchant shall  seek  entry of the Approval Order as the "Sale Order," as that  term  is  used  in the Bidding Procedures Order. The Approval Order shall, among other things:
+
+(a)  find  that:
+
+(i) this Agreement is in the best interest of Merchant, its estate and creditors, and other parties in interest
+
+(ii) the Parties  entered  into this Agreement in good faith pursuant to Section 363(m) of the Bankruptcy Code and without collusion as  described  in Section 363(n) of the Bankruptcy Code;
+
+3
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1  Filed   04/18/18  Page 5 of 60
+
+(iii) time is of the essence in  effectuating  this Agreement and  proceeding  with the GOB Sale at the Stores uninterrupted;
+
+(iv) Merchant's decisions to (a)  enter  into this Agreement and (b)  perform  its obligations under this Agreement are a reasonable exercise of Merchant's sound business judgment consistent with its fiduciary duties and is in the best interests of Merchant, its estate, its creditors, and other parties in interest; and
+
+(v) this Agreement was  negotiated  in good faith and at arms' length and Purchaser is  entitled  to the protection of section 363(m) and 364(e) of the Bankruptcy Code; and
+
+(b) order,  adjudge  , and decree that:
+
+(i) this Agreement and all of the transactions  contemplated  hereby are  approved  in their entirety;
+
+(ii) the Parties are  authorized  to  continue  to  take  any and all actions as may be necessary or desirable to  implement  this Agreement and each of the transactions  contemplated  hereby;
+
+(iii)  following  the occurrence of the closing under this Agreement, which shall  occur  no later than  April 19, 2018  (the "Closing"), subject to payment of the Cash Purchase Price (as  defined  below) and Purchaser's compliance with its other obligations hereunder, Agent shall have the exclusive right to market and  sell  , and/or otherwise  designate  the purchasers, licensees, and/or  assignees  of, any or all of the Assets free and clear of all liens, claims, and encumbrances thereon without further order of the Bankruptcy Court;
+
+(iv) the sale, license, transfer, or other conveyance of any Assets (other than the Assets being  sold  pursuant to the GOB Sale, as to which no further notice shall be  required  )  reflected  in notices  filed  in the Bankruptcy Cases from time to time by the Agent, substantially in the form annexed hereto as Exhibit 2(b)(iv) (each an "Asset Designation Notice"), shall be automatically effective on the date  reflected  in the applicable Asset Designation Notice and subject to the satisfaction of any closing conditions  reflected  therein, and the sale or other conveyance of such Assets shall be free and clear of all liens, claims, and encumbrances without further order of the Bankruptcy Court,  provided  , however, that nothing in the Approval Order shall  inhibit  the ability of Agent to  seek  other or further orders of the Court in connection with the sale or other disposition of any Assets;
+
+(v) the form of Asset Designation Notice is  approved  ;
+
+4
+
+
+
+
+
+Case 18-10248- MFW Doc 632-1  Filed   04/18/18  Page 6 of 60
+
+(vi) subject to Agent's compliance with its payment obligations under this Agreement and the Approval Order, Agent is  authorized  to  execute  , in the name of and as agent for Merchant, any and all deeds, bills of sale, and other instruments or documents necessary to  effectuate  the sale, transfer, or other conveyance of any of the Assets;
+
+(vii)  following  the payment of the Cash Purchase Price but subject to Agent's obligation to  pay  Expenses and  fund  the Wind-Down Payment pursuant to the Wind-Down Budget (as  defined  below), all proceeds (cash or otherwise) of any of the Assets except as otherwise set forth in this Agreement ("Proceeds"),  including  but not limited to all Proceeds  arising  from the sale, lease, licensing, assignment, or other disposition of any of the Assets, shall be the sole property of Purchaser, and Purchaser shall be  entitled  to  retain  all Proceeds for its own account, subject to further distribution among the entities  comprising  Purchaser pursuant to any agreements between the entities  comprising  Purchaser and the Second Lien Noteholders;
+
+(viii) the Wind-Down / Expense Advance shall be  deemed   held  in escrow for the exclusive purpose of  paying  (1) Expenses (as  defined  below) and (2) administrative expenses and other amounts pursuant to and solely as  reflected  in the Wind-Down Budget ( provided  that such payments may be  made  from the Wind-Down / Expense Advance as and when due without further order of the Court or action by any Party), and shall not be  used  for any other purpose without the express  written  consent of Agent in its sole discretion;
+
+(ix)  following  the occurrence of the Closing, subject to Agent's obligation to  pay  Expenses and  fund  the Wind-Down Payment, Merchant and any trustee  appointed  in the Bankruptcy Cases or any successor cases  thereto  shall  hold  the Assets (other than the Assets being  sold  through the GOB Sale and the Wind-Down / Expense Advance) strictly in trust for the benefit of Purchaser and, as such, the Assets shall not  constitute  property of Merchant's bankruptcy estate pursuant to and consistent with 11 U.S.C. Â§ 541(b)(1) at any time  following  the Closing;
+
+(x)  following  the payment of the Cash Purchase Price but subject to Agent's obligation to  pay  Expenses and  fund  the Wind-Down Payment, any Proceeds  received  by, or otherwise in the possession of, Merchant at any time shall be  segregated  and  held  strictly in trust for the benefit of Purchaser, shall not be  commingled  with Merchant's own assets, and, as such, shall not  become  property of Merchant's bankruptcy estate pursuant to and consistent with 11 U.S.C.

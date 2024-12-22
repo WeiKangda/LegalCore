@@ -1,0 +1,136 @@
+
+Exhibit 10.4
+
+INTELLECTUAL PROPERTY AGREEMENT
+
+by and between
+
+Nuance Communications, Inc. and
+
+Cerence Inc.  {E1 Dated}  as of  September 30, 2019 
+
+Source: CERENCE INC., 8-K,  10/2/2019 
+
+
+
+
+
+TABLE OF CONTENTS Page ARTICLE I  DEFINITIONS  
+
+Section 1.01. Definitions 1
+
+ARTICLE II RECORDATION OF INTELLECTUAL PROPERTY RIGHTS ASSIGNMENT AGREEMENTS
+
+Section 2.01. Intellectual Property Assignment Agreements 5 Section 2.02. Recordation 5 Section 2.03. Security Interests 5
+
+ARTICLE III LICENSES AND COVENANTS FROM NUANCE TO SPINCO
+
+Section 3.01. License Grants 6 Section 3.02. Other Covenants 7
+
+ARTICLE IV LICENSES AND COVENANTS FROM SPINCO TO NUANCE
+
+Section 4.01. License Grants 8 Section 4.02. Other Covenants 9
+
+ARTICLE V ADDITIONAL INTELLECTUAL PROPERTY  {E2 RELATED}  MATTERS
+
+Section 5.01. Ownership 10 Section 5.02. Assignments and Licenses 10 Section 5.03. No Implied Rights 10 Section 5.04. No Obligation To  {E3 Prosecute}  or  {E4 Maintain}  Patents 10 Section 5.05. No Technical Assistance 10 Section 5.06. Group Members 10
+
+ARTICLE VI CONFIDENTIAL  INFORMATION  
+
+Section 6.01. Confidentiality 10 Section 6.02. Disclosure of Confidential Technical Information 11 Section 6.03. Compulsory Disclosure of Confidential Technical Information 11
+
+ARTICLE VII LIMITATION OF LIABILITY AND WARRANTY DISCLAIMER i
+
+Source: CERENCE INC., 8-K,  10/2/2019 
+
+
+
+
+
+Section 7.01. Limitation on Liability 11 Section 7.02. Disclaimer of Representations and Warranties 11
+
+ARTICLE VIII TRANSFERABILITY AND ASSIGNMENT
+
+Section 8.01. No Assignment or Transfer Without Consent 12 Section 8.02. Divested Businesses 12
+
+ARTICLE IX TERMINATION
+
+Section 9.01. Termination by Both Parties 13 Section 9.02. Termination prior to the Distribution 13 Section 9.03. Effect of Termination; Survival 13
+
+ARTICLE X FURTHER ASSURANCES
+
+Section 10.01. Further Assurances 13
+
+ARTICLE XI MISCELLANEOUS
+
+Section 11.01. Counterparts; Entire Agreement; Corporate Power 14 Section 11.02. Dispute Resolution 14 Section 11.03. Governing Law; Jurisdiction 15 Section 11.04. Waiver of Jury Trial 15 Section 11.05. Court-Ordered Interim Relief 15 Section 11.06. Specific Performance 16 Section 11.07. Third-Party Beneficiaries 16 Section 11.08. Notices 16 Section 11.09. Import and Export Control 17 Section 11.10. Bankruptcy 17 Section 11.11. Severability 18 Section 11.12. Expenses 18 Section 11.13. Headings 18 Section 11.14. Survival of Covenants 18 Section 11.15. Waivers of Default 18 Section 11.16. Amendments 18 Section 11.17. Interpretation 19 SCHEDULE A - Fields of Use SCHEDULE B - Nuance Data SCHEDULE C - SpinCo Data SCHEDULE D - SpinCo Patents SCHEDULE E -  SpinCo  IDs SCHEDULE F - SpinCo Trademarks  ii  
+
+Source: CERENCE INC., 8-K,  10/2/2019 
+
+
+
+
+
+SCHEDULE G - SpinCo Domain Names SCHEDULE H - Technology Assets SCHEDULE I - OEM Technology
+
+EXHIBIT A1 - Patent Assignment Agreement EXHIBIT A2 - Trademark Assignment Agreement EXHIBIT A3 - Domain Name Assignment Agreement EXHIBIT A4 - Invention Disclosure Assignment Agreement iii
+
+Source: CERENCE INC., 8-K,  10/2/2019 
+
+
+
+
+
+INTELLECTUAL PROPERTY AGREEMENT,  {E5 dated}  as of  September 30, 2019  (this "Agreement"), by and between NUANCE COMMUNICATIONS, INC., a Delaware corporation ("Nuance"), and CERENCE INC., a Delaware corporation ("SpinCo"). RECITALS
+
+WHEREAS, in connection with the contemplated Spin-Off of SpinCo and concurrently with the {E119 execution} of this Agreement, Nuance and SpinCo are  {E6 entering}  into a Separation and Distribution Agreement (the "Separation Agreement");
+
+WHEREAS, pursuant to the Separation Agreement and the other Ancillary Agreements, as of the Distribution  Date  , the Nuance IP has been  {E7 allocated}  to the Nuance Group and the SpinCo IP has been  {E8 allocated}  to the SpinCo Group;
+
+WHEREAS, the Parties  {E9 wish}  to  {E10 record}  the {E120 transfers} of any registrations or applications of Nuance IP and SpinCo IP, as applicable, to the extent the ownership thereof has  {E11 transferred}  from a member of the Nuance Group to a member of the SpinCo Group, or vice versa, pursuant to the Separation Agreement or any other Ancillary Agreement;
+
+WHEREAS, pursuant to the Separation Agreement and the other Ancillary Agreements, as of the Distribution  Date  , the Nuance IP  {E12 allocated}  to the Nuance Group  {E13 includes}  the Nuance Patents, the Nuance Shared Technology Assets and the Nuance Data, and the SpinCo IP  {E14 allocated}  to the SpinCo Group  {E15 includes}  the SpinCo Patents, the SpinCo Shared Technology Assets and the SpinCo Data;
+
+WHEREAS, it is the intent of the Parties that Nuance  {E16 grant}  a license to SpinCo under the Nuance Patents and the Nuance Shared Technology Assets, and  {E17 provide}  certain rights or {E121 services} to the SpinCo Group with respect to the Nuance Data, in each case for the SpinCo Field of {E122 Use}, subject to the terms and conditions set forth in this Agreement; and
+
+WHEREAS, it is the intent of the Parties that SpinCo  {E18 grant}  a license to Nuance under the SpinCo Patents and the SpinCo Shared Technology Assets, and  {E19 provide}  certain rights or {E123 services} to the Nuance Group with respect to certain of the SpinCo Data, in each case for the Nuance Field of {E124 Use}, subject to the terms and conditions set forth in this Agreement. NOW, THEREFORE, in consideration of the mutual agreements, provisions and covenants  {E20 contained}  in this Agreement, the Parties,  {E21 intending}  to be legally  {E22 bound}  , hereby  {E23 agree}  as  follows  :
+
+ARTICLE I  DEFINITIONS  
+
+Section 1.01. Definitions. As  {E24 used}  in this Agreement, the  following  terms have the meanings set forth below and herein, and the terms  {E25 defined}  in Schedules shall have the meanings set forth therein. Capitalized terms  {E26 used}  , but not  {E27 defined}  in this Agreement shall have the meanings  {E28 ascribed}  to such terms in the Separation Agreement or any other Ancillary Agreement, as applicable. Source: CERENCE INC., 8-K,  10/2/2019 
+
+
+
+
+
+"Bankruptcy Code" has the meaning set forth in Section 11.10. "Confidential Technical Information" means, with respect to each Disclosing Party, any confidential Data, Trade Secrets or Technology source code within the Nuance IP or  SpinCo  IP, as applicable, that is in the Receiving Party's possession or that the Receiving Party obtains pursuant to the terms of this Agreement, together with any tangible or electronic expressions or embodiments thereof;  {E29 provided}  , that "Confidential Technical Information" shall not  {E30 include}  information that is or was (i) publicly  {E31 known}  at the time of {E125 disclosure} or thereafter without any {E127 breach} of this Agreement by the Receiving Party or its Group or (ii) subsequently  {E32 made}  known to the Receiving Party or its Group from a source unconnected with either Party or its Group. "Copyrights" means copyrights, works of authorship ( {E33 including}  all translations, adaptations, derivations and combinations thereof),  {E34 mask}  works, designs and database rights,  {E35 including}  , in each case, any registrations and applications therefor. "Data" means all data, databases and collections and compilations of data, in any form or medium. "Disclosing Party" means each Party in its capacity as the discloser of Confidential Technical Information, as applicable. "Divested Entity" has the meaning set forth in Section 8.02. "Domain Name Assignment Agreement" has the meaning set forth in Section 2.01. "Domain Names" means Internet domain names,  {E36 including}  top level domain names and global top level domain names, URLs, social media identifiers, handles and tags. "Intellectual Property Assignment Agreements" has the meaning set forth in Section 2.01. "Intellectual Property Rights" or "IPR" means any and all intellectual property rights  {E37 existing}  anywhere in the world  {E38 associated}  with any and all (i) Patents, (ii) Trademarks, (iii) Copyrights, (iv) Domain Names, (v) rights in Technology, (vi) rights in Trade Secrets, (vii) rights in Data, (viii) all tangible embodiments of the foregoing in whatever form or medium and (ix) any other legal protections and rights  {E39 related}  to any of the foregoing. "Intellectual Property Rights" specifically  {E40 excludes}  contractual rights ( {E41 including}  license grants from third parties). "Invention Disclosure Assignment Agreement" has the meaning set forth in Section 2.01. "Nuance Data" means any Data that is (i)  {E42 owned}  by a Third Party and  {E43 licensed}  to the Nuance Group as of immediately prior to the {E129 Distribution} pursuant to a Nuance Data Agreement or (ii)  {E44 owned}  by the Nuance Group as of immediately prior to the {E129 Distribution} but subject to a Nuance Data Agreement, in each case (i) and (ii), which Data is  {E45 used}  in the SpinCo Business as of immediately prior to the {E129 Distribution}. 2
+
+Source: CERENCE INC., 8-K,  10/2/2019 
+
+
+
+
+
+"Nuance Data Agreement" means each Contract  {E46 identified}  in Schedule B. "Nuance Field of {E131 Use}" has the meaning set forth in Schedule A. "Nuance IP" means all Intellectual Property Rights  {E47 owned}  by the Nuance Group or the SpinCo Group as of immediately prior to the Distribution, other than the SpinCo IP. "Nuance Patents" means all Patents  {E48 included}  within the Nuance IP. "Nuance Shared Technology Assets" means (i) the Nuance Technology Assets  {E49 identified}  on Schedule H-2 and (ii) any other Nuance Technology Assets not  {E50 identified}  on Schedule H-2 that are  {E51 used}  in the SpinCo Business as of immediately prior to the {E129 Distribution};  {E52 provided}  that the "Nuance Shared Technology Assets"  {E53 exclude}  any OEM Technology. "Nuance Technology Assets" means all of the Technology  {E54 owned}  by the Nuance Group or the SpinCo Group as of immediately prior to the {E129 Distribution},  {E55 excluding}  the SpinCo Technology Assets. For the avoidance of doubt, the "Nuance Technology Assets"  {E56 include}  the Technology  {E57 identified}  on Schedule H-1. "Nuance Trademarks" means the Trademarks  {E58 included}  in the Nuance IP. "OEM Technology" means the Technology  {E59 identified}  on Schedule I, each of which shall be subject to a separate agreement. "Party" means either party hereto, and "Parties" means both parties  hereto  . "Patent Assignment Agreement" has the meaning set forth in Section 2.01. "Patents" means patents ( {E60 including}  all {E134 reissues}, {E135 divisionals}, {E136 continuations}, {E137 continuations-in-part}, {E138 reexaminations}, supplemental {E139 examinations}, inter partes  {E61 review}  , post-grant {E140 oppositions},  {E62 covered}  business methods {E141 reviews}, {E142 substitutions} and {E143 extensions} thereof), patent {E144 registrations} and {E145 applications},  {E63 including}  provisional {E146 applications}, statutory invention {E147 registrations}, invention {E148 disclosures} and {E149 inventions}. "Permitted Recipients" has the meaning set forth in Section 6.02. " Receiving  Party" means each Party in its capacity as the recipient of Confidential Technical Information, as applicable. "Software" means any and all (i) computer programs and applications,  {E64 including}  any and all software {E150 implementations} of algorithms, models and methodologies, whether in source code,  object  code, human readable form or other form,  {E65 including}   {E66 operating}  software, network software, firmware, middleware, design software, design tools, ASP, HTML, DHTML, SHTML and XML files, cgi and other scripts, APIs and web widgets, (ii) descriptions,  {E67 flow}  charts and other work product  {E68 used}  to  {E69 design}  ,  {E70 plan}  ,  {E71 organize}  and  {E72 develop}  any of the foregoing, screens, user interfaces, report formats, firmware, development tools, templates, menus, buttons and icons, (iii) all documentation  {E73 including}  user manuals and other training documentation  {E74 related}  to any of the foregoing and (iv) all tangible embodiments of the foregoing in whatever 3
+
+Source: CERENCE INC., 8-K,  10/2/2019 
+
+
+
+
+
+form or medium  now   {E75 known}  or yet to be  {E76 created}  ,  {E77 including}  all disks, diskettes and tapes;  {E78 provided}  , that "Software"  does  not  {E79 include}  Data. "SpinCo Copyrights" means unregistered Copyrights that are  {E80 owned}  by the Nuance Group or the SpinCo Group and exclusively related to the SpinCo Business as of immediately prior to the {E129 Distribution};  {E81 provided}  , that the "SpinCo Copyrights"  do  not  {E82 include}  any Technology or SpinCo Data. "SpinCo Data" means any Data that is (i)  {E83 owned}  by a Third Party and  {E84 licensed}  to the Nuance Group or SpinCo Group as of immediately prior to the {E129 Distribution} pursuant to a SpinCo Data Agreement or (ii)  {E85 owned}  by the Nuance Group or SpinCo Group as of immediately prior to the {E129 Distribution} but subject to a SpinCo Data Agreement and (iii) Data  {E86 owned}  by the Nuance Group or SpinCo Group and exclusively related to the SpinCo Business as of immediately prior to the {E129 Distribution}. "SpinCo Data Agreement" means each Contract  {E87 identified}  in Schedule C. "SpinCo Domain Names" means the Domain Names  {E88 identified}  on Schedule G, in each case  {E89 excluding}  any Trademarks  {E90 containing}  "Nuance" or any transliteration or translation thereof or any version of the "Nuance and Design" logo. "SpinCo Field of {E155 Use}" has the meaning set forth in Schedule A. "SpinCo {E157 IDs}" means the {E157 invention disclosures}  {E91 identified}  on Schedule E. "SpinCo IP" means (i) the SpinCo Patents, (ii) the SpinCo Copyrights, (iii) the SpinCo Domain Names, (iv) the SpinCo Trade Secrets, (v) the SpinCo Trademarks, (vi) the SpinCo {E157 IDs}, (vii) the SpinCo Technology Assets and (viii) the SpinCo Data. "SpinCo Patents" means the Patents  {E92 identified}  on Schedule D. "SpinCo Shared Technology Assets" means the SpinCo Technology Assets  {E93 identified}  on Schedule H-4. For the avoidance of doubt, the "SpinCo Shared Technology Assets"  {E94 exclude}  any OEM Technology. "SpinCo Technology Assets" means the Technology  {E95 identified}  on Schedule H-3. "SpinCo Trade Secrets" means the Trade Secrets  {E96 known}  to the Parties that are  {E97 owned}  by the Nuance Group or SpinCo Group and exclusively related to the SpinCo Business as of immediately prior to the {E129 Distribution};  {E98 provided}  , that the "SpinCo Trade Secrets"  do  not  {E99 include}  any Technology or SpinCo Data. "SpinCo Trademarks" means the Trademarks  {E100 identified}  on Schedule F. "Technology" means Software, technical documentation, specifications, schematics, designs, user interfaces, test reports, bills of material,  {E101 build}  instructions, lab notebooks, prototypes, samples, programs, routines, subroutines, tools, materials, apparatus, and all recordings, graphs, drawings, reports, analyses, other writings, disks, diskettes and tapes, 4
+
+Source: CERENCE INC., 8-K,  10/2/2019 
+
+
+
+
+
+together with all Intellectual Property Rights (other than Patents and Trademarks) in the foregoing. "Third Party" means any Person ( {E102 including}  any Governmental Authority) who is not a member of the Nuance Group or the SpinCo Group. "Trade Secrets" means all information, in any form or medium, to the extent that the owner thereof has  {E103 taken}  reasonable measures to  {E104 keep}  such information secret and the information  {E105 derives}  independent economic value, actual or potential, from not being generally  {E106 known}  to, and not being readily ascertainable through proper means by, the public. "Trademark Assignment Agreement" has the meaning set forth in Section 2.01. "Trademarks" means trademarks, service marks, trade names, logos, slogans, trade dress or other source identifiers,  {E107 including}  any registration or any application for registration therefor, together with all goodwill  {E108 associated}  therewith. ARTICLE II RECORDATION OF INTELLECTUAL PROPERTY RIGHTS ASSIGNMENT AGREEMENTS
+
+Section 2.01. Intellectual Property Assignment Agreements. In order to  {E109 carry}  out the intent of the Parties with respect to the {E166 recordation} of the {E161 transfers} of any registrations or applications of Nuance IP or  SpinCo  IP, as applicable, to the extent the ownership thereof has  {E110 transferred}  from a member of the Nuance Group to a member of the SpinCo Group, or vice versa, pursuant to the Separation Agreement or any other Ancillary Agreement, the Parties shall  {E111 execute}  intellectual property {E162 assignments} in a form substantially similar to that  {E112 attached}  as Exhibit A1 (the "Patent Assignment Agreement"), Exhibit A2 (the "Trademark Assignment Agreement"), Exhibit A3 (the "Domain Name Assignment Agreement") and Exhibit A4 (the "Invention Disclosure Assignment Agreement") as well as such additional case specific {E163 assignments} as  {E113 deemed}  appropriate or necessary under applicable Laws (collectively, the "Intellectual Property Assignment Agreements") for {E166 recordation} with the appropriate Governmental Authority. Section 2.02. Recordation. The relevant assignee Party shall have the sole responsibility, at its sole cost and expense, to  {E114 file}  the Intellectual Property Assignment Agreements and any other forms or documents with the appropriate Governmental Authorities as  {E115 required}  to  {E166 record}  the {E165 transfer} of any registrations or applications of Nuance IP or SpinCo IP that is  {E117 allocated}  under the Separation Agreement, as applicable, and the relevant assignor Party hereby  {E118 consents}  to such {E166 recordation}. Section 2.03. Security Interests.
+
+
+
+

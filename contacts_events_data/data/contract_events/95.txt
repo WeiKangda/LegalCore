@@ -1,0 +1,122 @@
+
+Exhibit 10.43
+
+This is a translation of the original Chinese text
+
+Contract No.: 151315UD0081
+
+Cooperation Agreement
+
+Party A: Beike Internet (Beijing) Security Technology Co., Ltd. Party B: Baidu Online Network Technology (Beijing) Co., Ltd.  April 2013    1
+
+
+
+
+
+This Cooperation Agreement is  executed  by and between the parties below in Haidian District, Beijing, the People's Republic of China (hereinafter  referred  to as "PRC"):
+
+Party A: Beike Internet Security Technology Co., Ltd. Address: Room 2101, 12/F, Fuxing International Center, No.237, North Chaoyang Road, Chaoyang District, Beijing. Attention:
+
+Tel:
+
+E-mail:
+
+Postcode:
+
+Bank account:
+
+Account No.:
+
+Party B: Baidu Online Network Technology (Beijing) Co., Ltd. Address: No.10, Shangdi Shi Jie, Haidian District, Beijing
+
+Attention:
+
+Tel:
+
+E-mail:
+
+Postcode:
+
+Whereas,
+
+1. Party A  owns  the Kingsoft internet site navigation website and the Cheetah Brower software (hereinafter  referred  to as Party A's Product). Website: 123.duba.net and www.duba.com. Party A has  opened  an account with Baidu Union website (http://union.baidu.com) and the account name is   (translation: "Kingsoft Cheetah") and ksbrowser and is willing to  comply  with the terms of Baidu Union Membership Registration Agreement (http://union.baidu.com/regAgreement.html). 2. Party B is a  leading  network technology company in the field of search engine. 3. The parties  wish  to  collaborate  with each other  leveraging  their respective strengths. Therefore, the parties  agree  :   2
+
+
+
+
+
+Chapter 1 Definitions and Interpretations
+
+1.1 Definitions
+
+Except as otherwise  defined  in the context hereof, the terms shall have the  following   designated  meanings:
+
+  1.1.1 PRC Laws: means any present and future  promulgated  laws, regulations, decrees and  binding  policies in PRC. 1.1.2 Trade Secrets: means any technology, financial, business or any other information  owned  by either party and / or its subsidiary oraffiliate and  protected  as trade secrets. 1.1.3 Effective  Date  : means the  date  on which this agreement is  executed  . 1.1.4 Force Majeure: means any event which is not reasonably controllable, foreseeable or avoidable even if foreseeable by the parties, which  makes  it impossible for either party to  perform  the whole or part of its obligations pursuant to this Agreement. Such event  includes  without limitation governmental actions, earthquakes, typhoon, flood, fire or any other natural disaster, wars or any other similar event. In respect of the special nature of the internet, Force Majeure also  includes  the  following  events which  influence  the normal operation of the internet: 1) hacker attacks; 2) material influence of the technical adjustments of the telecommunications department except for losses of one party  resulting  from its own mismanagement; 3) temporary suspension  caused  by governmental control, except for the governmental control on one party  resulting  from its own misconduct; 4) virus attacks. 1.1.5 Baidu website: means www.baidu.com. 1.1.6 Cooperation  Term  : means the  term  set forth in Chapter 3 hereof. 1.1.7 Actual revenues: means the revenues payable by Party B to Party A  based  on the amount of search traffic  generated  by Party A's website for Party B, less Party B's related costs and legal taxes and charges. The search traffic  generated  by Party A for Party B, which  forms  the basis for  calculating  the actual revenues, shall be  determined  by Party B  based  on its statistical data. 1.2 Interpretations
+
+1.2.1 The  date  hereof shall mean the calendar  day  , the business  day  hereof shall mean the work  day  other than public holidays in PRC, and the  month  hereof shall mean the calendar  month  . 3
+
+
+
+
+
+1.2.2 The headings hereof is for inference only and shall not otherwise  affect  the meaning and construction of any other part of this Agreement. 1.2.3 If  needed  in the context, use of plurals shall  include  its singulars, and vice versa. 1.2.4 All references to chapters, provisions and paragraphs shall mean the chapters, provisions and paragraphs herein. Chapter 2 Representations and Warranties
+
+2.1 Legal Status
+
+Either party  represents  and warrants from the  date  hereof:
+
+2.1.1 It has the qualification to  conduct  the transaction hereunder and such transaction is in compliance with the business scope;
+
+2.1.2 It is eligible to  enter  into this Agreement and  perform  the obligations hereunder. 2.1.3 Its authorized representative has adequate authorization to  execute  this Agreement on its behalf (a copy of the authorization letter shall be  delivered  to the other party for record). 2.1.4 To its knowledge, it has  disclosed  all documents which may have a material adverse impact on its performance of obligations hereunder which are  issued  by the governmental agencies in the registered place or business place and  known  to it; and it is not the subject of any insolvency, dissolution or bankruptcy procedures. 2.2 Legal Effect
+
+2.2.1 From the Effective  Date  , this Agreement is legally  binding  on each party. 2.2.2 Either Party warrants that the execution and performance hereof as well as the business transactions  contemplated  hereof will not  violate  any PRC Laws in any respects. Chapter 3 Cooperation  Term  
+
+3.1 Cooperation  Term  
+
+The Cooperation  Term  of the parties shall be  two years  from  May 1, 2013  to  April 30, 2015 .  One month  prior to the expiry of the Cooperation  Term  , the parties may further  negotiate  the cooperation forms, if  fails  , this Agreement will be  terminated  upon expiry. 3.1.1 This Agreement is effective on the  day  of  May 1, 2013  and the effective  term  is the same as the Cooperation  Term  . The contracts of which the Parry A contract No. are KIS-Y-BJ120195 and KIS-Y-BJ120196 (Party B contract No. are 151215UD0118, 151215UD0119) are  terminated  on  April 30, 2013 . 4
+
+
+
+
+
+Chapter 4 Liabilities of the Parties
+
+4.1 Details of Cooperation
+
+The parties  use  their respective strengths to  cooperate  on internet searches, and during the effective Cooperation  Term  , the parties are collaborative partners. The parties have complementary advantages in the aspects of information usage, promotion, marketing, technical support and services, and  now   form  a strategic alliance to  develop  their respective businesses. 4.2 Party A's Obligations
+
+
+
+4.2.1 Party A  imports  the search results  provided  by Party B to the search function in the Party A's Product by  connecting  its Product to the technical port  provided  by Party B. Party A shall also  cooperate  with Party B to  market  Baidu promotion services through the use of search engine. In other words, it is a technical service in which Party B  displays  the website of Party B's clients on the relevant page of Baidu website and/or on the pages and / or interfaces of any other Baidu union members. 4.2.2 Party A will  display  Party B's "search engine box" in the first screen of the homepage of "Kingsoft Navigation" website, and  imports  the search results  provided  by Party B to the search function in the Party A's Product by  connecting  its Product to the technical port  provided  by Party B. Party A shall also  cooperate  with Party B to  market  Baidu promotion services through the use of search engine. In other words, it is a technical service in which Party B  displays  the website of Party B's clients on the relevant page of Baidu website and/or on the pages and/or interfaces of any other Baidu union members. The form of "search engine box" is  attached  as Annex 2. Without Party B's confirmation in writing or via email, Party A shall not  change  the form, or otherwise Party A will be  deemed  to  breach  this Agreement. 4.2.3 Party A shall not  put  the Party B's search engine service on any other website, or  change  the codes which are  used  to  import  the search engine service of Party B. Party A's website(s) that  correspond  to Party B's codes are set forth in Annex 2. If Party A  needs  to  add  any website(s) or  change  the codes, it shall  obtain  the confirmation from Party B in writing or via email, or otherwise Party A will be  deemed  to  breach  this Agreement. 4.2.4 When Party A  promotes  websites by means of software installation, Party A  needs  to  determine  the homepage of the software users' browsers. In the event that the homepage of the software users' browsers is *.baidu.com or *.hao123.com, Party A shall not  change  the homepage of the users' browsers by means of the software being  installed  . 5
+
+
+
+
+
+  4.2.5 During the cooperation between the parties, Party A  agrees  not to  enter  into any form of cooperation with Qihoo 360, unless PartyA  needs  such cooperation with Qihoo 360 for business or technology and Party B has  provided  its prior consent. 4.2.6 Party A  covenants  that during the Cooperation  Term  , it will  list  Party B's search engine service as one of its search engine services, of which "Cheetah Browser" will  list  Party B's search engine service as the default search engine service. In the event that Party A breaches this covenant, Party B shall have the right to  terminate  this Agreement at any time and shall not  pay  any share of profits to Party A. 4.2.7 During the cooperation, Party A shall  form  a team  composed  of  specialized  personnel to  carry  out the related work so as to  ensurethe  smooth cooperation between the parties. 4.2.8 Party A shall not  change  the related functions and contents inherent to Party B's search engine box. If a change is necessray,consent shall first be  obtained  from Party B. 4.2.9 Party A shall not  assign  to any third party the functions and contents  used  in the website column(s) that are  made  the subject matter of this cooperation agreement. In addition, Party A shall not  use  the functions and information  provided  by Party B to  carry  out any commercial activities.  4.2.10  Party A undertakes to  comply  with the Business Cooperation Standard of Baidu Union  published  in http://union.baidu.com/regAgreement.html ( see  Annex 3), or otherwise Party A will be  deemed  to  breach  this Agreement. Party A also  agrees  to  participate  in the "Blue Sky 365" Action Plan and  comply  with Blue Sky 365 Action Plan Regulations ( see  Annex 4).  4.2.11  Party A warrants that it legally  owns  or otherwise  holds  the valid license to the intellectual property  relating  to the services or products  provided  pursuant to this agreement. Any disputes  resulting  from the Party A's technology or intellectual property shall be  handled  by Party A; any losses and costs of Party B  resulting  from the deficiency of Party A's services or products shall be  borne  by Party A. Party B has the discretion to  terminate  this Agreement from time to time in the event that (i) Party A has no legal right in respect of the services or products  provided  or, (ii) the services or products  provided  by Party A lead to any legal dispute or proceedings with third parties. 6
+
+
+
+
+
+4.3 Party B's Obligations
+
+  4.3.1 Upon the effectiveness of this Agreement, Party B shall  form  a team  composed  of  specialized  personnel to  carry  out for the relatedwork so as to  ensure  the smooth cooperation between the parties. 4.3.2 Party B shall not  publish  any contents other than  agreed  hereof in the Party A's website column(s) that are  made  the subject matter of this cooperation agreement. In the event that Party B  breaches  this covenant, Party A has the right to  terminate  this Agreement at any time and  require  Party B to  pay  30% of Party A's share of revenues as  liquidated  damages. 4.3.3 Party B will  provide  to Party A an account which will timely  return  the  visiting  traffic data for Party A's easy inquiry. At the same time, Party B  ensures  the completion, accuracy and truth of the  visiting  traffic data. If Party A  finds  the  visiting  traffic data abnormal, Party B shall  issue  a  written  explanation, and the actual revenues  generated  from the questionable traffic shall not be  settled  until there was a final confirmation. 4.3.4 Party B warrants that it legally  owns  or otherwise  holds  a valid license to the intellectual property  relating  to the services or products  provided  pursuant to this agreement. Any disputes  resulting  from the Party B's technology or intellectual property shall be  handled  by Party B; any losses and costs of Party A  resulting  from the deficiency of Party B's services or products shall be  borne  by Party B. 4.3.5 Party B has the right to  penalize  any acts of Party A , in whatever form,  carried  out in contravention with Party B's union cooperation policies. The penalties may  include  =the immediate suspension of Party A's account, termination of this Agreement, and  taking  any applicable civil or criminal remedial actions against fraud and any other legal causes. Party B shall have the right to final interpretation of this provision. 4.3.6 Party B  retains  the right to  adjust  the public price of the service and the service content,  including  but not limited to  adding  or  reducing  the service items, and  raising  or  lowering  the prices. In the event that Party B  wishes  to  carry  on such adjustment, it shall  notify  Party A in writing  two weeks  in advance. If Party A objects to such adjustment, it has the right to  notify  Party B to  terminate  this Agreement in writing within  2 weeks  upon receipt of the notification. Within 3 working days upon termination of this Agreement, Party B shall  settle  with Party A. Failure to  exercise  such termination right is  deemed  that Party A  agrees  the adjustment of Party B. 4.3.7 With respect to the cooperation hereof, Party B has the discretion to  assign  to its affiliates all or part of its obligations hereunder without  breaching  this agreement. Party B's affiliates mean Party B's parent companies at different levels as well as the companies,  owned  or  controlled  , directly or indirectly, by the Party B's parent companies at different levels. 7
+
+
+
+
+
+4.4 Exemption of Liabilities With Respect to the Search Engine (by Party B)
+
+ See  Annex 1. The Parties  agree  that the exemption of liabilities in the annex is applicable to the transactions hereunder. Within the scope of exemption clause, Party B and its affiliates are not liable for any compensation or any other liabilities. Chapter 5 Information Content Cooperation
+
+5.1 The parties shall  arrange  an employee to be responsible for the coordination work so as to  ensure  the regular update and maintenance. 5.2 Fees
+
+  5.2.1 The parties will not  charge  each other any fees for the shared information content. Unless otherwise  agreed  hereof, the  feesincurred  shall be  borne  by each party respectively. 5.2.2 The Actual Revenues of the parties  arising  from the Baidu promotion services in the search results pages shall be dividedproportionately, and Party A shall  bear  the taxes payable on its own share of revenues:
+
+  (1) The address bar, search bar, homepage/blank page of Cheetah Browser shall  use  Baidu Search as default search engineservice;
+
+  (2) The default traffic shall mean the default traffic of the website address site and the traffic of the Cheetah Browser;
+
+  (3) The  monthly  average daily non-default traffic shall not  exceed  the default traffic.

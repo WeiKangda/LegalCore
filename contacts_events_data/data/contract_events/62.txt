@@ -1,0 +1,244 @@
+
+Exhibit 10.17
+
+INTELLECTUAL PROPERTY AGREEMENT
+
+between
+
+THE BABCOCK & WILCOX COMPANY
+
+and
+
+BABCOCK & WILCOX ENTERPRISES, INC.  dated  as of
+
+ June 26, 2015 
+
+
+
+
+
+TABLE OF CONTENTS   ARTICLE I   DEFINITIONS     1
+
+  Section 1.1   Definitions     1
+
+  Section 1.2   Interpretation     4
+
+ARTICLE II   INTELLECTUAL PROPERTY ASSIGNMENT AND OWNERSHIP     5
+
+  Section 2.1   Reserved     5
+
+  Section 2.2   Reserved     5
+
+  Section 2.3   Assistance by Employees; Inventor Compensation     5
+
+  Section 2.4   Ownership     6
+
+  Section 2.5   Rights  Arising  in the Future     6
+
+  Section 2.6   Abandonment of Certain Intellectual Property     7
+
+  Section 2.7   Reserved     7
+
+  Section 2.8   Steam/Its Generation and Use     7
+
+ARTICLE III   TRADEMARKS     8
+
+  Section 3.1   House Marks     8
+
+  Section 3.2   Limited License to Use SpinCo House Marks     9
+
+  Section 3.3   Removal of Classes from SpinCo Marks    10
+
+  Section 3.4   RemainCo Marks    10
+
+  Section 3.5   Duty to  Avoid  Confusion    10
+
+ARTICLE IV   SHARED LIBRARY MATERIALS    11
+
+  Section 4.1    Shared  Library Materials    11
+
+  Section 4.2   Cross-License of Shared Library Materials    11
+
+  Section 4.3   Maintenance of Shared Library Materials    11
+
+  Section 4.4   Potential Allocation of Shared Library Materials    12
+
+  Section 4.5   Confidentiality and Trade Secret Status of Shared Library Materials    13
+
+  Section 4.6   Third Party Materials  Contained  in the Shared Library Materials    13
+
+ARTICLE V   INTELLECTUAL PROPERTY LICENSES AND COVENANTS    13
+
+  Section 5.1   Cross-License of Shared Know-How    13
+
+  Section 5.2   Reserved    14
+
+  Section 5.3    Reserved     14    i
+
+
+
+
+
+  Section 5.4   Cross-Licenses of Software    14
+
+  Section 5.5   Reserved    15
+
+  Section 5.6   Sublicensing; Assignability    15
+
+  Section 5.7   Restrictions on Licensor Exploitation of Intellectual Property    16
+
+  Section 5.8   Third Party Agreements; Reservation of Rights    16
+
+  Section 5.9   Maintenance of Intellectual Property    16
+
+  Section 5.10   Covenants    17
+
+ARTICLE VI   TECHNICAL ASSISTANCE AND TECHNOLOGY TRANSFER    17
+
+  Section 6.1   Reserved    17
+
+  Section 6.2    Reserved     17
+
+  Section 6.3   No Additional Technical Assistance    17
+
+ARTICLE VII   NO WARRANTIES    18
+
+ARTICLE VIII   THIRD-PARTY INFRINGEMENT    18
+
+  Section 8.1   No Obligation    18
+
+  Section 8.2   Notice Regarding Infringement    19
+
+  Section 8.3   Suits for Infringement    19
+
+ARTICLE IX   CONFIDENTIALITY    21
+
+ARTICLE X   MISCELLANEOUS    22
+
+  Section 10.1   Authority    22
+
+  Section 10.2   Entire Agreement    22
+
+  Section 10.3   Binding Effect; Third-Party Beneficiaries; Assignment    23
+
+  Section 10.4   Amendment    23
+
+  Section 10.5   Failure or  Indulgence  Not Waiver; Remedies Cumulative    23
+
+  Section 10.6   Notices    23
+
+  Section 10.7   Counterparts    23
+
+  Section 10.8   Severability    23
+
+  Section 10.9   Governing Law    24
+
+  Section 10.10   Construction    24
+
+  Section 10.11   Performance    24
+
+SCHEDULES   Schedule 1.1(e)   SpinCo Core Field; RemainCo Core Field Schedule 1.1(i)   Specific RemainCo Field; Specific SpinCo Field Schedule 1.1(o)   SpinCo House Marks Schedule 1.1(p)   RemainCo House Marks   ii
+
+
+
+
+
+Schedule 2.4(a)   RemainCo Ownership Schedule 2.4(b)   SpinCo Ownership Schedule 2.6   Abandonment of Certain Intellectual Property Schedule 3.1   SpinCo Trademarks  Schedule  3.3    Required  Actions and Filings Schedule 3.4   RemainCo Trademarks Schedule 4.1    Shared  Library Materials Schedule 4.4   Nuclear Design Materials Schedule 5.4(a)   Foundational Software   iii
+
+
+
+
+
+INTELLECTUAL PROPERTY AGREEMENT
+
+This INTELLECTUAL PROPERTY AGREEMENT (this "Agreement") is  entered  into as of  June 26, 2015  (the "Effective  Date  "), between The Babcock & Wilcox Company, a Delaware corporation, ("RemainCo") and Babcock & Wilcox Enterprises, Inc., a Delaware corporation ("SpinCo"). RemainCo and SpinCo are sometimes  referred  to herein individually as a "Party," and collectively as the "Parties." Capitalized terms  used  herein and not otherwise  defined  shall have the meanings  ascribed  to such terms in Article 1 hereof. RECITALS
+
+WHEREAS, SpinCo is a wholly  owned  Subsidiary of RemainCo;
+
+WHEREAS, the Board of Directors of RemainCo has  determined  that it would be appropriate and in the best interests of RemainCo and its stockholders for RemainCo to  separate  the SpinCo Business from the RemainCo Business;
+
+WHEREAS, in order to  effectuate  the foregoing, RemainCo and SpinCo have  entered  into a Master Separation Agreement,  dated  as of  June 8, 2015  (the "Master Separation Agreement"), which  provides  , among other things, upon the terms and subject to the conditions thereof, for the separation of the respective businesses of SpinCo and RemainCo and the Distribution, and the execution and delivery of certain other agreements,  including  this Agreement, in order to  facilitate  and  provide  for the foregoing;
+
+WHEREAS, it is the intent of the Parties, in order to  facilitate  the foregoing separation, in anticipation of the Distribution and in accordance with the Master Separation Agreement, that RemainCo  convey  to SpinCo certain Intellectual Property rights and licenses subject to the terms and conditions set forth in this Agreement; and
+
+WHEREAS, it is the intent of the Parties, in order to  facilitate  the foregoing separation, in anticipation of the Distribution and in accordance with the Master Separation Agreement, that SpinCo  convey  to  RemainCo  certain Intellectual Property rights and licenses subject to the terms and conditions set forth in this Agreement;
+
+NOW, THEREFORE, in consideration of the foregoing and the covenants and agreements set forth below and other good and valuable consideration, the receipt and sufficiency of which is hereby  acknowledged  , and  intending  to be legally  bound  hereby, the Parties hereby  agree  as  follows  :
+
+ARTICLE I
+
+ DEFINITIONS  
+
+Section 1.1 Definitions. Except for the terms  defined  below, the  capitalized  terms  used  in this Agreement shall have the meanings  ascribed  to them in Section 1.1 of the Master Separation Agreement:
+
+"Confidential Information" has the meaning set forth in Section 9.2. 1
+
+
+
+
+
+"Foundational Software" has the meaning set forth in Section 5.4(a). "Intellectual Property" means the rights associated with or arising out of any of the following in any jurisdiction throughout the world: (i) all patents and patent applications, together with all reissuances, divisionals, continuations, continuations-in-part, revisions, renewals, extensions, and reexaminations thereof, and any identified invention disclosures ("Patents"); (ii) trade secret rights and corresponding rights in confidential information and other non-public information (whether or not patentable), including ideas, formulas, compositions, inventor's notes, discoveries and improvements, know how, manufacturing and production processes and techniques, design manuals, testing information (including testing protocols and results), research and development information, prototypes, inventions, invention disclosures, unpatented blueprints, drawings, specifications, designs, plans, proposals and technical data, business and marketing plans, market surveys, market know-how and customer lists and information, including all tangible embodiments of the foregoing and unregistered copyrights ("Know-How"); (iii) all registered or unregistered copyrights, copyrightable works, rights in databases, data collections, "moral" rights, mask works, copyright registrations, applications and extensions therefor and corresponding rights in works of authorship ("Copyrights"); (iv) all trademarks, service marks, logos, trade dress and trade names indicating the source of goods or services, and other indicia of commercial source or origin (whether registered, common law, statutory or otherwise), all registrations and applications to register the foregoing anywhere in the world and all goodwill associated therewith ("Trademarks"); (v) all computer software and code, including assemblers, applets, compilers, source code, object code, development tools, design tools, utilities, library files, user interfaces and data, and all documentation and manuals related to such computer software and code in any form or format, however fixed ("Software"); (vi) all internet electronic addresses, uniform resource locators and alphanumeric designations associated therewith and all registrations for any of the foregoing ("Domain Names"); and (vii) any similar, corresponding or equivalent rights to any of the foregoing anywhere in the world. "IP Proceedings" has the meaning set forth in Section 2.3. "Licensed RemainCo Know-How" has the meaning set forth in Section 5.1(b). "Licensed SpinCo Know-How" has the meaning set forth in Section 5.1(a). "Licensed RemainCo Intellectual Property" means all Licensed RemainCo Know-How and, to the extent licensed by RemainCo hereunder, RemainCo's right, title and interest in and to Shared Library Materials and Foundational Software. "Licensed SpinCo Intellectual Property" means all Licensed SpinCo Know-How and, to the extent licensed by SpinCo hereunder, SpinCo's right, title and interest in and to Shared Library Materials and Foundational Software. "Master Separation Agreement" has the meaning set forth in the recitals. "Nuclear Design Materials" has the meaning set forth in Section 4.4. "Notifying Party" has the meaning set forth in Section 4.4. 2
+
+
+
+
+
+"RemainCo" has the meaning set forth in the recitals. "RemainCo Core Field" has the meaning set forth on Schedule 1.1(e). "RemainCo House Marks" means all Trademarks that incorporate "BWX," "BWX Technologies," or "BWXT," and any translations or derivatives thereof and any terms of a confusingly similar nature, and all goodwill embodied in the foregoing, including, without limitation, all Trademarks set forth on Schedule 1.1(p), but expressly excluding "Babcock," "Wilcox," "Babcock and Wilcox," "Babcock & Wilcox," B&W," or "B&W & HERO ENGINE DESIGN."
+
+"RemainCo Know-How" means all Know-How owned by RemainCo as of the Effective  Date  . "RemainCo Trademarks" has the meaning set forth in Section 3.4. "Reviewing Party" has the meaning set forth in Section 4.4. "Shared Library Materials" means (i) proprietary research reports, letter reports, photographs, micrographs or other materials recorded in a tangible, microfilm, microfiche, and/or electronic form or media, or a combination thereof, which may contain trade secrets, know-how, methods, techniques, formulas, drawings, sketches or other proprietary materials reduced to tangible form, and which were developed by and/or contained in the Research & Development Division library at the former Alliance Research Center in Alliance, Ohio ("Research Documents") and (ii) publicly available books, textbooks, reference manuals, periodicals, journals or other publications that were located at the Research & Development Division library at the former Alliance Research Center in Alliance, Ohio ("Reference Materials"), in each case which are presently stored in certain identified vaults and storage accounts maintained with Third Party vendor document retention vendor Iron Mountain. "Specific RemainCo Field" has the meaning set forth on Schedule 1.1(i). "Specific SpinCo Field" has the meaning set forth on Schedule 1.1(i). "SpinCo" has the meaning set forth in the recitals. "SpinCo Core Field" has the meaning set forth on Schedule 1.1(e). "SpinCo House Marks" means all Trademarks that incorporate "Babcock," "Wilcox," "Babcock and Wilcox," "Babcock & Wilcox," "B&W," or "B&W & HERO ENGINE DESIGN" and any translations or derivatives thereof and any terms of a confusingly similar nature, and all goodwill embodied in the foregoing, including, without limitation, all Trademarks set forth on Schedule 1.1(o), but expressly excluding "BWX Technologies," "BWXT" and "BWX". "SpinCo Know-How" means all Know-How owned by SpinCo as of the Effective  Date  . "SpinCo Trademarks" has the meaning set forth in Section 3.1(a). 3
+
+
+
+
+
+"Steam Book" has the meaning set forth in Section 2.8. Section 1.2 Interpretation. In this Agreement, unless the context clearly  indicates  otherwise:
+
+(a) words  used  in the singular  include  the plural and words  used  in the plural  include  the singular;
+
+(b) if a word or phrase is  defined  in this Agreement, its other grammatical forms, as  used  in this Agreement, shall have a corresponding meaning;
+
+(c) reference to any gender  includes  the other gender and the neuter;
+
+(d) the words " include  ," " includes  " and " including  " shall be  deemed  to be  followed  by the words "without limitation";
+
+(e) the words "shall" and "will" are  used  interchangeably and have the same meaning;
+
+(f) the word "or" shall have the inclusive meaning represented by the phrase "and/or";
+
+(g) relative to the determination of any period of time, "from" means "from and including," "to" means "to but excluding" and "through" means "through and including";
+
+(h) all references to a specific time of  day  in this Agreement shall be  based  upon Eastern Standard Time or Eastern Daylight Savings Time, as applicable, on the date in question;
+
+(i) whenever this Agreement  refers  to a number of  days  , such number shall  refer  to  calendar   days  unless Business Days are specified;
+
+(j) reference to any Article, Section or Schedule means such Article or Section of, or such Schedule to, this Agreement, as the case may be, and references in any Section or definition to any clause means such clause of such Section or definition;
+
+(k) the words "this Agreement," "herein," "hereunder," "hereof," "hereto" and words of similar import shall be  deemed  references to this Agreement as a whole and not to any particular Section or other provision of this Agreement;
+
+(l) the  term  "commercially reasonable efforts" means efforts which are commercially reasonable to enable a Party, directly or indirectly, to satisfy a condition to or otherwise assist in the consummation of a desired result and which do not require the performing Party to expend funds or assume Liabilities other than expenditures and Liabilities which are customary and reasonable in nature and amount in the context of a series of related transactions similar to the Separation;   4
+
+
+
+
+
+(m) reference to any agreement, instrument or other document means such agreement, instrument or other document as amended, supplemented and modified from time to time to the extent permitted by the provisions thereof and by this Agreement;
+
+(n) reference to any Law ( including  statutes and ordinances) means such Law (including any and all rules and regulations promulgated thereunder) as amended, modified, codified or reenacted, in whole or in part, and in effect at the time of determining compliance or applicability;
+
+(o) references to any Person  include  such Person's successors and assigns but, if applicable, only if such successors and assigns are  permitted  by this Agreement; a reference to such Person's "Affiliates" shall be  deemed  to mean such Person's Affiliates following the Distribution and any reference to a Third Party shall be deemed to mean a Person who is not a Party or an Affiliate of a Party;
+
+(p) if there is any conflict between the provisions of the main body of this Agreement and the Schedules hereto, the provisions of the main body of this Agreement shall  control  unless explicitly  stated  otherwise in such Schedule;
+
+(q) the titles to Articles and headings of Sections  contained  in this Agreement, in any Schedule and in the table of contents to this Agreement have been  inserted  for convenience of reference only and shall not be  deemed  to be a part of or to  affect  the meaning or interpretation of this Agreement; and
+
+(r) any portion of this Agreement  obligating  a Party to  take  any action or  refrain  from  taking  any action, as the case may be, shall mean that such Party shall also be obligated to cause its relevant Subsidiaries and Affiliates to take such action or refrain from taking such action, as the case may be. ARTICLE II
+
+INTELLECTUAL  PROPERTY  ASSIGNMENT AND OWNERSHIP
+
+Section 2.1  Reserved  . Section 2.2  Reserved  . Section 2.3 Assistance by Employees; Inventor Compensation. Each Party  agrees  that it shall  make  available to the other Party the services of its employees and contractors reasonably necessary to  assist  the other Party with the prosecution of, and other patent or trademark office proceedings (e.g., reissue, reexamination, interference, inter partes  review  , post-grant review, supplemental examination, and other similar proceedings)  regarding  the other Party's Patents, Trademarks and other Intellectual Property (collectively, "IP Proceedings"). Each Party  agrees  to reasonably  make  available to the other Party (i) inventors and other reasonably necessary persons  employed  by it for the other Party's reasonable needs  regarding  execution of documents, interviews, declarations and testimony, and (ii) documents, materials and information for the other Party's reasonable good faith needs  regarding  such IP Proceedings. The Party  involved  in the IP Proceedings shall be responsible for the actual and reasonable out-of-pocket expenses   5
+
+
+
+
+
+ associated  with such assistance, expressly  excluding  the value of the time of the other Party's personnel. Each Party will be responsible for  providing  inventor incentive compensation to its employees under its own internal policies.

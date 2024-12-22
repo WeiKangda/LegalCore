@@ -1,0 +1,150 @@
+
+Exhibit 10.14
+
+EXECUTION VERSION
+
+[***] Certain confidential information  contained  in this document,  marked  by brackets, has been  omitted  and  filed  separately with the Securities and Exchange Commission pursuant to Rule 406 of the Securities Act of  1933 , as  amended  . MASTER OPERATION AND MAINTENANCE AGREEMENT
+
+by and between
+
+DIAMOND STATE GENERATION PARTNERS, LLC
+
+and
+
+BLOOM ENERGY CORPORATION
+
+ dated  as of  April 13, 2012 
+
+Source: BLOOM ENERGY CORP, DRS/A (on S-1),  3/21/2018 
+
+
+
+
+
+TABLE OF CONTENTS Page
+
+ARTICLE 1 DEFINITIONS 2
+
+Section 1.1 Definitions 2 Section 1.2 Other Definitional Provisions 11
+
+ARTICLE 2 SYSTEM SERVICES 12
+
+Section 2.1 In General 12 Section 2.2 Operation and Maintenance Services 12 Section 2.3 Service Fees 13 Section 2.4 System Services Warranty 13 Section 2.5 System Service Warranty  Claims  13 Section 2.6 Performance Warranty 14 Section 2.7 Efficiency Warranty 14 Section 2.8 Gas Payment Shortfall 15 Section 2.9 Exclusions 15 Section 2.10 No Duplication of Terms 16 Section 2.11 Title 16 Section 2.12 Record-Keeping Documentation 16 Section 2.13 Remote Monitoring 17 Section 2.14  Permits  17 Section 2.15 Intentionally  deleted  17 Section 2.16 Performance Standards 17 Section 2.17 Rights to Deliverables 18 Section 2.18 Appointment of Service Provider 18 Section 2.19  Operating  Budget 18
+
+ARTICLE 3 TERM 18
+
+Section 3.1  Term  18
+
+ARTICLE 4 TERMINATION 19
+
+Section 4.1 Default 19 Section 4.2 Termination of Warranties 20 Section 4.3 Replacement of Agreement 20
+
+ARTICLE 5 DATA ACCESS 21
+
+Section 5.1 Access to Data and Meters 21 i
+
+Source: BLOOM ENERGY CORP, DRS/A (on S-1),  3/21/2018 
+
+
+
+
+
+ARTICLE 6 INDEMNITY 21
+
+Section 6.1 Indemnification of Operator by Owner 21 Section 6.2 Indemnification of Owner by Operator 21 Section 6.3 Indemnity Claims Procedure 22 Section 6.4 No Duplication of Claims 22
+
+ARTICLE 7 LIMITATIONS ON LIABILITY 22
+
+Section 7.1 Aggregate Limit of Liability 22 Section 7.2 No Duplication of Claims 23
+
+ARTICLE 8 REPRESENTATIONS AND WARRANTIES 24
+
+Section 8.1 Representations and Warranties of Owner 24 Section 8.2 Representations and Warranties of Operator 25
+
+ARTICLE 9 MISCELLANEOUS 26
+
+Section 9.1 Amendment and Modification 26 Section 9.2 Waiver of Compliance; Consents 26 Section 9.3 Notices 27 Section 9.4 Assignment 27 Section 9.5 Dispute Resolution; Governing Law 27 Section 9.6 Governing Law, Jurisdiction, Venue 27 Section 9.7 Counterparts 28 Section 9.8 Interpretation 28 Section 9.9 Appendices and  Exhibits  28 Section 9.10 Entire Agreement 28 Section 9.11 Construction of Agreement 28 Section 9.12 Severability 29 Section 9.13 Attorneys' Fees 29 Section 9.14 Further Assurances 29 Section 9.15 Independent Contractors 29 Section 9.16 No Contract for the Sale of Goods 29 Section 9.17 Time of Essence 29 Section 9.18 Confidentiality 29 Section 9.19 Force Majeure 31 Section 9.20 Right of Offset 31 Section 9.21 No Liens 31 Section 9.22 Insurance 31
+
+ Exhibit  A Service Fees Exhibit B Efficiency Bank Operation Example Calculation ii
+
+Source: BLOOM ENERGY CORP, DRS/A (on S-1),  3/21/2018 
+
+
+
+
+
+Appendix A [Intentionally  Omitted  ] Appendix B Minimum Power Product Example Calculation Appendix C Facilities Appendix D Power Performance Warranty Claim Example Calculation Appendix E Efficiency Warranty Claim Example Calculation Appendix F Gas Payment Shortfall Claim Example Calculation iii
+
+Source: BLOOM ENERGY CORP, DRS/A (on S-1),  3/21/2018 
+
+
+
+
+
+MASTER OPERATION AND MAINTENANCE AGREEMENT
+
+This MASTER OPERATION AND MAINTENANCE AGREEMENT (this "Agreement"),  dated  as of  April 13, 2012 , between BLOOM ENERGY CORPORATION, a Delaware corporation (" BE  " or, in its capacity as operator hereunder, "Operator"), and DIAMOND STATE GENERATION PARTNERS, LLC, a Delaware limited liability company ("Owner") (each, a "Party", and together, the "Parties"),  covers  (i) the Portfolio of on-site solid oxide fuel cell power generating systems capable of being  powered  by renewable fuels,  having  an aggregate Nameplate Capacity of up to 30 MW (each a "Bloom System", and together the "Bloom Systems") and (ii) the BOF  installed  by BE pursuant to the MESPA, in each case to the extent set forth herein. WHEREAS, Owner is a company  formed  at the direction of BE for the purpose of  purchasing  and  owning  Bloom Systems for the generation of electricity and sale of electricity and capacity  generated  by the Bloom Systems into the PJM Grid;
+
+WHEREAS, the customer base of Delmarva Power & Light Company ("DPL"), an investor  owned  utility company  regulated  by the Delaware Public Service Commission ("DPSC"), will be subject to a charge to be  collected  on behalf of Owner by DPL under the REPS Act and the Tariffs, and DPL has  agreed  to  provide  natural gas service and to  serve  as the collection and disbursement agent of Owner pursuant to the Tariffs and the DPL Agreements;
+
+WHEREAS in  2011 , Owner  purchased  from Operator pursuant to the  December 30  Bill of Sale certain Bloom Systems and other parts and equipment to be  incorporated  into the Bloom Systems, and Owner presently  owns  such Bloom Systems and other parts and equipment;
+
+WHEREAS, Operator has  entered  into that certain Master Energy Server Purchase Agreement  dated  as of the date hereof (the "MESPA") with Owner, under the terms of which Owner will  purchase  additional Bloom Systems and the BOF from BE in order for Owner to  provide  electricity and capacity  generated  by the Bloom Systems into the PJM Grid;
+
+WHEREAS, pursuant to REPS Act Section 352(16), BE will be a "Qualified Fuel Cell Provider" ("QFCP"), and pursuant to the QFCP-RC Tariff, Owner will be a "QFCP Generator" ("QFCP Generator"), and pursuant to REPS Act Section 352(17) the Facilities shall  constitute  a "Qualified Fuel Cell Provider Project" ("Qualified Fuel Cell Provider Project"); and
+
+WHEREAS, Operator has  agreed  to  provide  certain operation and maintenance services to Owner subject to the conditions of this Agreement. Source: BLOOM ENERGY CORP, DRS/A (on S-1),  3/21/2018 
+
+
+
+
+
+NOW, THEREFORE, in consideration of the foregoing and for other good and valuable consideration, the receipt and sufficiency of which are hereby  acknowledged  , the Parties  agree  as  follows  :
+
+AGREEMENT
+
+ARTICLE 1 DEFINITIONS
+
+Section 1.1 Definitions. As  used  in this Agreement,  capitalized  terms not otherwise  defined  shall have the meanings set forth below:
+
+"Actual kWh" means the actual energy output in kWh produced by each Bloom System and aggregated together. "Administrative Services Agreement" means the Administrative Services Agreement dated as of  April 13, 2012  among BE, Owner and Diamond State Generation Holdings, LLC. "Affiliate" of any Person means a Person that directly, or indirectly through one or more intermediaries, controls, or is controlled by, or is under common control with, the Person specified. "Agreement" means this agreement. "Annual Reports" is  defined  in Section 2.12. "Base Case Model" is  defined  in the ECCA. " BE  " is  defined  in the recitals. "Bloom System" or "Bloom Systems" is  defined  in the introductory paragraph hereof. "BOF" means, for each Site, the Electrical Interconnection Facilities, the natural gas supply facilities, the water supply facilities, the data communications facilities, the foundations for the Bloom Systems, and any other ancillary facilities and equipment installed in connection with the Facility at each Site. "BOF Work" is  defined  in the MESPA. "Business Day" means  a day  other than a  Saturday ,  Sunday  or other  day  on which banks in New York, New York, or San Francisco, California, are authorized or required to close. "Claiming Party" is  defined  in Section 9.19. "Code" means the Internal Revenue Code of  1986 , as amended. "Commencement of Operations" means, with respect to any Bloom System, the completion and the performance of all of the following activities:
+
+(a) such Bloom System has been  Placed  in Service; 2
+
+Source: BLOOM ENERGY CORP, DRS/A (on S-1),  3/21/2018 
+
+
+
+
+
+(b) such Bloom System (i) has been  attached  to the load at the Site and (ii) is  performing  at the Warranty Specifications ( measured  over  a 24 hour period  and not over the  Look  Back Period or on a Portfolio basis as  referenced  in the definition of Warranty Specifications;  provided  that for this purpose the percentage in "Minimum Power Product" shall be  deemed  to be 100% rather than 85%);
+
+(c) such Bloom System has  satisfied  the conditions precedent for "Facility Commercial Operation  Date  " and the "Initial Delivery  Date  " (each as  defined  in the QFCP-RC Tariff) and Operator has  performed  and successfully  completed  all necessary acts under the Interconnection Agreements ( including  performance testing) and has  obtained   written  permission from the applicable Person  granting  Owner permission to  interconnect  with the PJM Grid pursuant thereto;
+
+(d) Operator shall have  furnished  a  written  certification from Operator  addressed  to Owner certifying, without any qualification, that Operator has  installed  such Bloom System in accordance with Performance Standards; and
+
+(e) Operator shall have  furnished  a  written  certification from the Independent Engineer  addressed  to Owner certifying, without any qualification, that (i) such Bloom System's commissioning has been successfully  completed  and (ii) such Bloom System has  achieved  commercial operation (and if such Bloom System is the first Bloom System  installed  at such Facility then the Independent Engineer must also  certify  , without qualification, that Operator has  installed  all BOF Work necessary for the operation of that Facility). "Company LLC Agreement" means the Amended and Restated Limited Liability Company Agreement of Diamond State Generation Holdings, LLC, dated as of  April 13, 2012 , between Clean Technologies II, LLC and Mehetia Inc. "Confidential Information" is defined in Section 9.18(a). "Credit Agreement" has the meaning set forth in the ECCA. "Credit Documents" has the meaning set forth in the ECCA. "DDOT" means the Delaware Department of Transportation. " DDOT  Site Lease" means the Lease Agreement between DDOT and Owner dated as of  July ,  2011 , as it may be amended to extend the  term  or otherwise. " December 30  Bill of Sale" means the Bill of Sale and Agreement, effective as of  December 30, 2011 , between BE and Owner pursuant to which Safe Harbor Systems and Safe Harbor Equipment were sold by BE to Owner for purposes of meeting the 5% safe harbor for Grant eligibility under the Guidance. 3
+
+Source: BLOOM ENERGY CORP, DRS/A (on S-1),  3/21/2018 
+
+
+
+
+
+"Delivery  Date  " has the meaning provided in the MESPA. "DPL" has the meaning provided in the recitals. "DPL Agreements" means the service applications between Owner and DPL with respect to the REPS Act and the Tariffs, whereby DPL shall (a) serve as the agent for collection of amounts due from Owner (if any) and for disbursement of amounts due to Owner under the QFCP-RC Tariff and (b) sell to Owner natural gas under the Gas Tariff. "DPL Site Lease" means the Lease Agreement between DPL and Owner dated as of  February 10, 2012 . "DPSC" has the meaning provided in the recitals. "ECCA" means the Equity Capital Contribution Agreement with respect to Diamond State Generation Holdings, LLC, among Clean Technologies II, LLC, Diamond State Generation Holdings, LLC, Owner and Mehetia Inc., dated as of  March 16, 2012 . "Efficiency" means the quotient of E/F, where E = the electricity produced by the Portfolio, measured in BTUs (British Thermal Units) at a conversion rate of 3,412 BTUs per kWh, and F = the fuel consumed by the Portfolio, measured in BTUs on a Lower Heating Value basis. "Efficiency Bank" means "banked" volumes of natural gas which the Owner is permitted to accrue in a tracking account under the QFCP-RC Tariff Section C.(5) and which are available to offset any Efficiency Warranty shortfall. An example of the operation of the Efficiency Bank is  attached  as Exhibit B. "Efficiency Warranty" has the meaning provided in Section 2.7. "Efficiency Warranty Period" has the meaning provided in Section 2.7. "Electrical Interconnection Facilities" means the equipment and facilities required to safely and reliably interconnect a Facility to the PJM Grid or the transmission system of another Transmitting Utility in whose territory the Facility is located, as applicable, including the collection system between each Bloom System, transformers and all switching, metering, communications, control and safety equipment, including the facilities described in any applicable Interconnection Agreement. "Energy" means three-phase, 60-cycle alternating  current  electric energy constituting the Actual kWh. "Facility" means the Bloom Systems and the BOF at a Site. "Facility Meter" means the revenue quality electricity generation meter to be located at the metering point (the proposed location of which is to be identified in the Interconnection Agreement), which Facility Meter shall register all Energy produced by a Facility and delivered to the Interconnection Point. 4
+
+Source: BLOOM ENERGY CORP, DRS/A (on S-1),  3/21/2018 
+
+
+
+
+
+"Facility Service Warranty" is  defined  in Section 2.4. "Facility Services" is  defined  in Section 2.1. "FERC" means the Federal Energy Regulatory Commission and any successor. "Force Majeure Event" means any event or circumstance that (a) prevents a Party from performing its obligations under this Agreement; (b) was not foreseeable by such Party; (c) was not within the reasonable control of, or the result of the negligence of such Party; and (d) such Party is unable to reasonably mitigate, avoid or cause to be avoided with the exercise of due diligence. It shall  include  failure or interruption of performance due to: an act of God, civil or military authority, war, civil disturbances, terrorist activities, fire, explosions, the elements, the gas supplier's failure to  comply  with gas delivery, quality or pressure requirements, the external power delivery system (a/k/a the grid) being out of the  required  specifications or total failure (a/k/a brownout or blackout), PJM or other electric grid curtailment, or failure of equipment not  utilized  by or under the control of the Party  claiming  the Force Majeure Event (or any Affiliate or subcontractor of such Party). Force Majeure Event  does  not  include  the lack of economic resources of a Party or Operator's failure to  design  and  construct  the Bloom Systems and the BOF so as to  meet  the respective warranties  hereunder  . "Gas Payment Shortfall" means the cost of natural gas, in any billing period under the QFCP-RC Tariff, for the quantity of natural gas used by the Owner that exceeds the quantity of natural gas that would have been utilized at the Target Heat Rate (as defined in the QFCP-RC Tariff) and the Efficiency Bank does not have a positive balance available to offset such excess. "Gas Tariff" means DPL's Service Classification "LVG-QFCP-RC" filed for gas service applicable to REPS Qualified Fuel Cell Provider Projects and approved by the DPSC in Order no. 8062  dated   October 18, 2011 , as  adopted  and  supplemented  by DPSC's Findings, Opinion and Order No. 8079,  dated   December 1, 2011 . "Governmental Approvals" means (a) any authorizations, consents, approvals, licenses, rulings, permits, tariffs, rates, certifications, variances, orders, judgments, decrees by or with a relevant Governmental Authority and (b) any required notice to, any declaration of, or with, or any registration or filing by, or with, any relevant Governmental Authority. "Governmental Authority" means any foreign, federal, state, local or other governmental, regulatory or administrative agency, court, commission, department, board, or other governmental subdivision, legislature, rulemaking board, court, tribunal, arbitrating body or other governmental authority. "Grant" is  defined  in the Company LLC Agreement. 5
+
+Source: BLOOM ENERGY CORP, DRS/A (on S-1),  3/21/2018 
+
+
+
+
+
+"Guidance" is  defined  in the ECCA. "Indemnifiable Loss" means any claim, demand, suit, loss, liability, damage, obligation, payment, cost or expense (including the cost and expense of any action, suit, proceeding, assessment, judgment, settlement or compromise relating thereto and reasonable attorneys' fees and reasonable disbursements in connection therewith). "Indemnified Party" is  defined  in Section 6.3. " Indemnifying  Party" is  defined  in Section 6.3. "Independent Engineer" is  defined  in the MESPA.

@@ -1,0 +1,94 @@
+
+Exhibit 10.1 CERTAIN CONFIDENTIAL PORTIONS OF THIS EXHIBIT  HAVE   BEEN   OMITTED  AND REPLACED WITH "[***]". SUCH IDENTIFIED INFORMATION  HAS   BEEN   EXCLUDED  FROM THIS EXHIBIT BECAUSE IT  IS  (I) NOT MATERIAL AND (II) WOULD LIKELY CAUSE COMPETITIVE HARM TO THE COMPANY IF DISCLOSED. Execution Version Network Build and Maintenance Agreement Between Commnet Wireless, LLC And AT&T Mobility LLC
+
+Source: ATN INTERNATIONAL, INC., 10-Q,  11/8/2019 
+
+
+
+
+
+Mobility Network General Agreement TABLE OF CONTENTS Page 1.1 Scope 1 1.2 Scope of Agreement 1 1.3  Term  of Agreement 1 2.1 Definitions 1 2.2 Affiliate 1 2.3 Agreement 2 2.4 Attorney's Fees 2 2.5 AT&T Competitor 2 2.6 AT&T Indemnified Parties 2 2.7 Cell Site 2 2.8 Change Management Plan 2 2.9 Change of Control 2 2.10Change Order 2 2.11Control 2 2.12Customer Information 3 2.13Deliverable 3 2.14Delivery or Completion 3 2.15Delivery  Date  or Completion  Date  3 2.16Documentation 4 2.17Drug Screen 4 2.18Employment Claims 4 2.19Excusable Delay 4 2.20FirstNet Authority 4 2.21Information 5 2.22Intellectual Property Rights 5 2.23Items 5 2.24Laws 5 2.25Liability 5 2.26Lien 5 2.27Litigation Expense 5 2.28Loss 5 2.29Material 6 2.30Non-Service Affecting Defect 6 2.31OEM 6 2.32Permits 6 2.33Person 6 2.34Physical Entry 6 2.35Restricted Entities 6 2.36Service  Affecting  Defect 7 2.37Services 7
+
+Proprietary and Confidential This Agreement and information  contained  therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under  written  agreement by the contracting parties. ii
+
+Source: ATN INTERNATIONAL, INC., 10-Q,  11/8/2019 
+
+
+
+
+
+Mobility Network General Agreement TABLE OF CONTENTS 2.38Software 7 2.39Specifications 7 2.40Subcontractor 7 2.41Suspend a Site, Suspend or Suspension 7 2.42System 7 2.43Third Party Loss 7 2.44Vendor Indemnified Parties 7 2.45Vendor Person 8 2.46Work 8 2.47Writing or  Written  8 3.1 General Terms 8 3.2 Affiliate 8 3.3 Amendments and Waivers 8 3.4  Anticipated  and Actual Delays in Delivery and Performance 8 3.5 Anticorruption Laws 9 3.6 Assignment and Delegation; Change of Control 10 3.7 Compliance with Laws 11 3.8 Conflict of Interest 11 3.9 Construction and Interpretation 11 3.10Cumulative Remedies 12 3.11Delivery, Performance and Acceptance 12 3.12Entire Agreement 13 3.13Force Majeure 14 3.14Government Contract Provisions and Flow Downs 14 3.15Governing Law 16 3.16Indemnity 16 3.17Information 18 3.18Infringement 21 3.19Insurance 25 3.20Invoicing and Payment 28 3.21Licenses and Patents 29 3.22Limitation of Damages 29 3.23Offset Right 29 3.24Material and Services  Furnished  by Vendor and AT&T 29 3.25Non-Exclusive Market 29 3.26Notice of Certain Events 30 3.27Notices 30 3.28Offshore Work  Prohibited  32 3.29Order of Precedence 32 3.30Ownership of  Paid  -For Development, Use and Reservation of Rights 32 3.31Publicity 33
+
+Proprietary and Confidential This Agreement and information  contained  therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under  written  agreement by the contracting parties. 3
+
+Source: ATN INTERNATIONAL, INC., 10-Q,  11/8/2019 
+
+
+
+
+
+Mobility Network General Agreement TABLE OF CONTENTS 3.32Records and Audits 34 3.33Restricted Entities 37 3.34Severability 37 3.35Supplier Citizenship and Sustainability 37 3.36Survival of Obligations 37 3.37Taxes 37 3.38Termination and Suspension 39 3.39Third Party Administrative Services 42 3.40Third Party Beneficiaries 42 3.41Title and Risk 43 3.42Title To Material  Furnished  by AT&T 43 3.43Transaction Costs 44 3.44Utilization of Minority, Women, and Disabled Veteran Owned Business Enterprises 44 3.45Vendor Personnel and Employment Matters 44 3.46Warranty 44 3.47Subcontractors; Work  Done  By Others 47 3.48Affordable Care Act 48 3.49Customer Information 48 3.50Reimbursable Expenses 50 4.1 Special Terms 50 4.2 Access 50 4.3 AT&T Supplier Information Security Requirements (SISR) 50 4.4 Background Checks 51 4.5 Clean Up 52 4.6 Vendor's Audited Financial Statements 52 4.7 Vendor Personnel Information 52 4.8 Damage to Property 52 4.9 Dispute Resolution 53 4.10Electronic Data Interchange (EDI) 54 4.11Emergency Work 55 4.12Hazardous Material and Regulated Substances 55 4.13Identification of Vendor's Personnel and Equipment 57 4.14Independent Contractor 57 4.15Inspection of Material 58 4.16Inspection of Work 58 4.17Liens 58 4.18Notification of Injury or Damage 59 4.19Protection of Property 59 4.20Releases Void 59 4.21Removal and Management of Used Batteries 59 4.22Resource Recovery Center 60
+
+Proprietary and Confidential This Agreement and information  contained  therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under  written  agreement by the contracting parties. 4
+
+Source: ATN INTERNATIONAL, INC., 10-Q,  11/8/2019 
+
+
+
+
+
+Mobility Network General Agreement TABLE OF CONTENTS 4.23Safety Management 60 4.24Technical Support 61 4.25Testimony 61 4.26AT&T Data and AT&T Derived Data (Big Data) 61 4.27Business Continuity Plan 63 4.28Change in Laws 63 4.29FOSS 63 5.1 Execution of Agreement 64 5.2 Transmission of Original Signatures and Executing Multiple Counterparts 64 Exhibit A: Government Flow Downs and Contract Clauses
+
+Exhibit B: Supplier Information Security Requirements (SISR)
+
+Exhibit C: Change Management Plan
+
+Addendum 1: Network Build and Structured Payments
+
+Addendum 2: Maintenance
+
+Proprietary and Confidential This Agreement and information  contained  therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under  written  agreement by the contracting parties. 5
+
+Source: ATN INTERNATIONAL, INC., 10-Q,  11/8/2019 
+
+
+
+
+
+This Network Build and Maintenance Agreement is  entered  into as of  the 31  day  of  July ,  2019  (the "Effective  Date  ") by and between Commnet Wireless, LLC, a Delaware limited liability company (hereinafter  referred  to as "Vendor"), and AT&T Mobility LLC, a Delaware limited liability company on behalf of itself and its Affiliates (as such  term  is  defined  herein) (collectively and  hereinafter   referred  to as "AT&T"), each of which may be  referred  to in the singular as a "Party" or in the plural as the "Parties."
+
+1.0 Scope
+
+1.1 Scope of Agreement. Subject to the terms and conditions of this Agreement, Vendor shall (i)  build  ,  install  and  deploy  a radio access network ("RAN") at certain Cell Sites in one or more states for AT&T and its Affiliates as more particularly  described  in Addendum 1: Network Build and Structured Payments (the "Build Addendum")  attached  hereto, (ii)  provide  ongoing maintenance of the RAN network  constructed  by Vendor pursuant to the Build Addendum as more particularly  described  in Addendum 2: Maintenance (the "Maintenance Addendum")  attached  hereto and (iii)  provide  to AT&T certain other Material and Services  related  thereto as  described  herein and therein. In exchange for the provision of the Material and Services set forth in the Build Addendum, the Parties  agree  that AT&T will  pay  to Vendor the Structured Payments (as such  term  is  defined  in the Build Addendum) and in exchange for the provision of the Material and Services set forth in the Maintenance Addendum, the Parties  agree  that AT&T will  pay  to Vendor the Maintenance Fees (as such  term  is  defined  in the Maintenance Addendum). Vendor  agrees  that the Material and Services  provided  pursuant to this Agreement, the Build Addendum and the Maintenance Addendum shall strictly  conform  to the Specifications  contained  herein and therein. Concurrently  herewith  , the Parties or their Affiliates have  entered  into (i) that certain Cell Site Backhaul Master Services Agreement between Vendor and AT&T Corp. pursuant to which Vendor is responsible for  providing  transport services from the Cell Sites to AT&T's  designated  MTSO (the "Transport Agreement") and (ii) that certain Master License Agreement that  governs  all site license agreements between AT&T and Vendor (or its Affiliates) for the Cell Sites (the "Master License Agreement"). 1.2  Term  of Agreement. The " Term  " of this Agreement shall  commence  on the Effective  Date  and shall  continue  in full force and effect until the expiration or earlier termination of the last Addendum to  expire  or be  terminated  , at which time this Agreement will  expire  , unless this Agreement is sooner  terminated  in accordance with the terms and provisions of this Agreement. 2.0 Definitions
+
+2.1 Affiliate. "Affiliate" of a Person means any other Person, directly or indirectly, through one or more intermediaries, Controlling, Controlled by or under common Control with such Person or any other Person in which such Person beneficially owns a majority of the outstanding capital stock, membership interests or partnership interests. Proprietary and Confidential This Agreement and information  contained  therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under  written  agreement by the contracting parties. 1
+
+st
+
+Source: ATN INTERNATIONAL, INC., 10-Q,  11/8/2019 
+
+
+
+
+
+2.2 Agreement. "Agreement" means the written agreement between the Parties as set forth in this document and the attached addendums, exhibits, schedules and appendices and shall include the terms of such other documents as are incorporated by express reference in this document and the attached addendums, exhibits, schedules and appendices. All references herein to this Agreement shall  include  the Build Addendum and the Maintenance Addendum and all attachments, exhibits and schedules  attached  thereto, as  amended  from time to time. 2.3 Attorney's Fees. "Attorney's Fees"  include  all reasonable outside counsel fees and expenses. 2.4 AT&T Competitor. "AT&T Competitor" means [***]. 2.5 AT&T Indemnified Parties. "AT&T Indemnified Parties" means AT&T and its Affiliates, as well as their respective officers, directors, employees, representatives and agents, individually or collectively, as the case may be, and all of their successors and assigns. 2.6 Cell Site. "Cell Site" means a wireless communications tower or other structure on which cell site equipment is located, and for purposes of this Agreement shall refer to AT&T's space on such structure and all of the AT&T Provided Equipment (as such  term  is defined in the Build Addendum) and Vendor Provided Equipment (as such  term  is defined in the Build Addendum), including all Material contemplated herein or in the Build Addendum, together with all related ground space and other property and rights ancillary thereto as set forth in the Master License Agreement and the applicable Site License for the Vendor Cell Sites or the applicable Tower Lease for the Third Party Cell Sites. 2.7 Change Management Plan. "Change Management Plan" means the process to accommodate changes to the Specifications or Work set forth in Exhibit C attached hereto. 2.8 Change of Control. "Change of Control" means any contract or transaction or series of related contracts or transactions (regardless of form or structure) that would directly result in the Control of a Person or its business or assets changing from one Person to another Person (alone or in combination with any other third Person). 2.9 Change Order. " Change  Order" means any written request by any Party hereto to make any change to the Work, including the Services, Material, Delivery Dates or Completion Dates, Specifications or other terms and conditions of this Agreement, that is authorized and approved in writing by the other Party in accordance with the Change Management Plan. 2.10 Control. "Control" ( including  the terms " Controlling  " and " Controlled  by") of a Person shall mean (i) holding fifty percent (50%) or more ownership or beneficial interest of income and capital of such Person; or (ii) having ownership of at least fifty percent (50%)
+
+Proprietary and Confidential This Agreement and information  contained  therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under  written  agreement by the contracting parties. 2
+
+Source: ATN INTERNATIONAL, INC., 10-Q,  11/8/2019 
+
+
+
+
+
+of the voting power or  voting  equity of such Person; or (iii) regardless of the percentage ownership interest  held  ,  having  the ability to  appoint  a majority of the board of directors, managers or other  governing  body of such Person or otherwise direct management policies of such Person by contract or otherwise. 2.11 Customer Information. "Customer Information"  includes  , to the extent  received  ,  observed  , collected,  stored  , or  accessed  , in any way, in connection with this Agreement: AT&T's or its Affiliates' customers' names, addresses, and phone numbers, any such customer's or its employee's personal, health or financial information, authentication credentials, Internet activities, history, and/or patterns of use, information  concerning  accounts, network performance and usage information, web browsing and wireless application information, location information, any other information  associated  with a customer of AT&T or its Affiliates or with persons in the household of a customer of AT&T or its Affiliates, and any information available to AT&T, its Affiliates and/or the suppliers and/or subcontractors of AT&T or its Affiliates (for avoidance of doubt,  including  Vendor) by virtue of AT&T's or its Affiliates' relationship with customers as a provider of mobile and non-mobile communications, Internet, data, video, information or other services,  including  the quantity, technical configuration, location, type, destination, and amount of use of communications or other services  subscribed  to, and information  contained  on the bills of AT&T's or its Affiliates' customers. 2.12 Deliverable. "Deliverable" means any and all deliverables set forth in this Agreement, including all deliverables set forth in the Build Addendum and the Maintenance Addendum, which are to be provided by Vendor to AT&T pursuant to the terms of any exhibit, schedule or appendix attached hereto or thereto. Deliverables  include  , but are not  limited  to, any cell site configuration files, reports, data, designs, plans, specifications, models, prototypes, performance requirements, and/or Documentation  delivered  pursuant to this Agreement. 2.13 Delivery or Completion. "Delivery" or "Completion" or any similar terms mean Vendor's obligation to provide Material and Services that strictly conform to the Specifications, including, without limitation, Location Acceptance of the Cell Sites described in the Build Addendum. Vendor  completes  Delivery of Material or Completion of Services: (i) in the case of any Cell Site (and all Material and Services  incorporated  therein or  related  thereto) upon Location Acceptance, and (ii) in the case of delivery of Material or Services that are  required  to be  delivered  prior to or  following  Location Acceptance, (A) upon AT&T's possession of the Material if Vendor is not  required  to  provide  additional Services, such as installation, (B) upon  completing  such additional Services, if Vendor is  required  to  provide  such Services in connection with  providing  Material, or (C) for Services, upon  completing  the provision of Services. Notwithstanding the above, Delivery and Completion shall not be  deemed  to have  occurred  until Vendor  causes  the Material and Services to strictly  conform  to the Specifications and in the case of any Cell Site, Location Acceptance has  occurred  . 2.14 Delivery  Date  or Completion  Date  . "Delivery  Date  " or "Completion  Date  " means the date on which the Parties agree Vendor is scheduled in this Agreement or the Build
+
+Proprietary and Confidential This Agreement and information  contained  therein is not for use or disclosure outside of AT&T, its Affiliates, and third party representatives, and Vendor except under  written  agreement by the contracting parties. 3
+
+Source: ATN INTERNATIONAL, INC., 10-Q,  11/8/2019 
+
+
+
+
+
+Addendum or Maintenance Addendum or as such date may be  extended  due to an Excusable Delay, as applicable, to  complete  its Delivery of Material and Completion of Services, as applicable. 2.15 Documentation. "Documentation" means all documentation included with Vendor's purchase of Vendor Provided Equipment, including user instructions, training materials and, if applicable, the source code for Software. 2.16 Drug Screen. "Drug Screen" means the testing of any individual for the use of illicit drugs (including opiates, cocaine, cannabinoids, amphetamines, and phencyclidine (PCP)). 2.17 Employment Claims.

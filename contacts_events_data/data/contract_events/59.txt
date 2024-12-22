@@ -1,0 +1,116 @@
+
+Exhibit 10.3
+
+[***] Certain information in this document has been  excluded  pursuant to Regulation S-K, Item 601(b)(10). Such excluded information is not material and would likely  cause  competitive harm to the registrant if publicly  disclosed  . Execution Copy
+
+LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT
+
+ DATED  AS OF FEBRUARY 4,  2020 
+
+BY AND BETWEEN
+
+XENCOR, INC. AND
+
+AIMMUNE THERAPEUTICS, INC. Source: AIMMUNE THERAPEUTICS, INC., 8-K,  2/5/2020 
+
+
+
+
+
+TABLE OF CONTENTS Page ARTICLE 1 Definitions 1
+
+ARTICLE 2 Licenses 13
+
+ARTICLE 3 Development 16
+
+ARTICLE 4 Regulatory 17
+
+ARTICLE 5 Commercialization 19
+
+ARTICLE 6 Supply 20
+
+ARTICLE 7 Payments 21
+
+ARTICLE 8 Payment; Records; Audits 24
+
+ARTICLE 9 Intellectual Property Matters 26
+
+ARTICLE 10 Representations, Warranties and Covenants; Compliance 31
+
+ARTICLE 11 Indemnification 34
+
+ARTICLE 12 Confidentiality 36
+
+ARTICLE 13  Term  and Termination 40
+
+ARTICLE 14 Effects of Expiration Or Termination 40
+
+ARTICLE 15 Miscellaneous 43
+
+Schedule 1.10 Antibody 50
+
+Schedule 1.79 Xencor General Patents 51
+
+Schedule 1.81 Xencor Product Specific Patents 52
+
+Schedule 2.7 Xencor Know-How, Regulatory Materials, and Regulatory Data 53
+
+Schedule 6.1 Initial Product Supply 54
+
+Schedule 10.2.6 Exceptions 55
+
+Schedule 12.2 Initial Press Release 56
+
+Source: AIMMUNE THERAPEUTICS, INC., 8-K,  2/5/2020 
+
+
+
+
+
+LICENSE, DEVELOPMENT AND COMMERCIALIZATION AGREEMENT
+
+This License, Development and Commercialization Agreement (this "Agreement"),  dated  as of  February 4, 2020  (the "Effective  Date  "), is  made  by and between Xencor, Inc. ("Xencor"), and Aimmune Therapeutics, Inc. ("Aimmune"). Xencor and Aimmune are sometimes  referred  to herein individually as a "Party" and collectively as the "Parties". RECITALS
+
+WHEREAS, Xencor has  developed  the Antibody (as  defined  below);
+
+WHEREAS, Aimmune is interested in further  developing  and  commercializing  the Antibody; and
+
+WHEREAS, Xencor  wishes  to  grant  a license to Aimmune under certain intellectual property rights  related  to the Antibody to  develop  ,  manufacture  and  commercialize  the Product (as  defined  below), and Aimmune  wishes  to  take  such license, in each case in accordance with the terms and conditions set forth below. NO W THEREFORE, in consideration of the foregoing premises and the mutual promises, covenants and conditions  contained  in this Agreement, and for other good and valuable consideration, receipt of which is hereby  acknowledged  , the Parties  agree  as  follows  :
+
+ARTICLE 1 DEFINITIONS
+
+As  used  in this Agreement, the  following  initially  capitalized  terms shall have the meanings set forth in this ARTICLE 1 or as otherwise  defined  elsewhere in this Agreement:
+
+1.1 "Active Ingredient" means any substance (whether chemical or biologic) or mixture of substances intended to be used in the manufacture of a drug (medicinal) product that, when used in the production of such drug, becomes a therapeutically active ingredient of the drug product, and which such substance or mixture of substances is intended to furnish pharmacological activity or other direct effect in the diagnosis, cure, mitigation, treatment or prevention of disease or to affect the structure or function of the body. 1.2 "Affiliate" means with respect to any person, any other person directly or indirectly controlling, controlled by, or under common control with such person; provided, that, for purposes of this definition, "control" (including, with correlative meanings, the terms "controlled by" and "under common control with"), as used with respect to any person, shall mean (i) the possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of such person, whether through the ownership of voting securities or by contract or otherwise, or (ii) the ownership, directly or indirectly, of fifty percent (50%) or more of the voting securities of such person. For purposes of this Section 1.2, "person" means mean an individual, corporation, partnership, limited partnership, limited liability company, limited liability partnership, syndicate, person (including a "person" as defined in Section 13(d)(3) of the Securities Exchange Act of  1934 , as amended, together with the rules and regulations promulgated thereunder), trust, association, entity or government or political subdivision, agency or instrumentality of a government. 1
+
+Source: AIMMUNE THERAPEUTICS, INC., 8-K,  2/5/2020 
+
+
+
+
+
+1.3 "Aimmune Agreement Entities" means Aimmune's Affiliates and Sublicensees (excluding distributors). 1.4 "Aimmune Common Stock" means Aimmune's common stock, par value $0.0001 per share. 1.5 "Aimmune Field" means the field of [***]. 1.6 "Aimmune Invention" means an Invention that is Invented, solely or jointly with a Third Party, by or on behalf of Aimmune or its Affiliates. 1.7 "Aimmune Know-How" means any and all Know-How, whether or not patented or patentable, that is Controlled by Aimmune or its Affiliates as of the Effective  Date  or at any time during the  Term  that is necessary or reasonably useful in connection with the Development, Manufacture, Commercialization or other use of the Antibody or Product. 1.8 "Aimmune Patent" means any Patent that (i) (a) is Controlled by Aimmune (or its Affiliates) as of the Effective  Date  or comes under the Control of Aimmune (or its Affiliates) during the  Term  (other than as a result of the licenses granted by Xencor to Aimmune under this Agreement) and (b) that would be infringed by the Development, Manufacture, Commercialization or use of the Antibody or Product or that claims or Covers Aimmune Know-How, or (ii) is an Aimmune Collaboration Patent. 1.9 "Aimmune Technology" means Aimmune Know-How and Aimmune Patents. 1.10 "Antibody" means Xencor's humanized antibody known as XmAb7195 having the sequence listed in Schedule 1.10. 1.11 "Anti-Corruption Laws" means the U.S. Foreign Corrupt Practices Act, as amended, the UK Bribery Act  2010 , as amended, as well as Applicable Law related to the prevention of fraud, racketeering, money laundering or terrorism. 1.12 "Applicable Law" means any applicable United States federal, state or local or foreign or multinational law, statute, standard, ordinance, code, rule, regulation, resolution or promulgation, or any order, writ, judgment, injunction, decree, stipulation, ruling, determination or award entered by or with any Governmental Authority, or any license, franchise, permit or similar right granted under any of the foregoing, or any similar provision having the force or effect of law. For the avoidance of doubt, any specific references to any Applicable Law or any portion thereof, shall be  deemed  to  include  all then-  current  amendments  thereto  or any replacement or successor law, statute, standard, ordinance, code, rule, regulation, resolution, order, writ, judgment, injunction, decree, stipulation, ruling, or determination thereto. 2
+
+Source: AIMMUNE THERAPEUTICS, INC., 8-K,  2/5/2020 
+
+
+
+
+
+1.13 "Baseline Quarter Net Sales" means, on a country-by-country and Product-by-Product basis, the average cumulative Net Sales of such Product in such country during the [***] Calendar Quarters that [***]precede the Calendar Quarter during which a Generic Product with respect to such Product is first commercially sold in such country. For example, if a Generic Product with respect to a  given  Product is commercially  sold  in the U.S. for the first time on [***], then the Baseline Quarter Net Sales with respect to such Product and U.S. are the cumulative Net Sales of such Product in the U.S. during the [***] Calendar Quarters of [***]  divided  by [***]. 1.14 "Business Day" means  a day  other than a  Saturday ,  Sunday , or bank or other public holiday in California. 1.15 "Calendar Quarter" means each three (3)  month  period commencing  January 1 ,  April 1 ,  July 1  or  October 1  of any  year  ; provided, however, that (a) the first Calendar Quarter of the  Term  shall extend from the Effective  Date  to the end of the first full Calendar Quarter thereafter, and (b) the last Calendar Quarter of the  Term  shall end upon the expiration or termination of this Agreement. 1.16 "Calendar Year" means the period beginning on  the 1st of January  and ending on  the 31st of December of the same year ; provided, however, that (a) the first Calendar Year of the  Term  shall commence on the Effective  Date  and end on  December 31 of the same year  and (b) the last Calendar Year of the  Term  shall commence on  January 1  of the Calendar Year in which this Agreement terminates or expires and end on the date of termination or expiration of this Agreement. 1.17 "Clinical Trial" means a clinical trial, including any a Phase I Clinical Trial, Phase II Clinical Trial, Phase III Clinical Trial, or Phase IV Clinical Trial, as the case may be, and as any such trial is defined by an applicable Regulatory Authority. 1.18 " Co  -pay Program" means a program to support patient access to a Product whereby the Product manufacturer makes payments to a Third Party equal to all or part of the difference between the price of Product prescribed to a patient and the amount such patient pays for such Product through such patient's insurance plan. 1.19 "Combination Product" means any Product containing an Active Ingredient that is not an Antibody. Such Combination Product shall be either (a)  priced  and  sold  in a single package  containing  such multiple products or (b)  packaged  separately but  sold  together for a single price. 1.20 "Commercialize" means, with respect to the Product, to promote, market, distribute, sell (and offer for sale or contract to sell), import, export, or otherwise commercially exploit or provide product support for the Product and to conduct activities, other than Development or Manufacturing, in preparation for conducting the foregoing activities, including activities to produce commercialization support data and to secure and maintain market access and reimbursement. " Commercializing  " and "Commercialization" shall have correlative meanings. For the avoidance of doubt, Commercialization  does  not  include  Development and Manufacturing. 3
+
+Source: AIMMUNE THERAPEUTICS, INC., 8-K,  2/5/2020 
+
+
+
+
+
+1.21 "Commercially Reasonable Efforts" means, with respect to the efforts to be expended by a Party with respect to any objective (e.g., Development Activities and Commercialization hereunder), the level of efforts consistent with the efforts and resources [***] of similar market potential, at a similar stage in development or product lifecycle, taking into account the stage of development or product lifecycle of other of [***] product candidates, safety and efficacy, product profile, cost of goods, the competitiveness of the marketplace, such company's patent position with respect to such product (including such company's ability to obtain or enforce, or have obtained or enforced, such patent rights), the Third Party patent landscape relevant to the product, the regulatory structure involved, the likelihood of regulatory approval, the likelihood and extent of anticipated or actual profitability of the applicable product, and other technical, legal, scientific and medical considerations. Without  limiting  the foregoing, Commercially Reasonable Efforts  requires  , with respect to such obligations, that a Party: (i) promptly  assign  responsibility for such obligation to specific employee(s) who are  held  accountable for progress and  monitor  such progress on an on- going  basis, (ii) set objectives for  carrying  out such obligations, and (iii)  allocate  resources  designed  to  advance  progress with respect to such objectives. 1.22 "Control" or " Controlled  by" means, with respect to any Know-How, Invention, Patent, technology, copyright, trademark or other intellectual property right, possession by a Party or its Affiliates (whether by ownership, license grant or other means) of the legal right to grant the right to access or use, or to grant a license or a sublicense to, such Know-How, Invention, Patent, technology, copyright, trademark or other intellectual property right as provided for herein without violating the proprietary rights of any Third Party or any terms of any agreement or other arrangement between such Party (or any of its Affiliates) and any Third Party. 1.23 "Cover" or " Covering  " means, with respect to a particular subject matter at issue and a relevant Patent, that the manufacture, use, sale, offer for sale or importation of such subject matter would, but for the existence of this Agreement, infringe one or more claims in such Patents (or in the case of a Patent application, would infringe if such application were to issue). 1.24 "Designated Officer" means, with respect to Xencor, the Chief Executive Officer of Xencor (or its designee), and, with respect to Aimmune, the Chief Executive Officer of Aimmune (or its designee). 1.25 "Develop" means to research, develop, analyze, test and conduct preclinical trials, Clinical Trials (including, for the avoidance of doubt, Phase IV Clinical Trials and any preclinical/clinical/CMC commitments following Regulatory Approval) and all other regulatory trials, for the Product, as well as any and all activities pertaining to manufacturing development, formulation development, medical affairs and lifecycle management, including new indications, new formulations and all other activities, including regulatory activities, related to securing and maintaining Regulatory Approval for the Product, or otherwise characterizing or understanding the properties and uses of the Antibody or the Product. " Developing  " and "Development" shall have correlative meanings. 4
+
+Source: AIMMUNE THERAPEUTICS, INC., 8-K,  2/5/2020 
+
+
+
+
+
+1.26 "Development Activities" means those Development activities undertaken by or on behalf of Aimmune with respect to the Product. 1.27 "Dollar" or "$" means the legal tender of the United States of America. 1.28 "E.U. Major Countries" means the United Kingdom, France, Germany, Italy, and Spain. 1.29 "FDA" means the United States Food and Drug Administration and any successor Regulatory Authority having substantially the same function. 1.30 "FD&C Act" means the U.S. Federal Food, Drug and Cosmetic Act, as amended, and the regulations promulgated thereunder. 1.31 "First Commercial Sale" means, with respect to a Product in any country, the first shipment of such Product to a Third Party in such country for end use or consumption of such Product in such country after Regulatory Approval of such Product in such country or, if earlier, the invoicing of a Third Party for such shipment. 1.32 "Force Majeure" means any circumstances whatsoever which are not within the reasonable control of the Party affected thereby, potentially including an act of God, war, act of terrorism, insurrection, riot, strike or labor dispute, shortage of materials, fire, explosion, flood, earthquake, government requisition or allocation, breakdown of or damage to plant, equipment or facilities, interruption or delay in transportation, fuel supplies or electrical power, embargo, boycott, order or act of civil or military authority. 1.33 "Generic Product" means, with respect to a Product and on a country-by-country basis, a product that (a) is marketed for sale in such country [***], (b) contains or comprises an antibody with the [***], (c) is approved [***], and (d) such product, as and to the extent required, is approved through an abbreviated process based in reliance, at least in part, on the safety and efficacy data generated for the prior Regulatory Approval of such Product by Aimmune or an Aimmune Agreement Entity in such country (similar, with respect to the United States, to an Abbreviated New Drug Applications under Section 505(j) of the FD&C Act (21 USC 355(j))) or is approved as a "Biosimilar Biologic Product" under Title VII, Subtitle A Biologics Price Competition and Innovation Act of  2009 , Section 42 U.S.C. 262, Section 351 of the PHSA, or, outside the United States, in accordance with European Directive  2001 /83/EC on the Community Code for medicinal products (Article 10(4) and Section 4, Part II of Annex I) and European Regulation EEC/ 2309 /93 establishing the community procedures for the authorization and evaluation of medicinal products, each as amended, and together with all associated guidance, and any counterparts thereof or equivalent process inside or outside of the United States or EU to the foregoing.

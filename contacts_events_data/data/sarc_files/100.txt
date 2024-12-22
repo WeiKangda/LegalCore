@@ -1,0 +1,144 @@
+
+Exhibit 10.27
+
+MARKETING AFFILIATE AGREEMENT
+
+Between:
+
+Birch First Global Investments Inc. And
+
+Mount Knowledge Holdings Inc.  {E1 Dated}  :  May 8, 2014 
+
+1
+
+Source: CYBERGY HOLDINGS, INC., 10-Q,  5/20/2014 
+
+
+
+
+
+1. 2. 2.1
+
+2.2
+
+This Marketing Affiliate Agreement (the "Agreement") is  {E2 entered}  into this 8th  day  of  May 2014 , by and between BIRCH FIRST GLOBAL INVESTMENTS INC., a corporation  {E3 incorporated}  in the U.S. Virgin Islands, with its main place of business  {E4 located}  9100 Havensight, Port of Sale, Ste. 15/16, St. Thomas, VI 0080 ( {E5 referred}  to as "Company") and MOUNT KNOWLEDGE HOLDINGS INC. and/or  {E6 assigns}  , a corporation  {E7 incorporated}  in the State of Nevada, with its main place of business  {E8 located}  at 228 Park Avenue S. #56101 New York, NY 10003Â­1502 ( {E9 referred}  to as "Marketing Affiliate" or "MA"). WHEREAS, this Agreement is to set forth in a formal agreement the prior verbal {E258 understandings} between the parties in place since  December 31, 2012   {E10 pertaining}  to the business  {E11 described}  hereinbelow; and
+
+WHEREAS, Company, the owner of certain distribution rights to the Technology, technology and content as set forth in Exhibit A and related technical documentation (hereafter collectively  {E12 referred}  to as Technology,  {E13 wishes}  to  {E14 contract}  for the {E259 marketing} and/or {E260 support} of the Technology, and MA  {E15 wishes}  to  {E16 market}  and/or  {E17 support}  the Technology. Accordingly, Company and MA  {E18 agree}  as  follows  :
+
+Effective  Date  and  Term  . This agreement shall  {E19 begin}  upon the  date  of its {E261 execution} by MA and {E262 acceptance} in writing by Company and shall  {E20 remain}  in effect until the end of the  current  calendar  year  and shall be automatically  {E21 renewed}  for successive one (1)  year  periods unless otherwise  {E22 terminated}   {E23 according}  to the cancellation or termination provisions  {E24 contained}  in paragraph 18 of this Agreement. Company and MA  {E25 acknowledge}  that this Agreement is not a franchise as that  term  is  {E26 defined}  under any and all applicable local, state and/or federal laws in U.S., as  {E27 amended}  . Grant of Rights. General Rights. Subject to the terms and conditions of this Agreement, Company hereby  {E28 grants}  to MA the right to  {E29 advertise}  , market and  {E30 sell}  to corporate users, government agencies and educational facilities ("Clients") for their own internal language learning, soft skills and communication purposes only, and not for {E266 remarketing} or {E264 redistribution}, and not for use in a data center environment for multiple users Clients, unless otherwise  {E31 agreed}  to by Company prior in writing, the Technology  {E32 listed}  in Schedule A of this Agreement, and to  {E33 sell}  and/or  {E34 bundle}  Technology {E267 Maintenance} for the Technology and to  {E35 provide}  first line technical {E268 support} and implementation {E269 services} for the Technology in the territories  {E36 listed}  in Schedule A of this Agreement,  {E37 providing}  MA  {E38 meets}  the criteria  {E39 required}  for  {E40 delivering}  {E350 services}  {E41 according}  to Schedule A. Third Party Rights. Company and MA  {E42 acknowledge}  that Company  {E43 derives}  certain rights herein from third parties and that Company  {E44 reserves}  the right to  {E45 modify}  or  {E46 amend}  this Agreement if  {E47 mandated}  by such third parties. 2
+
+Source: CYBERGY HOLDINGS, INC., 10-Q,  5/20/2014 
+
+
+
+
+
+3. 3.1
+
+3.2
+
+3.3
+
+3.4
+
+3.5
+
+3.6
+
+Duties of MA. Best Efforts. MA  {E48 agrees}  to  {E49 use}  its best efforts to  {E50 market}  and  {E51 license}  the Technology to Clients consistent with the terms of this Agreement. License Agreement. MA shall  {E52 execute}  a Company License Agreement/Client Registration Form with Clients and  {E53 present}  that License Agreement/Client Registration Form to Company after each {E270 purchase} of the Technology. Upon the {E271 execution} of this Agreement, Company shall  {E54 provide}  copies of its end user license agreements to MA. MA shall promptly  {E55 review}  such agreements and  {E56 advise}  Company as to what {E272 revisions}, if any, should be  {E57 made}  to the end user license agreements for {E273 resale} in the Territory set forth in Schedule A to  {E58 ensure}  that the agreements  {E59 comply}  with requirements of local law in the Territory, and that Company has protection  {E60 concerning}  proprietary rights, warranty disclaimers and limitations of liability under such local and federal laws of the U.S. For purposes of this Agreement, the Technology means the electronic access to programs, content and documentation, and Company's end user license agreement as it may be  {E61 modified}  by Company for {E274 use} in the Territory. The relationship between the corporate user and Company and/or its Affiliates shall be as  {E62 specified}  in the applicable Company end user license agreement. Notwithstanding the foregoing, as between Company and MA, MA shall be responsible as  {E63 defined}  for  {E64 providing}  customer and technical {E275 support} to  {E65 end}  users in the Territory. MA will  {E66 notify}  Company immediately in the event that it is unable to  {E67 respond}  effectively to any end users' {E276 requests}. Copyrights and Trademarks. MA shall  {E68 protect}  copyrights, tradenames, trademarks, service marks, trade secrets and other confidential proprietary rights and information of Company and its affiliates and  {E69 report}  promptly any {E277 infringements} or  {E70 suspected}  {E278 infringements} of which MA  {E71 becomes}  aware and to  {E72 cooperate}  fully with Company in its {E348 efforts} to  {E73 protect}  its copyrights, tradenames, trademarks, service marks, trade secrets and other confidential proprietary rights and information. No Alternations. MA  {E74 agrees}  not to  {E75 remove}  or  {E76 alter}  in any manner any copyright, trademark or other proprietary notices  {E77 contained}  in the Technology. Permits, Licenses and Compliance with Laws. MA shall be responsible and shall  {E78 bear}  all costs for  {E79 complying}  with local, state, provincial, federal, national, and international statutes, rules, regulations and ordinances of any kind which  {E80 related}  to or  {E81 affect}  MA's duties under this Agreement. Product Support. MA  {E82 agrees}  , when  {E83 specified}  , to  {E84 provide}  Clients with the {E279 support} necessary to  {E85 meet}  the reasonable needs and requirements for {E280 installation} and {E281 operation} of the Technology. 3
+
+Source: CYBERGY HOLDINGS, INC., 10-Q,  5/20/2014 
+
+
+
+
+
+3.7
+
+3.8
+
+3.9
+
+(a) (b) (c) (d)
+
+3.10
+
+3.11
+
+3.12
+
+Sales Records. MA shall  {E86 keep}  accurate records of the {E282 sales} of the Technology and Maintenance,  {E87 including}  Client Registration Cards and shall  {E88 make}  these records available for {E283 review} by a representative of Company within ten (10) business days  {E89 following}  the end of  each month . Sales and Technical Training . MA shall  {E90 attend}  initial marketing, application, and technical {E284 training} as  {E91 required}  and  {E92 provided}  by Company;  {E93 provided}  , however, that Company shall not  {E94 require}  MA to  {E95 market}  or  {E96 support}  Technology  {E97 according}  to a marketing plan or system  {E98 prescribed}  in substantial part by Company. The MA will however, be responsible to  {E99 display}  and  {E100 explain}  in detail the methods by which they  {E101 plan}  to  {E102 achieve}  the assigned quotas. Sales Reports. MA shall  {E103 report}  periodically in writing, upon {E285 request} to Company the status of the  {E104 following}  :
+
+Leads  {E105 provided}  by Company Marketing {E286 activities} in progress Sales  {E106 forecasts}  Implementations in progress
+
+MA shall  {E107 appoint}  one of its employees to be responsible for such reporting and  {E108 make}  the name of such employee available to Company. Marketing Plan. MA shall  {E109 submit}  an  annual  marketing plan to Company  {E110 outlining}  , among other things, {E287 activities} and staffing  {E111 directed}  at  {E112 attaining}  mutually  {E113 agreed}  upon  annual  sales quotas. The Annual Quota is  {E114 defined}  in Schedule A of this Agreement. The  annual  marketing plan shall be  {E115 devised}  solely by MA and MA shall not be  {E116 required}  to  follow  an operating plan, standard procedure,  {E117 training}  manual, or its substantial equivalent,  {E118 published}  by Company. Business Practices. Company shall not  {E119 specify}  the business {E288 practices} of MA, nor  {E120 regulate}  the manner in which MA shall  {E121 operate}  its business,  {E122 provided}  that MA (a)  {E123 conducts}  business in a manner that  {E124 reflects}  favorably at all times on the Technology  {E125 sold}  and the good name, goodwill and reputation of Company and its affiliates; (b)  {E126 avoid}  deceptive, misleading or unethical {E289 practices} that are or might be detrimental to Company and/or its Affiliates, the Technology or the public,  {E127 including}  but not  {E128 limited}  to {E290 disparagement} of Company or the Technology; (c)  {E129 make}  no false or misleading {E292 representation} with respect to Company or the Technology; and (d)  {E130 make}  no {E294 representations} with respect to Company or the Technology that are inconsistent with any applicable license agreement(s) for the Technology  {E131 provided}  by Company, promotional materials and other literature  {E132 distributed}  by Company  {E133 pertaining}  specifically to the Technology,  {E134 including}  all liability limitations and disclaimers  {E135 contained}  in such materials. Support and Service Centers. MA may be  {E136 required}  to  {E137 establish}  and  {E138 maintain}  Support {E296 Services} in the Territory set forth in Schedule A to  {E139 provide}  marketing, sales and service {E295 support} of the Technology  {E140 licensed}  from Company. 4
+
+Source: CYBERGY HOLDINGS, INC., 10-Q,  5/20/2014 
+
+
+
+
+
+4. 4.1
+
+4.2
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+(e)
+
+4.3
+
+4.4
+
+4.5
+
+5. Duties of Company. Commitment. So long as MA is not in default hereunder, Company  {E141 agrees}  to  {E142 provide}  Technology to MA in accordance with the terms and conditions of this Agreement. Deliverables. Upon the {E297 request} of MA, Company shall at prices or fees then in effect or mutually  {E143 agreed}  upon by the parties:
+
+ {E144 Provide}  Technology to MA at the  {E145 discounted}  prices  {E146 shown}  in Schedule A, subject to Company's right to  {E147 change}  its prices or fees pursuant to paragraph 13 of this Agreement.  {E148 Make}  available a reasonable marketing information, {E298 demonstrations} and other sales/marketing aids available from Company  {E149 relating}  to the Technology to MA  {E150 shown}  in Schedule A.  {E151 Make}  available marketing {E299 training} and {E300 support} to MA  {E152 relating}  to the Technology in Schedule A.  {E153 Make}  available technical {E301 training} and {E302 support} to MA  {E154 relating}  to the Technology in Schedule A.  {E155 Make}  available updates of the Technology to MA as they may  {E156 become}  available for {E303 distribution}. No Control. Company shall not  {E157 require}  that MA be  {E158 limited}  as to the type, quantity or quality of any product or {E304 service} that MA  {E159 sells}  or desires to  {E160 sell}  . No Resale Limitations. Unless otherwise  {E161 stated}  in this Agreement, Company shall not  {E162 require}  that MA be  {E163 limited}  to the persons or accounts to which it may  {E164 market}  ,  {E165 distribute}  or  {E166 sublicense}  any product or {E305 service} that MA  {E167 sells}  or desires to  {E168 sell}  ,  {E169 including}  without limitation, the Technology, within the Territory as  {E170 defined}  in Schedule A of this Agreement. No Procedures. Company shall not  {E171 require}  procedures for which MA may  {E172 deal}  with Clients however will  {E173 require}  reasonable levels of {E306 satisfaction} from the clients  {E174 related}  to the {E307 services}  {E175 provided}  by the MA. Annual Quota. The Annual Quota for MA shall be  {E176 defined}  in Schedule A of this Agreement. Company  {E177 reserves}  the right to  {E178 adjust}  or  {E179 modify}  the Annual Quota upon {E310 renewal} of this Agreement or from time to time by mutual {E309 agreement} of the parties. 5
+
+Source: CYBERGY HOLDINGS, INC., 10-Q,  5/20/2014 
+
+
+
+
+
+6. 7. 7.1
+
+7.2
+
+7.3
+
+7.4
+
+7.5
+
+7.6
+
+8. 8.1
+
+8.2
+
+Territory. The Territory for MA shall be  {E180 defined}  in Schedule A of this Agreement. Company  {E181 reserves}  the right to  {E182 adjust}  or  {E183 modify}  the Territory upon {E310 renewal} of this Agreement or from time to time by mutual {E311 agreement} of the parties. Payment and Deliveries. Payment Terms. When fees are not  {E184 collected}  directly from the corporate user, MA  {E185 agrees}  to  {E186 pay}  Company, in the manner and at the time  {E187 specified}  below, the fee(s) on Company's  current  price list in effect at the time an {E351 order} is  {E188 received}  by Company as set forth in Schedule A. Currency. All monies due Company shall be  {E189 remitted}  in United States dollars. Amounts due to Company are to be  {E190 calculated}   {E191 based}  upon the information  {E192 contained}  in Schedule A of this agreement.  {E193 Required}  Documents. MA shall  {E194 make}  {E312 payment} for all Technology  {E195 according}  to the terms in Schedule A of this Agreement, and  {E196 provide}  upon {E313 resale} of any part of the Technology, two (2)  {E197 signed}  copies of the Company License Agreement/Client Registration Card between Company and Client. Payment for Services, Training and Support. {E314 Services}, {E315 training} and {E316 support}, when applicable and  {E198 provided}  by Company, shall be  {E199 paid}  for by MA  {E200 according}  to  {E201 agreed}  upon terms, and a  monthly  billing {E349 report} will be  {E202 created}  for MA by Company to  {E203 show}  {E318 utilization} of time and charges. A LATE PAYMENT CHARGE of one and one-half percent (1 Â½%) or the maximum rate  {E204 permitted}  by applicable law, whichever is less, of the outstanding balance due to Company per  month  will be  {E205 imposed}  on all overdue accounts. Shipment and Delivery. Any materials shall be  {E319 shipped}  FOB Company's place of business as set forth in Schedule A, and MA shall be responsible for any excise, sales and other taxes which may be  {E207 levied}  on the license and {E319 shipment} of such materials. Delays. In the event of any {E320 cause} beyond the control of Company, Company shall not be {E257 liable} for any {E321 delay} in {E322 shipment} or {E323 non-delivery} of the Technology  {E208 covered}  under this Agreement beyond any amounts  {E209 received}  with an {E324 order}. Modifications and Version Upgrades. Company shall  {E210 supply}  MA access to all major  {E211 published}  {E325 modifications} or {E326 upgrades} to the Technology, which  {E212 add}  enhancements to or  {E213 correct}   {E214 known}  errors in the Technology. Company shall  {E215 provide}  Technology access to MA for each  {E216 licensed}  customer so long as MA is not in default with any terms of this Agreement. 6
+
+Source: CYBERGY HOLDINGS, INC., 10-Q,  5/20/2014 
+
+
+
+
+
+8.3
+
+8.4
+
+9. 10. MA shall  {E217 notify}  Company in writing of any errors  {E327 found}  by it in the Technology within thirty (30) days of such {E327 discovery}. Company will  {E219 undertake}  all reasonable {E328 efforts} to  {E220 provide}  technical {E329 assistance} to MA under this Agreement when MA is unable to  {E221 resolve}  certain technical issues and to  {E222 rectify}  or  {E223 provide}  solutions to problems where the Technology  does  not  {E224 function}  as  {E225 described}  in the Technology documentation, but Company  does  not  {E226 guarantee}  that the problems will be  {E227 solved}  or that any item will be error-free. This product support commitment is only applicable to Company's Technology  {E228 running}  under the  {E229 certified}  environments  {E230 specified}  in the release notes of the end user licensing agreement for that Technology or Package. Company may from time to time, however, discontinue Technology or versions and  {E231 stop}   {E232 supporting}  Technology or versions  one year  after {E330 discontinuance}, or otherwise  {E233 discontinue}  any support {E331 service}. Company is not liable for incidental, special or consequential {E332 damages} for any reason ( {E234 including}  {E333 loss} of data or other business or property {E334 damage}), even if foreseeable or if MA or Customer has  {E235 advised}  of such a {E335 claim}. Company's liability shall not  {E236 exceed}  the fees that MA has  {E237 paid}  under this Agreement. MA  {E238 agrees}  that the pricing for the services would be substantially higher but for these limitations. Trademarks and Service Marks. Any tradenames, trademarks or service marks, which Company may  {E239 obtain}  with regard to the Technology, are the sole property of Company and/or its Affiliates. Company hereby  {E240 grants}  MA, during the  term  of this Agreement, the right to  {E241 use}  Company and/or Company trade names, trademarks or service marks on Technology or in {E337 advertising} or {E336 promotion}  {E242 relating}  directly to these products. Any {E338 use} of such tradenames, trademarks or service marks must  {E243 reference}  that these tradenames, trademarks or service marks are proprietary to Company and/or its Affiliates. Title to the Technology. MA  {E244 acknowledges}  that MA and its Clients  {E245 receive}  no title to the Technology  {E246 contained}  on the Technology. Title to the Technology and all copyrights in Technology shall  {E247 remain}  with Company and/or its Affiliates. Company  {E248 agrees}  to  {E347 defend}  or, at its option,  {E250 settle}  any {E345 claim} or {E340 action} against MA to the extent  {E251 arising}  from a third party {E341 claim} that a  {E252 permitted}  {E342 use} of the Technology by the end users  {E253 infringes}  any U.S. patent or copyright,  {E254 provided}  Company has control of such {E347 defense} or settlement {E344 negotiations} and MA  {E255 gives}  Company prompt notice of any such {E345 claim} and  {E256 provides}  reasonable {E346 assistance} in its {E347 defense}.
+
+
+
+

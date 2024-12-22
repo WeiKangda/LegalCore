@@ -1,0 +1,206 @@
+
+Exhibit 10.3
+
+[***] INDICATES MATERIAL THAT  HAS   BEEN   OMITTED  AND FOR WHICH CONFIDENTIAL TREATMENT  HAS   BEEN   REQUESTED  . ALL SUCH OMITTED MATERIAL  HAS   BEEN   FILED  WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO  RULE  24b-2  PROMULGATED  UNDER THE SECURITIES EXCHANGE ACT OF  1934 , AS AMENDED
+
+Manufacturing Agreement
+
+Between
+
+Antares Pharma, Inc. and
+
+AMAG Pharmaceuticals, Inc. [***] INDICATES MATERIAL THAT  HAS   BEEN   OMITTED  AND FOR WHICH CONFIDENTIAL TREATMENT  HAS   BEEN   REQUESTED  . ALL SUCH OMITTED MATERIAL  HAS   BEEN   FILED  WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO  RULE  24b-2  PROMULGATED  UNDER THE SECURITIES EXCHANGE ACT OF  1934 , AS AMENDED
+
+MANUFACTURING AGREEMENT
+
+This Manufacturing Agreement ("Agreement") is  made  and  entered  into as of the 20th  day  of  March ,  2018  (the "Effective  Date  ") by and between Antares Pharma, Inc., a Delaware corporation, with offices  located  at 100 Princeton South, Suite 300, Ewing, NJ 08628 ("Antares"), and AMAG Pharmaceuticals, Inc., a Delaware corporation, with a corporate address at 1100 Winter Street, Waltham, MA 02451 ("AMAG"). Antares and AMAG are sometimes  referred  to herein individually as a "Party" and collectively as the "Parties". Recitals WHEREAS, AMAG is  engaged  in  discovering  ,  developing  and marketing pharmaceutical products,  including  the Drug (as  defined  below); WHEREAS, Antares is  engaged  in the research and development of certain drug delivery devices,  including  auto-injection systems and the development and marketing of pharmaceutical products; WHEREAS, AMAG Pharma USA, Inc. (f/k/a Lumara Health, Inc., ("AMAG USA")), which was  acquired  by AMAG on  November 12, 2014  and is a wholly- owned  subsidiary of AMAG, and Antares  entered  into a certain Development and License Agreement ( defined  below) under which Antares  granted  AMAG USA an exclusive, worldwide license to Antares' VIBEXÂ® QuickShotÂ® (QS) auto-injection system or similar Device ( defined  below) for use with the Drug, and further under which Antares and AMAG USA  agreed  to  collaborate  to  develop  such a product;
+
+WHEREAS, contemporaneously with the execution of this Agreement, Antares, AMAG and AMAG USA are  entering  into a First Amendment to Development and License Agreement, pursuant to which, among other amendments set forth therein, AMAG USA  assigned  , and AMAG  assumed  , the rights and responsibilities under the Development and License Agreement (the "First Amendment to Development and License Agreement");
+
+WHEREAS, AMAG (as the  permitted  assignee of the Development and License Agreement) and Antares  agreed  under the Development and License Agreement to  enter  into this Agreement and, whereby it will  provide  Antares or its Subcontractor ( defined  below) with Prefilled Syringes ( defined  below)  containing  the Drug and Antares or it Subcontractor will  incorporate  the Prefilled Syringes into Devices to  produce   finished  Products ( defined  below) and  sample  Products to  supply  AMAG's requirements for such Products and sample Products; and
+
+WHEREAS, AMAG  wishes  to  purchase  , and Antares  wishes  to  supply  , AMAG's requirements of the Trainers ( defined  below) on the terms set forth in this Agreement. NOW, THEREFORE, in consideration of the foregoing and the mutual covenants and promises  contained  in this Agreement, the Parties hereto  agree  as  follows  :
+
+- 1 -
+
+
+
+
+
+[***] INDICATES MATERIAL THAT  HAS   BEEN   OMITTED  AND FOR WHICH CONFIDENTIAL TREATMENT  HAS   BEEN   REQUESTED  . ALL SUCH OMITTED MATERIAL  HAS   BEEN   FILED  WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO  RULE  24b-2  PROMULGATED  UNDER THE SECURITIES EXCHANGE ACT OF  1934 , AS AMENDED
+
+ARTICLE 1 INTERPRETATION
+
+1.1 Definitions. Capitalized terms  used  in this Agreement and not otherwise  defined  in this Section 1.1 shall have the meanings set out in the Development and License Agreement. The  following  terms shall, unless the context otherwise  requires  , have the respective meanings set out below and grammatical variations of such terms shall have corresponding meanings:
+
+"[***]" has the meaning specified in Section 3.2(c);
+
+"[***]" has the meaning specified in Section 3.2(c);
+
+[***]
+
+"Agreement" has the meaning specified in the Preamble;
+
+"AMAG" has the meaning specified in the Preamble;
+
+"AMAG Indemnitees" has the meaning specified in Section 9.2;
+
+"AMAG USA" has the meaning specified in the Recitals;
+
+"AMAG Quality Tasks" means AMAG's quality, testing and release obligations set forth in Section 2.6(b) and in the Quality Agreement;
+
+"Annual Product Review Report" means the  annual  product review report as described in Title 21 of the United States Code of Federal Regulations, Section 211.180(e);
+
+"Annual Report" means the  annual  report as described in Title 21 of the United States Code of Federal Regulations, Section 314.81(b)(2);
+
+"Antares" has the meaning specified in the Preamble;
+
+"Antares' Fully  Burdened  Manufacturing Costs" means those costs actually incurred by Antares related directly to the acquisition of materials and their conversion into Products, sample Products or Trainers, as the case may be. [***];
+
+"Antares Indemnitees" has the meaning specified in Section 9.1;
+
+"Batch Record" means a detailed, step-by-step description of the entire assembly, packaging and labelling process for the Products and sample Products which explains how such Products or sample Products (as the case may be) were assembled, packaged and labelled, indicating specific types and quantities of Components, additional materials, processing parameters, in- process quality controls, and other relevant controls;
+
+- 2 -
+
+
+
+
+
+[***] INDICATES MATERIAL THAT  HAS   BEEN   OMITTED  AND FOR WHICH CONFIDENTIAL TREATMENT  HAS   BEEN   REQUESTED  . ALL SUCH OMITTED MATERIAL  HAS   BEEN   FILED  WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO  RULE  24b-2  PROMULGATED  UNDER THE SECURITIES EXCHANGE ACT OF  1934 , AS AMENDED
+
+"Binding Forecast" has the meaning specified in Section 3.2(a);
+
+"[***]" has the meaning specified in Section 3.2(c);
+
+"Business Day" means  a day  other than a  Saturday ,  Sunday  or  a day  that is a federal holiday in the United States;
+
+"Calendar Quarter" means  a three-  ending on  month  period March 31 ,  June 30 ,  September 30  or  December 31 ;
+
+"Calendar Year" means a calendar  year  occurring after the Effective  Date  ; provided, however, the first Calendar Year means the period from the Effective  Date  up to and including  December 31  of the same calendar  year  in which the Effective  Date  occurs;
+
+"[***]" has the meaning specified in Section 3.2(c);
+
+"Certificate of Analysis (Device)" means a document signed by an authorized representative of Antares or the Subcontractor that conducted the applicable analysis, in reasonable and customary form, that: (i) describes the specifications for, and testing methods applied to, the quantity of each of the Major Device Components manufactured by or on behalf of Antares pursuant to this Agreement, and the results of such testing, and (ii) certifies that such quantity of each of the Major Device Components was manufactured in accordance with cGMP, all other Applicable Laws, and the Product Specifications;
+
+"Certificate of Analysis (PFS Manufacture)" means a document signed by an authorized representative of AMAG, its agent or its permitted subcontractor that conducted the applicable analysis, in reasonable and customary form, that: (i) describes the specifications for, and testing methods applied to the Drug manufactured by or on behalf of AMAG pursuant to this Agreement, and the results of such testing, and (ii) certifies that such quantity of Drug was manufactured in accordance with cGMP, all other Applicable Laws, and the Product Specifications;
+
+"Certificate of Analysis (PFS ID Testing)" means a document signed by an authorized representative of AMAG, its agent or its permitted subcontractor that conducted the applicable analysis, in reasonable and customary form, that describes the specifications for, and testing methods applied to, the Drug manufactured by or on behalf of AMAG pursuant to this Agreement for identification of the Drug, and the results of such testing;
+
+"Certificate of Analysis (Product)" means a document signed by an authorized representative of AMAG, its agent or its permitted subcontractor that conducted the applicable analysis, in reasonable and customary form, that: (i) describes the specifications for, and testing methods applied to, the quantity of Product and/or sample Product manufactured by or on behalf of Antares pursuant to this Agreement, and the results of such testing, and (ii) certifies that such quantity of Product and/or sample Product was
+
+- 3 -
+
+
+
+
+
+[***] INDICATES MATERIAL THAT  HAS   BEEN   OMITTED  AND FOR WHICH CONFIDENTIAL TREATMENT  HAS   BEEN   REQUESTED  . ALL SUCH OMITTED MATERIAL  HAS   BEEN   FILED  WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO  RULE  24b-2  PROMULGATED  UNDER THE SECURITIES EXCHANGE ACT OF  1934 , AS AMENDED
+
+ manufactured  in accordance with cGMP, all other Applicable Laws, and the Product Specifications;
+
+"Certificate of Conformance (Device)" means the document provided to AMAG by Antares or the Subcontractor that conducted the applicable review, as the case may be, that certifies each batch of each of the Major Device Components was manufactured in compliance with the cGMP, all other Applicable Laws, and the Product Specifications;
+
+"Certificate of Conformance (Product)" means the document provided to AMAG by Antares or the Subcontractor that conducted the applicable review, as the case may be, that certifies each batch of Product and/or sample Product was assembled, packaged and labelled in compliance with the cGMP, all other Applicable Laws, and the Product Specifications;
+
+"cGMP" means  current  good manufacturing practice and standards as provided for (and as amended from time to time) in the " Current  Good Manufacturing Practice Regulations" of the U.S. Code of Federal Regulations Title 21 (21CFRÂ§4; 21CFRÂ§210/211 and 21CFRÂ§820) and in European Community Council Directive 93/42/EEC concerning medical devices, any U.S., European, or other applicable laws, regulations or respective guidance documents  now  or subsequently established by a governmental or regulatory authority, and any arrangements, additions, or clarifications;
+
+" Change  Order" has the meaning specified in Section 4.2(b);
+
+"Commercially Reasonable Efforts" means, with respect to each Party, such efforts and commitment of resources in accordance with [***] that such Party [***]. As  used  in this definition of "Commercially Reasonable Efforts", "reasonable" shall be  measured  by [***]. References in this Agreement to "commercially reasonable" and similar formulations shall be  deemed  to  incorporate  the standard set forth in this definition of "Commercially Reasonable Efforts";
+
+"Components" means, collectively, [***];
+
+"Damages" has the meaning specified in Section 9.1;
+
+"Deficiency Notice" has the meaning specified in Section 5.1(a);
+
+"Delivery  Date  " means the delivery date of a Purchase Order of Products, sample Products or Trainers as agreed upon by the Parties pursuant to Section 3.2(b)(i) or Antares' proposed date if AMAG does not respond within the [***] set forth in Section 3.2(b)(i);
+
+"Development and License Agreement" means that certain Development and License Agreement entered into by and between the Parties dated as of  September 30, 2014 , as amended by the First Amendment to the Development and License Agreement, and as further amended by the Parties from time to time;
+
+- 4 -
+
+
+
+
+
+[***] INDICATES MATERIAL THAT  HAS   BEEN   OMITTED  AND FOR WHICH CONFIDENTIAL TREATMENT  HAS   BEEN   REQUESTED  . ALL SUCH OMITTED MATERIAL  HAS   BEEN   FILED  WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO  RULE  24b-2  PROMULGATED  UNDER THE SECURITIES EXCHANGE ACT OF  1934 , AS AMENDED
+
+"Device" means the VIBEXÂ® QS auto-injection system device, consisting of the Major Device Components, designed and developed to incorporate a Prefilled Syringe for delivery of the Drug, and any improvements or modifications thereof made pursuant to the Development and License Agreement, or such other Antares-proprietary device as agreed to by Antares designed and developed to deliver the Drug pursuant to the Development and License Agreement, as further set forth on Exhibit B. For greater certainty, the Major Device Components are intended to be assembled with the Prefilled Syringe to produce a finished Product;
+
+"DHF" has the meaning specified in the Development and License Agreement;
+
+"DMF" has the meaning specified in the Development and License Agreement and is expanded to further clarify that a DMF is equivalent to an "MAF" or Master File;
+
+"Drug" means 17-alpha hydroxyprogesterone caproate;
+
+"Effective  Date  " has the meaning specified in the Preamble;
+
+[***]
+
+"Excess Order" has the meaning specified in Section 3.2(b)(i);
+
+"Firm Orders" means any Purchase Order accepted by Antares pursuant to Section 3.2(b)(i) (as evidenced by an Order Acceptance), including any Excess Orders agreed to by Antares in an Order Acceptance, with the Delivery  Date  as set forth in Section 3.2(b)(i);
+
+"First Amendment to the Development and License Agreement" has the meaning specified in the Recitals;
+
+"Force Majeure Event" has the meaning specified in Section 12.4;
+
+"Forecast" has the meaning specified in Section 3.2(a);
+
+"[***]" has the meaning specified in Section 4.6;
+
+"[***]" has the meaning specified in Section 3.2(c);
+
+"[***]" has the meaning specified in Section 3.2(c);
+
+"Invoice" has the meaning specified in Section 4.2(a);
+
+"[***]" has the meaning specified in Section 3.2(c);
+
+"Latent Defects" has the meaning specified in Section 5.1(a);
+
+- 5 -
+
+
+
+
+
+[***] INDICATES MATERIAL THAT  HAS   BEEN   OMITTED  AND FOR WHICH CONFIDENTIAL TREATMENT  HAS   BEEN   REQUESTED  . ALL SUCH OMITTED MATERIAL  HAS   BEEN   FILED  WITH THE SECURITIES AND EXCHANGE COMMISSION PURSUANT TO  RULE  24b-2  PROMULGATED  UNDER THE SECURITIES EXCHANGE ACT OF  1934 , AS AMENDED
+
+"Long Lead Time Materials" means [***], a description of which are set forth on Exhibit A (as such exhibit may be amended from time to time by the mutual written agreement of the Parties), [***];
+
+"Major Device Components" means the following Components of the Device: [***]. "Manufacture(d) at Risk" has the meaning specified in Section 3.7(a);
+
+"Manufacturing Services" means the manufacturing, quality control and quality assurance, storage, labelling, packaging, assembly and related services, to be performed by Antares or its Subcontractor as contemplated in this Agreement and described in the Specifications and the Quality Agreement, required to manufacture Devices and produce and supply Trainers, Products and sample Products from such Devices, Prefilled Syringes and Components. For the avoidance of doubt, the "Manufacturing Services" specifically  excludes  the AMAG Quality Tasks and all other services, activities or tasks to be  performed  by or on behalf of AMAG set forth in this Agreement or as otherwise  described  in the Specifications or the Quality Agreement;
+
+"Manufacturing Site" means [***] or such other facility owned and operated by Antares or a Subcontractor on behalf of Antares under this Agreement [***]. "Non-Binding Forecast" has the meaning specified in Section 3.2(a);
+
+"Non-Cancellable Non-Returnable Materials" or "NCNR Materials" means [***];
+
+[***]
+
+"Order Acceptance" has the meaning specified in Section 3.2(b)(i);
+
+"Other Approved Antares Product" has the meaning specified in Section 4.6(a);
+
+"Parties" and "Party" have the meanings  specified  in the Preamble;
+
+"Person" means any natural person, a corporation, a partnership, a trust, a joint venture, a limited liability company, any Governmental Authority or any other entity or organization;
+
+"[***]" has the meaning specified in Section 2.1(b);
+
+"Prefilled Syringe" means the prefilled syringe containing the formulated Drug for incorporation into the Device, as further set forth in the Product Specifications;
+
+"Prior Orders" has the meaning specified in Section 3.2(c);
+
+"Product(s)" means the fully packaged Device for auto-injection delivery of the Drug incorporating a Prefilled Syringe and other applicable Components listed on Exhibit B
+
+- 6 -
+
+
+
+
+
+[***] INDICATES MATERIAL THAT  HAS   BEEN   OMITTED  AND FOR WHICH CONFIDENTIAL TREATMENT  HAS   BEEN   REQUESTED  .

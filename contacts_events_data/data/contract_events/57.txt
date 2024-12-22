@@ -1,0 +1,98 @@
+
+Exhibit 10.5
+
+Note: Portions of this exhibit  indicated  by"[*]" are subject to a confidential treatment request, and have been  omitted  from this exhibit. Complete, unredacted copies of this exhibit have been  filed  with the Securities and Exchange Commission as part of this Company's confidential treatment request. Distributor Agreement                               ---------------------  
+
+This Distributor Agreement (the "Agreement") is  made  effective as of the 31st  day  of  March ,  2000  (the "Effective  Date  "), by and between Airspan Networks Incorporated, a company  incorporated  under the laws of the State of Washington  having  its principal office at 777 108th Avenue NE, Suite  1895 , Bellevue, Washington 98004 ("Airspan") and GLS LLC, ("Distributor") a limited liability company  incorporated  under the laws of the State of South Dakota  having  its principal office at 501 Fourth Street, Sergeant Bluff, IA 51054. WITNESSETH:
+
+WHEREAS, Airspan is  engaged  in the design and manufacture of various telecommunications product lines,  including  , among others, those product lines more completely  described  in Schedule I  hereto  (the product lines  described  in Schedule I, as from time to time  amended  in accordance with the provisions of this Agreement, are hereinafter  called  the "Airspan Products") the hardware components thereof are sometimes  referred  to separately as "Equipment," the software components thereof are sometimes  referred  to separately as "Software" as  defined  in Section 11.1, and an arrangement of Equipment which, when  interfaced  with Software, is operable to  perform  predetermined functions, is  referred  to as a "System");
+
+WHEREAS, Distributor is  engaged  in the promotion of sales of telecommunications products; and
+
+WHEREAS, Airspan  desires  to  appoint  Distributor as a Distributor for the Airspan Products for the territory  described  in Schedule II hereto (the "Territory"). NOW, THEREFORE, in consideration of the mutual promises herein  contained  , it is hereby  agreed  as  follows  :
+
+1. APPOINTMENT. -----------
+
+1.1  Subject to the provisions of this Agreement, Airspan hereby  appoints  Distributor as an independent, exclusive distributor to  assist  Airspan in  marketing  the Airspan Products to customers in the Territory, and Distributor hereby  accepts  such appointment as of the Effective  Date  of this Agreement. Distributor's appointment as a distributor of the Airspan Products grants to Distributor only a license to  resell  the
+
+- -------------------------------------------------------------------------------
+
+Page 1
+
+Airspan Products to Distributor's customers in the Territory, and  does  not  transfer  any right, title, or interest in any of the Airspan Software to Distributor. 1.2  Distributor's relationship to Airspan is that of an independent contractor, and nothing in this Agreement shall  constitute  Distributor as the agent or employee of Airspan. Distributor shall have no authority to  accept  any order or  make  any offer (except as herein  stated  ), or  execute  any instrument or  make  any commitment on behalf of Airspan. Specifically, without in any way  limiting  the generality of the foregoing, Distributor  agrees  not to  make  any representation, guarantee, or warranty on Airspan's behalf  concerning  the Airspan Products, but will  refer  customers to Airspan's  printed  literature. Nothing  contained  in this Agreement is to be  construed  as a limitation or restriction upon Airspan in the sale or other disposition of any of its products to any person, firm, or corporation inside or outside of the Territory. Airspan will  pay  no commissions under this Agreement. Distributor's compensation is to be  obtained  solely by the difference between the price Distributor  pays  to Airspan and the price Distributor  charges  its customers. The parties also  acknowledge  that this Agreement is not  intended  to  create  a joint venture or partnership between Airspan and Distributor. 1.3  Distributor will  use  its best efforts to  maintain  and  support  the Airspan Products within the Territory by  devoting  such attention, time, and effort as may be reasonably necessary to fully  develop  the available market potential. During the  term  of this Agreement, and for a period of three (3)  months   following  the expiration or termination of this Agreement, Distributor  agrees  that neither it nor any organization or entity  controlled  or  directed  by it will, without Airspan's prior,  written  consent,  represent  a manufacturer or supplier of products similar in design or performance to or which are of such a nature as to be competitive with any products  contained  in the Airspan Products, nor will Distributor market or otherwise  promote  the sale of such products. Distributor will  give  Airspan thirty (30)  days  ' prior,  written  notice of each new potential representation role being  considered  by Distributor, and Distributor will not  undertake  such representation without Airspan's prior,  written  consent, such consent not to be unreasonably  withheld  . Except as
+
+
+
+
+
+ provided  above, in no event will  Airspan  consent to Distributor's consultation for or representation of a manufacturer or supplier, which is directly or indirectly, a competitor of Airspan. 1.4  Distributor shall  maintain  a place of business at the location  specified  in Section 21.10 where Distributor can be  contacted  by Airspan, customers, and prospective customers during regular business hours with a permanent mailing address and an accessible cellular telephone, and will  provide  Airspan with  written  notice promptly upon any change in address. Distributor  agrees  to  assume  all of the expenses of this place of business,  including  rent, stenographic services, and all other expenses except as specifically  assumed  in writing by Airspan. - --------------------------------------------------------------------------------
+
+Page 2
+
+1.5  Airspan will  provide  Distributor with such commercial and technical assistance and training as may reasonably be necessary, in Airspan's sole judgment, to  enable  Distributor to effectively  carry  out its activities under this Agreement and, in connection therewith, to  provide  such sales promotional materials, as Airspan may  deem  appropriate. Airspan will  provide  such technical support as is reasonable and necessary to  maintain  the product line as a viable competitor in the market. 2. REPRESENTATIONS AND WARRANTIES. Distributor hereby  represents  and warrants as  follows  :
+
+a. Distributor has been duly  registered  in accordance with any and all relevant legislation, has  received  any and all necessary governmental authorizations to  enter  into and  perform  its obligations under this Agreement, and that its entry into and performance under this Agreement will not  violate  applicable legislation;
+
+b. Distributor is duly  registered  with all necessary tax authorities and is in compliance with all payment obligations in accordance with applicable legislation. No claims against or investigations of Distributor with respect to its tax obligations  exist  ;
+
+c. Distributor is not  currently   involved  in any litigation, arbitration, or other legal proceedings in which claims are being  asserted  against Distributor which might  affect  its ability to  perform  its obligations under this Agreement, nor is Distributor aware of any unasserted claims against Distributor of this nature; and
+
+d. Distributor's bank accounts have been  established  and  operated  in accordance with applicable legislation. All transactions of Distributor  required  to be  carried  out through  authorized  banks have been so  carried  out. Distributor is not, has not, and warrants that it will not  breach  any currency regulation or currency control legislation. Distributor further warrants that it is not, has not, and will not  breach  any bank secrecy act, rules or regulations. 3. SERVICES. 3.1  In addition to the above, the Distributor will  perform  the  following       services under this Agreement:
+
+a. In cooperation with Airspan,  identify  potential customers and project      opportunities within the Territory that will  lead  to sales/licenses of      Airspan Products and services;
+
+b. Prepare  reports  on the opportunities that will  include  :  (1) description      of the project; (2) assessment of the appropriate fit to Airspan Products      and
+
+- --------------------------------------------------------------------------------
+
+Page 3
+
+services; (3) dollar size and timing of the project; (4) competitive      assessment; and (5) identification of key decision makers and other      technical and commercial contacts;
+
+c. Assist and  advise  Airspan in the preparation and delivery of appropriate      marketing and sales programs;
+
+d. Initiate and  coordinate  meetings at all levels for the appropriate      Airspan employees to  evaluate  the  identified  projects;
+
+e. Initiate and  assist  in the preparation of sales and technical meetings      with customers, and where appropriate,  attend  these meetings with Airspan      personnel and  provide  administrative support and translation services;
+
+3.2  Distributor will  use  its best efforts to vigorously and aggressively       promote  the sale of Airspan Products within the Territory. Such efforts      shall  include  , but shall not be  limited  to, that advertising within the      Territory which is reasonably necessary. All such advertising shall  follow       the general statements  made  in advertising  prepared  by Airspan. All      advertising shall  contain  a prominent reference to Airspan,  indicating  the      actual commercial origin of Airspan Products so  advertised  . Distributor      shall not  make  any claims in its advertising which  exceed  or  contradict  
+
+
+
+
+
+claims  made  by Airspan in its  printed  materials. 3.3  Distributor will  train  and  maintain  a sufficient number of technical      and sales personnel in order to: (a)  serve  the demands and needs of its      customers for Airspan Products, service, and support; and (b)  carry  out the      obligations of Distributor under this Agreement. 3.4  Distributor and its staff will be conversant with the technical      language  related  to Airspan Products and will  develop  sufficient knowledge      of the industry, Airspan Products, and products competitive with Airspan      Products ( including  specifications, features, and benefits) so as to be      able to  explain  in detail to customers the differences between Airspan      Products and competitive products. Distributor will  conduct  or  provide  for      any training of its personnel which may be necessary to  impart  such      knowledge. 3.5  Distributor and its staff will  research  the technical requirements and      specifications of the market for Airspan Products in the Territory and  make       information  known  to Airspan such that Airspan may, at its discretion,       implement  appropriate technical changes to the Products to  enable  them to      be  sold  in the Territory. Airspan  acknowledges  that, subject to a further      and separate Agreement, such changes may be  implemented  in the future by      Distributor, with the assistance of Airspan. - ------------------------------------------------------------------------------
+
+Page 4
+
+3.6  Distributor  agrees  to  purchase  and  stock  a comprehensive inventory of      spare parts  based  upon the  recommended  list set forth in Schedule III to      this Agreement. 3.7  Distributor  agrees  to  provide  to its customers' installation services      for all Airspan Products. All such installation services shall be       performed  by Distributor in accordance with Airspan's latest installation      standards as  provided  by Airspan. 3.8  Distributor  agrees  to  train  and have readily available a maintenance      staff to efficiently and expeditiously  maintain  or  upgrade  all Airspan      Products  purchased  or  licensed  by Distributor from Airspan. Maintenance      shall be  performed  in accordance with Airspan's latest maintenance      standards for Airspan Products, as  provided  by Airspan, by Distributor's      own personnel and may not be  subcontracted  or  delegated  to any other person      or entity without Airspan's prior,  written  authorization. 3.9  Distributor  agrees  to  provide  and  maintain  those facilities adequate      to  meet  the obligations set forth in this section and of the Agreement. Distributor further  agrees  to  provide  all of the sales and support      functions set forth in this section at no charge to Airspan. 3.10 Distributor  agrees  not to actively  seek  to  promote  ,  rent  , lease,  sell  ,      sublicense or  authorize  the rental, sale or sublicense of Airspan Products      outside of the Territory [without the prior  written  approval of Airspan],      but nothing in this Agreement shall  prevent  Distributor from  renting  ,      selling or  sublicensing  the Airspan Products to customers outside of the      Territory in response to an unsolicited request from such customer. 3.11 During the  term  of this Agreement Distributor  agrees  that neither it      nor any organization or entity  controlled  or  directed  by it will, without      Airspan's prior,  written  consent,  represent  a manufacturer or supplier of      products similar in design or performance to or which are of such a nature      as to be competitive with any products  contained  in the Airspan Products. 3.12 The parties mutually  agree  that by  April 30, 2000 , the parties will       negotiate  and  execute  a National Accounts Consulting Agreement whereby the      Distributor will  receive  consulting fees and commissions for the sale and      deployment of Airspan's products on a national basis. It is the intent of      the parties to jointly  pursue  the sale of products to  said  companies and to       enter  into and complete contracts for the deployment of products in this      manner. - --------------------------------------------------------------------------------
+
+Page 5
+
+4. ORDERING PROCEDURE. 4.1  The  following  procedures shall be  followed  with respect to each      purchase order  issued  by Distributor:
+
+a. During the  Term  , Distributor will  inform  Airspan of its intent to      purchase Equipment and Installation Services (but only if Airspan expressly       agrees  to  perform  such Installation Services) and to  license  Software, by       sending  to Airspan a  written  order. This  written  order (the "Purchase      Order") will  state  the type of Equipment, System, or Installation Services      that Distributor  wants  to  purchase  and the Software Distributor  wants  to      license, the price of the  ordered  items (the "Contract Price") as set forth      in Schedule IV, "Price List" (which is hereby  incorporated  by reference)      and the  proposed  delivery and installation dates, if applicable. b. Each Purchase Order shall specifically  incorporate  by reference the      terms and conditions of this Agreement, and no additional or different      terms and conditions  stated  in a Purchase Order, any letter, or otherwise
+
+
+
+
+
+shall be  binding  unless expressly  referred  and  agreed  to by Airspan in      writing. In the event of a conflict between the terms and conditions of      this Agreement and of any Purchase Order  issued  hereunder, or if the      Purchase Order  does  not  reference  the terms and conditions of this      Agreement, the terms and conditions of this Agreement shall  control  . 4.2  If a Purchase Order is  accepted  by Airspan, Airspan will  issue  an      order acknowledgment to Distributor within five (5) business  days  of      Airspan's receipt of the  written  Purchase Order from Distributor. 5. RECORDS AND REPORTING. 5.1  At Airspan's request, within fifteen (15)  days  of the end of each      calendar  month  , Distributor will  provide  to Airspan a  written  report       showing  , for the just- ended  calendar  month  : (a) Distributor's shipments of      Airspan Products by dollar volume, both in the aggregate and for such      categories as Airspan may  designate  from time to time; (b) forecasts of      Distributor's anticipated orders by product; (c) Distributor's  current       inventory levels of Airspan Products, in the aggregate and by product; and      (d) any other information which Airspan may reasonably  request  . 5.2  Distributor will promptly  advise  Airspan  concerning  any market      information which  comes  to Distributor's attention  regarding  Airspan,      Airspan Products, Airspan's market position, or the  continued       competitiveness of Airspan Products in the marketplace. Distributor will       confer  with Airspan from
+
+- --------------------------------------------------------------------------------
+
+Page 6
+
+time to time, at Airspan's request, on matters  relating  to market      conditions, distribution forecasting, and product planning. 5.3  For at least two (2)  years  after termination of this Agreement,      Distributor will  maintain  its records, contracts, and accounts  relating  to      distribution of Airspan Products, and will  permit  examination thereof by       authorized  representatives of Airspan at all reasonable times. 6. CONTRACT PRICE
+
+6.1  The Contract Price for each item of Equipment, Installation Services,      or Software is as  specified  in Schedule IV and shall be  paid  to Airspan in      US Dollars (US$) free of any withholding tax and of any currency controls      or other restrictions. The Contract Price  includes  :
+
+a. The price of the Equipment;
+
+b. The fee for the licensing of the Software;
+
+c. If Installation Services are  ordered  and such order is  accepted                 by Airspan, the charges for  installing  and  testing  each unit of                Equipment or Software;
+
+d. The charges for the warranty of the Equipment and Software in                accordance with Sections 14 and 15; and
+
+e.

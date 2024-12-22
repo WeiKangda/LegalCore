@@ -1,0 +1,124 @@
+
+Exhibit 10.29 Confidential Execution Version [***] Certain information in this document has been  excluded  pursuant to Regulation S-K, Item 601(b)(10). Such excluded information is not material and would likely  cause  competitive harm to the registrant if publicly  disclosed  .  NOV 02, 2019 
+
+BIOEQ IP AG
+
+AND
+
+COHERUS BIOSCIENCES, INC. LICENSE AND DEVELOPMENT AGREEMENT
+
+Source: COHERUS BIOSCIENCES, INC., 10-K,  2/27/2020 
+
+
+
+
+
+Confidential Execution Version CONTENTS
+
+Clause Page
+
+1. DEFINITIONS AND INTERPRETATION1
+
+2. LICENSE GRANT10
+
+3. DEVELOPMENT11
+
+4. REGULATORY ACTIVITIES14
+
+5. MANUFACTURING AND SUPPLY17
+
+6. COMMERCIALIZATION18
+
+7. FINANCIAL PROVISIONS20
+
+8. TAXATION23
+
+9. INTELLECTUAL PROPERTY24
+
+10. COVENANTS  RELATING  TO THE [***] AGREEMENT30
+
+11. CONFIDENTIALITY30
+
+12. REPRESENTATIONS, WARRANTIES AND COVENANTS32
+
+13. INDEMNIFICATION AND LIMITATION OF LIABILITY34
+
+14. GOVERNANCE35
+
+15. TERM AND TERMINATION; NON-SOLICITATION37
+
+16. GENERAL PROVISIONS43
+
+Schedules
+
+Annex 1: [***] Agreement
+
+Annex 2:  Term  Sheet for Manufacturing and Supply Agreement
+
+Schedule 1.36:  Licensed  Patents
+
+Schedule 3.2: Initial Development & Manufacturing Plan
+
+Schedule 3.5.1: [***]
+
+Schedule 6.2(c): Initial Commercialization Commitments
+
+Schedule 6.3: Contents of Commercialization Plan for Planned Activities
+
+Schedule 16.5: Pre-Approved Subcontractors
+
+Source: COHERUS BIOSCIENCES, INC., 10-K,  2/27/2020 
+
+
+
+
+
+Confidential Execution Version LICENSE AND DEVELOPMENT AGREEMENT
+
+This LICENSE AND DEVELOPMENT AGREEMENT (this Agreement) is  entered  into effective as of  Nov. 02, 2019  (the Effective  Date  ) by and between Bioeq IP AG,  having  its place of business at [***] (Bioeq) and Coherus BioSciences, Inc.,  having  its principal place of business at 333 Twin Dolphin Drive, Suite 600, Redwood City, CA, 94065, USA (Licensee). Bioeq and Licensee shall also each individually be  referred  to herein as a Party, and shall be  referred  to jointly as the Parties. RECITALS
+
+WHEREAS, Bioeq is a specialized biosimilar company;
+
+WHEREAS, Bioeq is the owner or exclusive licensee of all right, title and interest to certain products which are being  developed  as biosimilars to pharmaceutical products  comprising  the monoclonal antibody fragment Ranibizumab and  currently   marketed  in the field of ophthalmology under the brand name LucentisÂ®;
+
+WHEREAS, Licensee is a company  focused  on the development and commercialization of biosimilar products; and
+
+WHEREAS, Licensee  wishes  to  obtain  an exclusive license from Bioeq for the commercialization of Ranibizumab biosimilar products being  developed  by Bioeq in the United States of America in consideration for upfront, milestone and royalty payments to Bioeq, and Bioeq is willing to  grant  such license subject to the terms and conditions of this Agreement. NOW, THEREFORE, in consideration of the foregoing premises and the mutual covenants set forth below, the Parties hereby  agree  as  follows  :
+
+1.DEFINITIONS AND INTERPRETATION
+
+For purposes of this Agreement, the  capitalized  terms  used  in this Agreement shall have the respective meanings set forth in this Section 1 below. 1.1 Affiliate means with respect to any Party, (a) any legal entity of which the securities or other ownership interests  representing  more than 50% of the equity or more than 50% of the ordinary voting power or more than 50% of the general partnership interest are, at the time such determination is being  made  ,  owned  ,  controlled  or  held  , directly or indirectly, by such legal entity; or (b) any legal entity which, at the time such determination is being  made  , is  controlling  or under common control with, such Party. As  used  in this definition, the  term  "control", whether  used  as a noun or verb,  refers  to the possession, directly or indirectly, of the power to  direct  , or  cause  the direction of, the management or policies of a legal entity, whether through the ownership of voting securities, by contract or otherwise. 1.2 Agreement shall have the meaning  ascribed  to it in the introductory paragraph above. 1.3 Applicable Law means any and all applicable federal, state, local and international laws, rules and regulations,  including  regulations of competent Regulatory Authorities and environmental laws, as  amended  from time to time, and the regulations  promulgated  thereunder, as  amended  from time to time. 1.4 [***]
+
+Source: COHERUS BIOSCIENCES, INC., 10-K,  2/27/2020 
+
+
+
+
+
+Confidential Execution Version 1.5 Biologics License Application or BLA means a request for permission to  introduce  , or  deliver  for introduction, a biologic product into interstate commerce (21 CFR 601.2) to the FDA,  including  any supplements, addendums, or amendments  thereto  . For the avoidance of doubt, the  term  Biologics License Application or BLA shall  include  any Abbreviated Biologics License Application. 1.6 Biologics License Application Approval means issuance of a Department of Health and Human Services U.S. License under 351(k) of the Public Health Services Act  controlling  the manufacture and sale of biologic products or any successor statutory provisions thereof. 1.7 BPCIA means the Biologics Price Competition and Innovation Act of  2009 , as  amended  . 1.8 CMO means contract  manufacturing  organization. 1.9 Commercially Reasonable Efforts means, with respect to the efforts to be  used  by a Party under this Agreement with respect to the Licensed Products, those efforts and resources normally  used  by a major pharmaceutical or a sufficiently  financed  biotechnology company for a product  owned  by it, or to which it has rights, which is of similar market potential at comparable stages of development,  taking  into account the competitiveness of the marketplace, the proprietary position of the product, the performance of other products that are of similar market potential and the likely timing of other product's entry into the market, the regulatory structure  involved  , the profitability of the applicable product, relevant Third Party intellectual property necessary to  manufacture  or Commercialize the Licensed Product and other relevant factors commonly  considered  in similar circumstances,  including  technical, legal, scientific or medical factors. 1.10 Commercialization means the conduct of all activities  undertaken  before and after Regulatory Approval  relating  to the promotion, marketing, sale and distribution ( including   importing  ,  exporting  , transporting, customs clearance, warehousing, invoicing, handling and  delivering  products to customers) of pharmaceutical products,  including  : (a) sales force efforts, detailing, advertising, medical education, planning, marketing, sales force training and sales and distribution; and (b) scientific and medical affairs. For clarity, Commercialization  does  not  include  any Development activities, whether  conducted  before or after Regulatory Approval. "Commercialize" and "Commercializing" have correlative meanings. 1.11 Competitive Product means (i) any product which  contains  Ranibizumab and is either a Reference Product or a biosimilar to a Reference Product, but  excluding  in any case the Licensed Products, (ii) [***] (but for clarity [***]) or (iii) [***] (but for clarity [***]). 1.12 Competitor means any person or entity (other than the Parties and their Affiliates) which has  initiated  and is then-active in [***] the marketing, selling or distribution of a Competitive Product, [***] in the Territory, as well as any Affiliate of any such person or entity. 1.13 Competitor Change of Control means any of the  following  events after the Effective  Date  :
+
+(a) any Competitor (i)  becomes  the beneficial owner, directly or indirectly, of shares of capital stock or other interests ( including  partnership interests) of the Licensee then outstanding and normally  entitled  (without regard to the occurrence of any contingency) to  vote  in the election of the directors, managers or similar supervisory positions (Voting Stock) of such Party  representing  more than fifty percent (50%) of the total  voting  power of all outstanding classes of Voting Stock of the Licensee or (ii) has the power, directly or indirectly, to  appoint  a majority of the Licensee's  managing  directors or to  elect  a majority of the members of the Licensee's board of directors, supervisory board or similar governing body (Board of Directors); or
+
+Source: COHERUS BIOSCIENCES, INC., 10-K,  2/27/2020 
+
+
+
+
+
+Confidential Execution Version (b) the Licensee  enters  into a merger, consolidation or similar transaction with a Competitor (whether or not such Party is the  surviving  entity) and as a result of such merger, consolidation or similar transaction (i) the  managing  directors or the members of the Board of Directors of the Licensee immediately prior to such transaction  constitute  less than a majority of the  managing  directors or the members of the Board of Directors of the Licensee or such  surviving  person immediately  following  such transaction or (ii) the persons that beneficially  owned  , directly or indirectly, the shares of Voting Stock of the Licensee immediately prior to such transaction cease to beneficially own, directly or indirectly, shares of Voting Stock of the Licensee  representing  a majority of the total  voting  power of all outstanding classes of Voting Stock of the  surviving  person in substantially the same proportions as their ownership of Voting Stock of the Licensee immediately prior to such transaction. 1.14 Confidential Information means, with respect to a Party, all  Know  -How and all other proprietary information of such Party,  including  information on the business, affairs, research and development activities, results of non-clinical and clinical trials, national and multinational regulatory proceedings and affairs, finances, plans, contractual relationships and operations of such Party. Furthermore, the terms and conditions of this Agreement shall be  considered  Confidential Information of both Parties. For the avoidance of doubt, all  Know  -How and proprietary information  relating  to the Licensed Products  generated  by or on behalf of Bioeq and  provided  to Licensee hereunder shall be  considered  Confidential Information of Bioeq. 1.15 Control (whether  used  as a noun or as a verb) or  Controlled  means, with respect to any Intellectual Property Right, Trademark or Know-How, the possession (whether by ownership or license, other than pursuant to this Agreement) by a Party of the ability to  grant  to the other Party access or a license as  provided  herein under such Intellectual Property Right, Trademark or Know-How without  violating  the terms of any agreement or other arrangements with any Third Party. 1.16 Damages shall have the meaning  ascribed  to it in Section 9.4.3. 1.17 Defend or Defense shall have the meaning  ascribed  to it in Section 9.4.2. 1.18 Development means all non-clinical and clinical research and drug development activities as well as Manufacturing process development, upscaling of the Manufacturing process and chemistry, manufacturing and control development work  conducted  in respect of any pharmaceutical product,  including  those necessary to  obtain  Regulatory Approval for such pharmaceutical product. When  used  as a verb, Develop means to  engage  in Development. 1.19 Disclosing Party shall have the meaning  ascribed  to it in Section 11.1. 1.20 Effective  Date  shall have the meaning  ascribed  to it in the introductory paragraph above. 1.21 Existing Reference Product shall have the meaning  ascribed  to it in Section 1.61. 1.22 FDA means the United States Food and Drug Administration, and any successor agency thereto. 1.23 Field means any human use of the Licensed Product in the field of ophthalmology and for any other  approved  labelled indication of such Licensed Products. 1.24 First Commercial Sale means, with respect to any Licensed Product in the Territory, the first sale by Licensee or its Affiliates of such Licensed Product to a Third Party for use in the Field in the Territory, after such Licensed Product has been  granted  Regulatory Approval for use in the Field in the Territory. Source: COHERUS BIOSCIENCES, INC., 10-K,  2/27/2020 
+
+
+
+
+
+Confidential Execution Version 1.25 [***] means [***]
+
+1.26 [***] Agreement means the license agreement  existing  between Bioeq and [***]  dated  as of [***] and  attached  to this Agreement as Annex 1. 1.27 Gross Margin means Net Sales for the sale of any Licensed Product less (a) [***] the supply price  paid  by Licensee or its Affiliates to Bioeq for the supply of such Licensed Product under the Manufacturing and Supply Agreement ( including  any Sales Tax thereon  paid  by Licensee to Bioeq and not  refunded  back to Licensee in accordance with Section 8.1) [***], (b) Damages, and (c)  Qualifying  IP Clearance Litigation Costs. Gross Margin will be  calculated  on a Licensed Product-by- Licensed  Product and calendar  quarter  -by-calendar  quarter  basis in accordance with Section 7.3.3. 1.28 Improvement means any Invention  developed  ,  conceived  or  reduced  to  practice  by or on behalf of either Party in relation to any Licensed Product during the  term  of this Agreement, but for clarity  excluding  any New Products. 1.29 Indemnified Party shall have the meaning  ascribed  to it in Section 13.3(a). 1.30 Indemnifying Party shall have the meaning  ascribed  to it in Section 13.3(a). 1.31 Infringement Claim shall have the meaning  ascribed  to it in Section 9.4.2. 1.32 Insolvency Event means:
+
+1.32.1 In relation to Licensee: (a) the making by it of a general assignment for the benefit of creditors; (b) the commencement by it of any voluntary petition in bankruptcy or suffering by it of the filing of an involuntary petition of its creditors; (c) the suffering by it of the appointment of a receiver to  take  possession of all, or substantially all, of its assets; (d) the suffering by it of the attachment or other judicial seizure of all, or substantially all, of its assets; (e) the admission by it in writing of its inability to  pay  its debts as they  come  due; or (f) the making by it of an offer of settlement, extension or composition to its creditors generally. 1.32.2 In relation to Bioeq: (a) its over-indebtedness (Ãberschuldung), (b) its inability to  make  payments as and when they  fall  due (ZahlungsunfÃ¤higkeit), (c) it  ceasing  to  make  payments on account of debts as and when they  fall  due (Zahlungseinstellung), (d) the commencement of negotiations with its creditors with a view to  rescheduling  its indebtedness, (e) the initiation by Bioeq of any proceedings for bankruptcy (Konkurs), the postponement of bankruptcy (Konkursaufschub) or the grant of a composition moratorium (Nachlassstundung), (f) the opening of proceedings for bankruptcy, the postponement of bankruptcy or the grant of a composition moratorium with respect to Bioeq upon request of a Third Party (g) the sequestration (Arrestierung), attachment or seizure of, or the appointment of a receiver or administrator with respect to, all or substantially all of its assets or (f) the occurrence of any event which is similar in its effect to (a) through (f) under any Applicable Laws. 1.33 Intellectual Property Rights means, with respect to any technology, (a) all Patent Rights which  claim  or  cover  such technology, and (b) all other  existing  and future intellectual property rights (but not any  Know  -How)  relating  to such technology,  including  all legally  protected  trade secrets, copyrights and other intellectual property rights of any kind, but  excluding  any Trademark. 1.34 In-Licensed Licensed Patents means all Licensed Patents which are exclusively  inâlicensed  by Bioeq,  including  those Patent Rights exclusively in- licensed  by Bioeq from [***] pursuant to the [***] Agreement ([***] -Licensed  Patents). Source: COHERUS BIOSCIENCES, INC., 10-K,  2/27/2020 
+
+
+
+
+
+Confidential Execution Version 1.35 Invention means any invention, technology, improvement, change, modification or enhancement  developed  ,  conceived  or  reduced  to  practice  by or on behalf of either Party during the  term  of this Agreement. 1.36 Know-How means all technical, scientific and other information, inventions, discoveries, trade secrets, knowledge, technology, means, methods, processes, practices, formulae, instructions, skills, techniques, procedures,  expressed  ideas, technical assistance, designs, drawings, assembly procedures, computer programs, apparatuses, specifications, Development information, results, non-clinical, clinical, safety, process and Manufacturing and quality control data and information ( including  trial designs and protocols), registration dossiers and assay and biological methodology, in each case, solely to the extent confidential and proprietary and in  written  , electronic or any other form  now   known  or hereafter  developed  .

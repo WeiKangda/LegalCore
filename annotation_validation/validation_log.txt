@@ -1,0 +1,50 @@
+52:
+Ishaan: 
+        E23 expire -> E23 experition correct
+        E52 used -> E52 use wrong
+        E205 game -> E207 Playoff Game missed
+        E69 pay -> E210 payment missed
+        E62 pay -> E210 payment missed
+Jonathan: 
+        E23 expire -> E197 experition missed (cross-subsection)
+        E205 game -> E207 Playoff Game missed
+
+53:
+Ishaan:
+    E57 Use -> E57 Use correct (cross-section)
+    
+Jonathan:
+    E57 Use -> E126 Use missed (cross-section)
+    E104 Purchase Order -> E47 Purchase E127 Order missed (cross-section) 
+
+54:
+Ishaan:
+    E164 Invention -> E246 Inventions missed (cross-section)
+    E195 use -> E195 use wrong
+    E197 activities -> E171 activites missed
+    E201 activites -> E171 activites missed
+    E101 debarred -> E218 debarred missed
+    E232 Payments -> E232 payment missed
+    E239 overpayment -> E238 overpeyment missed
+Jonathan:
+    E187 completion -> E224 completion missed (cross-section)
+    E241 completion -> E187 completion missed (cross-section)
+
+55:
+Ishaan:
+    E9 provide -> E42 providing missed
+    E24 meets -> E24 meet wrong
+    E43 unscheduled -> E43 unscheduled (not sure)
+    E237 preocessing -> E239 processing missed (cross-section)
+    E260 performance -> E265 performance missed
+Jonathan:
+    E78 choosing -> E85 chosen missed
+    E79 implementing -> E86 implemented missed
+    E80 utilizing -> E87 utilized missed 
+
+56:
+    Ishaan:
+        E50 provide -> E6 provide missed
+        E176 written -> E200 written missed
+        E161 terminated -> E350 termination missed (cross-section)
+    Jonathan:

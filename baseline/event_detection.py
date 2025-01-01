@@ -4,7 +4,7 @@ import sys
 import torch
 from tqdm import tqdm
 from transformers import AutoModel, AutoTokenizer, pipeline, AutoModelForCausalLM
-sys.path.append(os.path.abspath('/scratch/user/kangda/Legal-Coreference'))
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from post_processing.utils import extract_spans_and_triggers, update_offsets, load_jsonl, extract_mentions, append_to_jsonl
 from eval import calculate_micro_macro_f1, save_metrics_to_file
 
@@ -63,9 +63,9 @@ def event_detection(model, tokenizer, data):
 if __name__ == "__main__":
     model_name = "meta-llama/Llama-3.1-8B-Instruct"
     print(model_name)
-    tokenizer = AutoTokenizer.from_pretrained(model_name, cache_dir="/scratch/user/kangda/huggingface_models")
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
     tokenizer.pad_token_id = tokenizer.eos_token_id
-    model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id, cache_dir="/scratch/user/kangda/huggingface_models")
+    model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id)
     model = model.to("cuda" if torch.cuda.is_available() else "cpu")
     model.eval()
 

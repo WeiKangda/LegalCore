@@ -6,6 +6,7 @@ from tqdm import tqdm
 from transformers import AutoModel, AutoTokenizer, pipeline, AutoModelForCausalLM
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from post_processing.utils import extract_spans_and_triggers, update_offsets, load_jsonl, extract_mentions, append_to_jsonl
+from pre_processing.utils import generate_paths
 from eval import calculate_micro_macro_f1, save_metrics_to_file
 
 def generate_response(model, tokenizer, prompt):
@@ -60,8 +61,7 @@ def event_detection(model, tokenizer, data):
 
     return result
 
-if __name__ == "__main__":
-    model_name = "meta-llama/Llama-3.1-8B-Instruct"
+def run_event_detection(model_name,data_path,inference_mode):
     print(model_name)
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     tokenizer.pad_token_id = tokenizer.eos_token_id
@@ -72,14 +72,19 @@ if __name__ == "__main__":
     #prompt = "Sponsor  acknowledges  that Sponsor shall  cooperate  with the Concessionaire  regarding  logistics and management of the Sponsor's food products, and appropriate storage and dispensation of the food products."
     #response = generate_response(model, tokenizer, prompt)
     #print(response)
-    all_data = load_jsonl("./annotation_validation/jonathan_annotations/data.jsonl")
-    #data = all_data[0]
-    #result = event_detection(model, tokenizer, data)
-    #print(result)
-    output_file = "./annotation_validation/jonathan_annotations/detection_output.jsonl"
-    final_result_file = "./annotation_validation/jonathan_annotations/detection_result.txt"
+    # all_data = load_jsonl("./annotation_validation/jonathan_annotations/data.jsonl")
+    # #data = all_data[0]
+    # #result = event_detection(model, tokenizer, data)
+    # #print(result)
+    # output_file = "./annotation_validation/jonathan_annotations/detection_output.jsonl"
+    # final_result_file = "./annotation_validation/jonathan_annotations/detection_result.txt"
+    all_data = load_jsonl(data_path)
+    # Set the output and result file path for event detection
+    task_name = "detection"
+    base_dir = data_path
+    output_file, final_result_file = generate_paths(base_dir, task_name, model_name, inference_mode)
 
-    all_predicted = [] 
+    all_predicted = []
     all_gold = []
     for data in tqdm(all_data):
         result = event_detection(model, tokenizer, data)

@@ -8,6 +8,7 @@ from baseline.event_coreference import event_coreference_end2end
 from baseline.event_detection import event_detection
 from post_processing.utils import load_jsonl, append_to_jsonl, process_coreference, create_coreference_clusters, replace_elements_with_mentions, mentions_to_clusters, extract_mentions
 from pre_processing.utils import replace_elements
+from pre_processing.utils import generate_paths
 from eval import save_metrics_to_file, calculate_micro_macro_muc, calculate_micro_macro_b3, calculate_micro_macro_ceaf_e, calculate_micro_macro_blanc, calculate_micro_macro_f1
 
 def replace_elements_by_index(lst, replacements):
@@ -35,7 +36,8 @@ def replace_elements_by_index(lst, replacements):
             raise IndexError(f"Index {idx} is out of range for the list.")
     return " ".join(lst)
 
-if __name__ == "__main__":
+# if __name__ == "__main__":
+def run_end2end(model_name,data_path,inference_mode):
     '''all_data = load_jsonl("./annotation_validation/jonathan_annotations/data.jsonl")
     data = all_data[0]
     lst = data['tokens']
@@ -45,7 +47,7 @@ if __name__ == "__main__":
     print(text_with_predicted_event)'''
 
     # Load model and tokenizer
-    model_name = "meta-llama/Llama-3.1-8B-Instruct"
+    # model_name = "meta-llama/Llama-3.1-8B-Instruct"
     print(model_name)
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     tokenizer.pad_token_id = tokenizer.eos_token_id
@@ -54,10 +56,12 @@ if __name__ == "__main__":
     model.eval()
 
     # Load data
-    all_data = load_jsonl("./annotation_validation/jonathan_annotations/data.jsonl")
+    all_data = load_jsonl(data_path)
     # Set the output and result file path for event detection
-    output_file = "./annotation_validation/jonathan_annotations/end2end_detection_output.jsonl"
-    final_result_file = "./annotation_validation/jonathan_annotations/end2end_detection_result.txt"
+    task_name="end2end_detection"
+    base_dir=data_path
+    output_file, final_result_file = generate_paths(base_dir, task_name, model_name, inference_mode)
+
 
     # Event prediction
     all_predicted = [] 
@@ -79,8 +83,9 @@ if __name__ == "__main__":
     save_metrics_to_file(final_result, final_result_file)
 
     # Set the output and result file path for event coreference
-    output_file = "./annotation_validation/jonathan_annotations/end2end_coreference_output.jsonl"
-    final_result_file = "./annotation_validation/jonathan_annotations/end2end_coreference_result.txt"
+    task_name = "end2end_coreference"
+    output_file, final_result_file = generate_paths(base_dir, task_name, model_name, inference_mode)
+
 
     # Event coreference
     all_predicted = [] 

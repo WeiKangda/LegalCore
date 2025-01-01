@@ -1,6 +1,8 @@
+import os
 import re
 from collections import defaultdict
 import json
+
 
 def load_jsonl(file_path):
     """
@@ -206,6 +208,32 @@ def split_by_sections(text):
         split_sections.append(text[start_index:end_index].strip())
 
     return split_sections
+
+
+def sanitize_model_name(model_name):
+    """Sanitize model name by replacing special characters with underscores."""
+    return re.sub(r'[^\w]', '_', model_name)
+
+
+def generate_paths(base_dir, task_name, model_name, prompt_setting):
+    """
+    Generate output and result file paths dynamically based on task name, model, and prompt setting.
+
+    Args:
+        base_dir (str): Base directory for the annotation results.
+        task_name (str): The name of the task (e.g., 'event_detection').
+        model_name (str): Full model name.
+        prompt_setting (str): Prompt setting (e.g., 'zero_shot').
+
+    Returns:
+        tuple: output_file, final_result_file
+    """
+    sanitized_model_name = sanitize_model_name(model_name)
+    task_dir = os.path.join(base_dir, task_name, sanitized_model_name, prompt_setting)
+    os.makedirs(task_dir, exist_ok=True)  # Ensure directory exists
+    output_file = os.path.join(task_dir, f"{task_name}_output.jsonl")
+    final_result_file = os.path.join(task_dir, f"{task_name}_result.txt")
+    return output_file, final_result_file
 
 if __name__ == "__main__":
     # Example usage

@@ -5,6 +5,7 @@ from tqdm import tqdm
 from transformers import AutoModel, AutoTokenizer, pipeline, AutoModelForCausalLM
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from post_processing.utils import load_jsonl, append_to_jsonl, process_coreference, create_coreference_clusters, replace_elements_with_mentions, mentions_to_clusters
+from pre_processing.utils import generate_paths
 from eval import save_metrics_to_file, calculate_micro_macro_muc, calculate_micro_macro_b3, calculate_micro_macro_ceaf_e, calculate_micro_macro_blanc
 
 def generate_response(model, tokenizer, prompt):
@@ -65,8 +66,7 @@ def event_coreference_end2end(model, tokenizer, data):
 
     return result
 
-if __name__ == "__main__":
-    model_name = "meta-llama/Llama-3.1-8B-Instruct"
+def run_event_coreference(model_name,data_path,inference_mode):
     print(model_name)
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     tokenizer.pad_token_id = tokenizer.eos_token_id
@@ -74,9 +74,15 @@ if __name__ == "__main__":
     model = model.to("cuda" if torch.cuda.is_available() else "cpu")
     model.eval()
 
-    all_data = load_jsonl("./annotation_validation/jonathan_annotations/data.jsonl")
-    output_file = "./annotation_validation/jonathan_annotations/coreference_output.jsonl"
-    final_result_file = "./annotation_validation/jonathan_annotations/coreference_result.txt"
+    all_data = load_jsonl(data_path)
+    # Set the output and result file path for event detection
+    task_name = "coreference"
+    base_dir = data_path
+    output_file, final_result_file = generate_paths(base_dir, task_name, model_name, inference_mode)
+
+    # all_data = load_jsonl("./annotation_validation/jonathan_annotations/data.jsonl")
+    # output_file = "./annotation_validation/jonathan_annotations/coreference_output.jsonl"
+    # final_result_file = "./annotation_validation/jonathan_annotations/coreference_result.txt"
 
     all_predicted = [] 
     all_gold = []

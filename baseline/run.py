@@ -45,6 +45,9 @@ def main():
 
     # Map simple model name to full model name
     full_model_name = map_model_name(args.model_name)
+    if "GPT" in args.model_name:
+        print("not implemented yet")
+        return
     if not full_model_name:
         raise ValueError(f"Invalid model name: {args.model_name}")
 

@@ -7,8 +7,9 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from post_processing.utils import load_jsonl, append_to_jsonl, process_coreference, create_coreference_clusters, replace_elements_with_mentions, mentions_to_clusters
 from pre_processing.utils import generate_paths
 from eval import save_metrics_to_file, calculate_micro_macro_muc, calculate_micro_macro_b3, calculate_micro_macro_ceaf_e, calculate_micro_macro_blanc
+import api_utils
 
-def generate_response(model, tokenizer, prompt):
+def generate_response(model,is_commercial, tokenizer, prompt):
     msgs = [
         {
             "role": "system",
@@ -29,50 +30,56 @@ def generate_response(model, tokenizer, prompt):
                         Text: " + str(prompt) + "Response:"
         }
     ]
-
-    input_ids = tokenizer.apply_chat_template(
-        msgs,
-        padding=True,
-        return_tensors="pt",
-    ).to("cuda" if torch.cuda.is_available() else "cpu")
-    # Generate text from the model
-    output = model.generate(
-        input_ids=input_ids,
-        max_new_tokens=1024,
-    )
-    prompt_length = input_ids.shape[1]
-    response = tokenizer.decode(output[0][prompt_length:], skip_special_tokens=True)
+    if is_commercial:
+        response = model.eval_call(prompt, debug=False)
+    else:
+        input_ids = tokenizer.apply_chat_template(
+            msgs,
+            padding=True,
+            return_tensors="pt",
+        ).to("cuda" if torch.cuda.is_available() else "cpu")
+        # Generate text from the model
+        output = model.generate(
+            input_ids=input_ids,
+            max_new_tokens=1024,
+        )
+        prompt_length = input_ids.shape[1]
+        response = tokenizer.decode(output[0][prompt_length:], skip_special_tokens=True)
     return response
 
-def event_coreference(model, tokenizer, data):
+def event_coreference(model,is_commercial, tokenizer, data):
     result = {"id": data["id"]}
     text = data['singleton_text']
     mention_list = data["events"]
-    response = generate_response(model, tokenizer, text)
+    response = generate_response(model,is_commercial, tokenizer, text)
     coreference_tuples = process_coreference(response)
     clusters = create_coreference_clusters(coreference_tuples)
     result["clusters"] = replace_elements_with_mentions(clusters, mention_list)
 
     return result
 
-def event_coreference_end2end(model, tokenizer, data):
+def event_coreference_end2end(model,is_commercial, tokenizer, data):
     result = {"id": data["id"]}
     text = data['text_with_predicted_event']
     mention_list = data["events"]
-    response = generate_response(model, tokenizer, text)
+    response = generate_response(model,is_commercial, tokenizer, text)
     coreference_tuples = process_coreference(response)
     clusters = create_coreference_clusters(coreference_tuples)
     result["clusters"] = replace_elements_with_mentions(clusters, mention_list)
 
     return result
 
-def run_event_coreference(model_name,data_path,output_path,inference_mode):
+def run_event_coreference(model_name,is_commercial,data_path,output_path,inference_mode):
     print(model_name)
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    tokenizer.pad_token_id = tokenizer.eos_token_id
-    model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id)
-    model = model.to("cuda" if torch.cuda.is_available() else "cpu")
-    model.eval()
+    if is_commercial:
+        tokenizer = None
+        model = api_utils.GPT(model_name)
+    else:
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
+        tokenizer.pad_token_id = tokenizer.eos_token_id
+        model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id)
+        model = model.to("cuda" if torch.cuda.is_available() else "cpu")
+        model.eval()
 
     all_data = load_jsonl(data_path)
     # Set the output and result file path for event detection
@@ -87,7 +94,7 @@ def run_event_coreference(model_name,data_path,output_path,inference_mode):
     all_predicted = [] 
     all_gold = []
     for data in tqdm(all_data):
-        result = event_coreference(model, tokenizer, data)
+        result = event_coreference(model,is_commercial, tokenizer, data)
         append_to_jsonl(output_file, result)
         all_predicted.append(result["clusters"])
         all_gold.append(mentions_to_clusters(data["events"]))

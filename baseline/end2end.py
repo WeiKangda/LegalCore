@@ -10,7 +10,7 @@ from post_processing.utils import load_jsonl, append_to_jsonl, process_coreferen
 from pre_processing.utils import replace_elements
 from pre_processing.utils import generate_paths
 from eval import save_metrics_to_file, calculate_micro_macro_muc, calculate_micro_macro_b3, calculate_micro_macro_ceaf_e, calculate_micro_macro_blanc, calculate_micro_macro_f1
-
+import api_utils
 def replace_elements_by_index(lst, replacements):
     """
     Replaces elements in a list based on a list of tuples containing 
@@ -37,7 +37,7 @@ def replace_elements_by_index(lst, replacements):
     return " ".join(lst)
 
 # if __name__ == "__main__":
-def run_end2end(model_name,data_path,output_path,inference_mode):
+def run_end2end(model_name,is_commercial,data_path,output_path,inference_mode):
     '''all_data = load_jsonl("./annotation_validation/jonathan_annotations/data.jsonl")
     data = all_data[0]
     lst = data['tokens']
@@ -49,11 +49,15 @@ def run_end2end(model_name,data_path,output_path,inference_mode):
     # Load model and tokenizer
     # model_name = "meta-llama/Llama-3.1-8B-Instruct"
     print(model_name)
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    tokenizer.pad_token_id = tokenizer.eos_token_id
-    model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id)
-    model = model.to("cuda" if torch.cuda.is_available() else "cpu")
-    model.eval()
+    if is_commercial:
+        tokenizer = None
+        model = api_utils.load_model(model_name, 0)
+    else:
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
+        tokenizer.pad_token_id = tokenizer.eos_token_id
+        model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id)
+        model = model.to("cuda" if torch.cuda.is_available() else "cpu")
+        model.eval()
 
     # Load data
     all_data = load_jsonl(data_path)
@@ -67,7 +71,7 @@ def run_end2end(model_name,data_path,output_path,inference_mode):
     all_predicted = [] 
     all_gold = []
     for data in tqdm(all_data):
-        result = event_detection(model, tokenizer, data)
+        result = event_detection(model,is_commercial, tokenizer, data)
         append_to_jsonl(output_file, result)
         all_gold.append(extract_mentions(data["events"]))
         all_predicted.append(result["mentions"])
@@ -91,7 +95,7 @@ def run_end2end(model_name,data_path,output_path,inference_mode):
     all_predicted = [] 
     all_gold = []
     for data in tqdm(all_data):
-        result = event_coreference_end2end(model, tokenizer, data)
+        result = event_coreference_end2end(model,is_commercial, tokenizer, data)
         append_to_jsonl(output_file, result)
         all_predicted.append(result["clusters"])
         all_gold.append(mentions_to_clusters(data["events"]))

@@ -27,7 +27,7 @@ for task in "${tasks[@]}"; do
             ERROR_FILE="${OUTPUT_PATH}${task}_${model}_${prompt}"
             SLURM_FILE="${BASE_DIR}/script/inference.slurm"
             # Submit the job using sbatch or directly execute
-            sbatch --output=${OUTPUT_FILE}.%j -J "inference_${task}_${model}_${prompt}" ${SLURM_FILE} $task $model $prompt
+            sbatch --output=${OUTPUT_FILE}.%j -J "${task}_${model}_${prompt}" ${SLURM_FILE} $task $model $prompt
             echo "Submitted: ${task} | Model: ${model} | Prompt: ${prompt}"
             COUNT=$((COUNT + 1))
         done

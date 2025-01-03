@@ -4,16 +4,17 @@ from event_coreference import run_event_coreference
 from end2end import run_end2end
 
 def map_model_name(simple_name):
-    """Map simple model name to full model name."""
+    """Map simple model name to full model name and indicate if it is a commercial model."""
     model_mapping = {
-        "Llama-3.1-8b-instruct": "meta-llama/Llama-3.1-8B-Instruct",
-        "Mistral-7b": "mistralai/Mistral-7B-Instruct-v0.2",
-        "QWen": "Qwen/Qwen2.5-14B-Instruct",
-        "Phi": "microsoft/Phi-3.5-mini-instruct",
-        "Phi-small": "microsoft/Phi-3-small-8k-instruct",
-        "GPT-4-Turbo": "GPT-4-Turbo"  # For OpenAI API logic
+        "Llama-3.1-8b-instruct": ("meta-llama/Llama-3.1-8B-Instruct", False),
+        "Mistral-7b": ("mistralai/Mistral-7B-Instruct-v0.2", False),
+        "QWen": ("Qwen/Qwen2.5-14B-Instruct", False),
+        "Phi": ("microsoft/Phi-3.5-mini-instruct", False),
+        "Phi-small": ("microsoft/Phi-3-small-8k-instruct", False),
+        "GPT-4-Turbo": ("gpt-4-turbo", True),  # Mark as a commercial model
+        "Gemini-2": ("gemini-2", True)
     }
-    return model_mapping.get(simple_name, None)
+    return model_mapping.get(simple_name, (None, None))
 
 def main():
     parser = argparse.ArgumentParser(description="Run event-related tasks.")
@@ -46,24 +47,24 @@ def main():
     args = parser.parse_args()
 
     # Map simple model name to full model name
-    full_model_name = map_model_name(args.model_name)
-    if "GPT" in args.model_name:
-        print("not implemented yet")
-        return
+    full_model_name, is_commercial = map_model_name(args.model_name)
+    # if "GPT" in args.model_name:
+    #     print("not implemented yet")
+    #     return
     if not full_model_name:
         raise ValueError(f"Invalid model name: {args.model_name}")
 
     if args.setting == "event_detection":
         print(f"Running event detection with model: {full_model_name}, data: {args.data_path}, inference_mode: {args.inference_mode}")
-        run_event_detection(full_model_name, args.data_path,args.output_path, args.inference_mode)
+        run_event_detection(full_model_name,is_commercial, args.data_path,args.output_path, args.inference_mode)
 
     elif args.setting == "event_coreference":
         print(f"Running event coreference with model: {full_model_name}, data: {args.data_path}, inference_mode: {args.inference_mode}")
-        run_event_coreference(full_model_name, args.data_path,args.output_path, args.inference_mode)
+        run_event_coreference(full_model_name,is_commercial, args.data_path,args.output_path, args.inference_mode)
 
     elif args.setting == "end2end":
         print(f"Running end-to-end task with model: {full_model_name}, data: {args.data_path}, inference_mode: {args.inference_mode}")
-        run_end2end(full_model_name, args.data_path,args.output_path, args.inference_mode)
+        run_end2end(full_model_name,is_commercial, args.data_path,args.output_path, args.inference_mode)
 
 if __name__ == "__main__":
     main()

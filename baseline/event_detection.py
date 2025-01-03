@@ -8,8 +8,8 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from post_processing.utils import extract_spans_and_triggers, update_offsets, load_jsonl, extract_mentions, append_to_jsonl
 from pre_processing.utils import generate_paths
 from eval import calculate_micro_macro_f1, save_metrics_to_file
-
-def generate_response(model, tokenizer, prompt):
+import api_utils
+def generate_response(model,is_commercial, tokenizer, prompt):
     msgs = [
         {
             "role": "system",
@@ -29,28 +29,30 @@ def generate_response(model, tokenizer, prompt):
                         If no event is identified, simply return None. Text: {prompt}" + "Response:"
         }
     ]
-
-    input_ids = tokenizer.apply_chat_template(
-        msgs,
-        padding=True,
-        return_tensors="pt",
-    ).to("cuda" if torch.cuda.is_available() else "cpu")
-    # Generate text from the model
-    output = model.generate(
-        input_ids=input_ids,
-        max_new_tokens=1024,
-    )
-    prompt_length = input_ids.shape[1]
-    response = tokenizer.decode(output[0][prompt_length:], skip_special_tokens=True)
+    if is_commercial:
+        response = model.eval_call(prompt, debug=False)
+    else:
+        input_ids = tokenizer.apply_chat_template(
+            msgs,
+            padding=True,
+            return_tensors="pt",
+        ).to("cuda" if torch.cuda.is_available() else "cpu")
+        # Generate text from the model
+        output = model.generate(
+            input_ids=input_ids,
+            max_new_tokens=1024,
+        )
+        prompt_length = input_ids.shape[1]
+        response = tokenizer.decode(output[0][prompt_length:], skip_special_tokens=True)
     return response
 
-def event_detection(model, tokenizer, data):
+def event_detection(model,is_commercial, tokenizer, data):
     cumulative_offsets = 0
     sentences = data['sentences']
     result = {"id": data["id"], "mentions":[]}
     for sentence in sentences:
         length = len(re.split(r'\s+', sentence))
-        response = generate_response(model, tokenizer, sentence)
+        response = generate_response(model,is_commercial, tokenizer, sentence)
         spans_and_triggers = extract_spans_and_triggers(response)
         processed_spans_and_triggers = update_offsets(spans_and_triggers, sentence)
         for processed_spans_and_trigger in processed_spans_and_triggers:
@@ -61,13 +63,17 @@ def event_detection(model, tokenizer, data):
 
     return result
 
-def run_event_detection(model_name,data_path,output_path,inference_mode):
+def run_event_detection(model_name,is_commercial,data_path,output_path,inference_mode):
     print(model_name)
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    tokenizer.pad_token_id = tokenizer.eos_token_id
-    model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id)
-    model = model.to("cuda" if torch.cuda.is_available() else "cpu")
-    model.eval()
+    if is_commercial:
+        tokenizer=None
+        model=api_utils.load_model(model_name,0)
+    else:
+        tokenizer = AutoTokenizer.from_pretrained(model_name)
+        tokenizer.pad_token_id = tokenizer.eos_token_id
+        model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id)
+        model = model.to("cuda" if torch.cuda.is_available() else "cpu")
+        model.eval()
 
     #prompt = "Sponsor  acknowledges  that Sponsor shall  cooperate  with the Concessionaire  regarding  logistics and management of the Sponsor's food products, and appropriate storage and dispensation of the food products."
     #response = generate_response(model, tokenizer, prompt)
@@ -87,7 +93,7 @@ def run_event_detection(model_name,data_path,output_path,inference_mode):
     all_predicted = []
     all_gold = []
     for data in tqdm(all_data):
-        result = event_detection(model, tokenizer, data)
+        result = event_detection(model,is_commercial, tokenizer, data)
         append_to_jsonl(output_file, result)
         all_gold.append(extract_mentions(data["events"]))
         all_predicted.append(result["mentions"])

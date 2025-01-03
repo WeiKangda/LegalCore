@@ -7,7 +7,7 @@ def map_model_name(simple_name):
     """Map simple model name to full model name."""
     model_mapping = {
         "Llama-3.1-8b-instruct": "meta-llama/Llama-3.1-8B-Instruct",
-        "Mistral-7b": "mistralai/Mistral-Nemo-Instruct-2407",
+        "Mistral-7b": "mistralai/Mistral-7B-Instruct-v0.2",
         "QWen": "Qwen/Qwen2.5-14B-Instruct",
         "Phi": "microsoft/Phi-3.5-mini-instruct",
         "Phi-small": "microsoft/Phi-3-small-8k-instruct",
@@ -34,6 +34,8 @@ def main():
         help="Choose the model: 'Llama-3.1-8b-instruct', 'Mistral-7b', 'QWen', 'Phi', 'Phi-small', 'GPT-4-Turbo'."
     )
     parser.add_argument("--data_path", type=str, default="./annotation_validation/jonathan_annotations/data.jsonl", help="The path to the dataset.")
+    parser.add_argument("--output_path", type=str)
+
     parser.add_argument(
         "--inference_mode",
         type=str,
@@ -53,15 +55,15 @@ def main():
 
     if args.setting == "event_detection":
         print(f"Running event detection with model: {full_model_name}, data: {args.data_path}, inference_mode: {args.inference_mode}")
-        run_event_detection(full_model_name, args.data_path, args.inference_mode)
+        run_event_detection(full_model_name, args.data_path,args.output_path, args.inference_mode)
 
     elif args.setting == "event_coreference":
         print(f"Running event coreference with model: {full_model_name}, data: {args.data_path}, inference_mode: {args.inference_mode}")
-        run_event_coreference(full_model_name, args.data_path, args.inference_mode)
+        run_event_coreference(full_model_name, args.data_path,args.output_path, args.inference_mode)
 
     elif args.setting == "end2end":
         print(f"Running end-to-end task with model: {full_model_name}, data: {args.data_path}, inference_mode: {args.inference_mode}")
-        run_end2end(full_model_name, args.data_path, args.inference_mode)
+        run_end2end(full_model_name, args.data_path,args.output_path, args.inference_mode)
 
 if __name__ == "__main__":
     main()

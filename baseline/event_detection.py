@@ -61,7 +61,7 @@ def event_detection(model, tokenizer, data):
 
     return result
 
-def run_event_detection(model_name,data_path,inference_mode):
+def run_event_detection(model_name,data_path,output_path,inference_mode):
     print(model_name)
     tokenizer = AutoTokenizer.from_pretrained(model_name)
     tokenizer.pad_token_id = tokenizer.eos_token_id
@@ -81,7 +81,7 @@ def run_event_detection(model_name,data_path,inference_mode):
     all_data = load_jsonl(data_path)
     # Set the output and result file path for event detection
     task_name = "detection"
-    base_dir = data_path
+    base_dir = output_path
     output_file, final_result_file = generate_paths(base_dir, task_name, model_name, inference_mode)
 
     all_predicted = []

@@ -37,7 +37,7 @@ def replace_elements_by_index(lst, replacements):
     return " ".join(lst)
 
 # if __name__ == "__main__":
-def run_end2end(model_name,data_path,inference_mode):
+def run_end2end(model_name,data_path,output_path,inference_mode):
     '''all_data = load_jsonl("./annotation_validation/jonathan_annotations/data.jsonl")
     data = all_data[0]
     lst = data['tokens']
@@ -59,7 +59,7 @@ def run_end2end(model_name,data_path,inference_mode):
     all_data = load_jsonl(data_path)
     # Set the output and result file path for event detection
     task_name="end2end_detection"
-    base_dir=data_path
+    base_dir=output_path
     output_file, final_result_file = generate_paths(base_dir, task_name, model_name, inference_mode)
 
 

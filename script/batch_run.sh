@@ -13,11 +13,10 @@ cd ${OUTPUT_PATH}
 # Declare task-specific parameters
 declare -a tasks=("event_detection" "event_coreference" "end2end")
 declare -a models=("Llama-3.1-8b-instruct" "Mistral-7b" "QWen" "Phi" "GPT-4-Turbo")
-declare -a prompts=("zero_shot" "one_shot" "two_shot")
-
+# declare -a prompts=("zero_shot" "one_shot" "two_shot")
+declare -a prompts=("zero_shot")
 # Declare additional parameters
-#DATA_PATH="./annotation_validation/jonathan_annotations/data.jsonl"
-
+DATA_PATH="./annotation_validation/jonathan_annotations/data.jsonl"
 COUNT=0
 
 # Loop through tasks, models, and prompts
@@ -25,10 +24,10 @@ for task in "${tasks[@]}"; do
     for model in "${models[@]}"; do
         for prompt in "${prompts[@]}"; do
             OUTPUT_FILE="${OUTPUT_PATH}${task}_${model}_${prompt}"
-#           ERROR_FILE="${OUTPUT_PATH}${task}_${model}_${prompt}"
+            ERROR_FILE="${OUTPUT_PATH}${task}_${model}_${prompt}"
             SLURM_FILE="${BASE_DIR}/script/inference.slurm"
             # Submit the job using sbatch or directly execute
-            sbatch --output=${OUTPUT_FILE}.%j -J "inference_${task}_${model}_${prompt}" ${SLURM_FILE} $task $model $prompt ${OUTPUT_PATH}
+            sbatch --output=${OUTPUT_FILE}.%j -J "inference_${task}_${model}_${prompt}" ${SLURM_FILE} $task $model $prompt
             echo "Submitted: ${task} | Model: ${model} | Prompt: ${prompt}"
             COUNT=$((COUNT + 1))
         done

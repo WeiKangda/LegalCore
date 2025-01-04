@@ -8,7 +8,7 @@ def map_model_name(simple_name):
     model_mapping = {
         "Llama-3.1-8b-instruct": ("meta-llama/Llama-3.1-8B-Instruct", False),
         "Mistral-7b": ("mistralai/Mistral-7B-Instruct-v0.2", False),
-        "QWen": ("Qwen/Qwen2.5-14B-Instruct", False),
+        "QWen": ("Qwen/Qwen2.5-7B-Instruct", False),
         "Phi": ("microsoft/Phi-3.5-mini-instruct", False),
         "Phi-small": ("microsoft/Phi-3-small-8k-instruct", False),
         "GPT-4-Turbo": ("gpt-4-turbo", True),  # Mark as a commercial model

@@ -12,7 +12,8 @@ echo "Output directory: ${OUTPUT_PATH}"
 cd ${OUTPUT_PATH}
 # Declare task-specific parameters
 declare -a tasks=("event_detection" "event_coreference" "end2end")
-declare -a models=("Llama-3.1-8b-instruct" "Mistral-7b" "QWen" "Phi" "GPT-4-Turbo")
+# declare -a models=("Llama-3.1-8b-instruct" "Mistral-7b" "QWen" "Phi" "GPT-4-Turbo")
+declare -a models=("QWen" "Phi-small" "GPT-4-Turbo")
 # declare -a prompts=("zero_shot" "one_shot" "two_shot")
 declare -a prompts=("zero_shot")
 # Declare additional parameters

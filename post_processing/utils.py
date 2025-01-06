@@ -103,6 +103,7 @@ def process_coreference(text):
     Returns:
         list: A list of tuples representing the coreference relationships.
     """
+    print(text)
     # Split the text into lines
     lines = text.strip().split("\n")
 

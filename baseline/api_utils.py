@@ -40,8 +40,8 @@ class GPT:
                             [wait_fixed(5) for i in range(1)] +
                             [wait_fixed(10)]))  # not use for debug
     def call_wrapper(self, **kwargs):
-        return self.client.chat.completions.create(**kwargs)
-
+        response = self.client.chat.completions.create(**kwargs)
+        return response
     def resp_parse(self, response) -> list:
         n = len(response.choices)
         return [response.choices[i].message.content for i in range(n)]

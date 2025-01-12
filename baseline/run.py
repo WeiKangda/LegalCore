@@ -32,9 +32,9 @@ def main():
         type=str,
         required=True,
         choices=[
-            "Llama-3.1-8b-instruct", "Mistral-7b", "QWen", "Phi", "Phi-small", "GPT-4-Turbo"
+            "Llama-3.1-8b-instruct", "Mistral-7b","Mistral-Nemo", "QWen-7b", "QWen-14b", "Phi", "Phi-small", "GPT-4-Turbo"
         ],
-        help="Choose the model: 'Llama-3.1-8b-instruct', 'Mistral-7b', 'QWen', 'Phi', 'Phi-small', 'GPT-4-Turbo'."
+        help="Choose the model"
     )
     parser.add_argument("--data_path", type=str, default="./annotation_validation/jonathan_annotations/data.jsonl", help="The path to the dataset.")
     parser.add_argument("--output_path", type=str)

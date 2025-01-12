@@ -56,7 +56,6 @@ def run_end2end(model_name,is_commercial,data_path,output_path,inference_mode):
         tokenizer = AutoTokenizer.from_pretrained(model_name)
         tokenizer.pad_token_id = tokenizer.eos_token_id
         model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id,device_map="auto")
-        model = model.to("cuda" if torch.cuda.is_available() else "cpu")
         model.eval()
 
     # Load data

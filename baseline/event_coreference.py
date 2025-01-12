@@ -77,7 +77,7 @@ def run_event_coreference(model_name,is_commercial,data_path,output_path,inferen
     else:
         tokenizer = AutoTokenizer.from_pretrained(model_name)
         tokenizer.pad_token_id = tokenizer.eos_token_id
-        model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id)
+        model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id,device_map="auto")
         model = model.to("cuda" if torch.cuda.is_available() else "cpu")
         model.eval()
 

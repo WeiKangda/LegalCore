@@ -11,12 +11,12 @@ mkdir -p ${OUTPUT_PATH}
 echo "Output directory: ${OUTPUT_PATH}"
 cd ${OUTPUT_PATH}
 # Declare task-specific parameters
-# declare -a tasks=("event_detection" "event_coreference" "end2end")
-declare -a tasks=("event_coreference")
+declare -a tasks=("event_detection" "event_coreference" "end2end")
+# declare -a tasks=("event_coreference")
 
-# declare -a models=("Llama-3.1-8b-instruct" "Mistral-7b" "QWen" "Phi" "GPT-4-Turbo")
+# declare -a models=("Llama-3.1-8b-instruct" "Mistral-7b" "QWen-7b" "QWen-14b" "Phi" "GPT-4-Turbo" "Mistral-Nemo")
 # declare -a models=("QWen" "Phi" "Phi-small" "GPT-4-Turbo" "Mistral-7b")
-declare -a models=("Llama-3.1-8b-instruct" "GPT-4-Turbo")
+declare -a models=("Mistral-Nemo" "QWen-14b")
 
 # declare -a prompts=("zero_shot" "one_shot" "two_shot")
 declare -a prompts=("zero_shot")

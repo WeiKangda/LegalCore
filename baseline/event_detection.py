@@ -36,7 +36,7 @@ def generate_response(model,is_commercial, tokenizer, prompt):
             msgs,
             padding=True,
             return_tensors="pt",
-        ).to("cuda" if torch.cuda.is_available() else "cpu")
+        )
         # Generate text from the model
         output = model.generate(
             input_ids=input_ids,

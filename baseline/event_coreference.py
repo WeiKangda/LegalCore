@@ -75,9 +75,9 @@ def run_event_coreference(model_name,is_commercial,data_path,output_path,inferen
         tokenizer = None
         model = api_utils.GPT(model_name)
     else:
-        tokenizer = AutoTokenizer.from_pretrained(model_name)
+        tokenizer = AutoTokenizer.from_pretrained(model_name, trust_remote_code=True)
         tokenizer.pad_token_id = tokenizer.eos_token_id
-        model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id,device_map="auto")
+        model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id, device_map="auto", trust_remote_code=True)
         model.eval()
 
     all_data = load_jsonl(data_path)

@@ -102,13 +102,13 @@ def run_event_coreference(model_name,is_commercial,data_path,output_path,inferen
         print("########################")
 
     final_result = {}
-    muc = calculate_micro_macro_muc(all_predicted, all_gold)
+    muc = calculate_micro_macro_muc(all_gold, all_predicted)
     print("MUC:" + str(muc))
-    b3 = calculate_micro_macro_b3(all_predicted, all_gold)
+    b3 = calculate_micro_macro_b3(all_gold, all_predicted)
     print("B^3:" + str(b3))
-    ceaf_e = calculate_micro_macro_ceaf_e(all_predicted, all_gold)
+    ceaf_e = calculate_micro_macro_ceaf_e(all_gold, all_predicted)
     print("CEAF_e:" + str(ceaf_e))
-    blanc = calculate_micro_macro_blanc(all_predicted, all_gold)
+    blanc = calculate_micro_macro_blanc(all_gold, all_predicted)
     print("BLANC:" + str(blanc))
 
     final_result["MUC"] = muc

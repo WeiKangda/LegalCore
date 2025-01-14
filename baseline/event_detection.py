@@ -53,6 +53,7 @@ def event_detection(model,is_commercial, tokenizer, data):
     for sentence in sentences:
         length = len(re.split(r'\s+', sentence))
         response = generate_response(model,is_commercial, tokenizer, sentence)
+        print("-----------event_detection response--------------\n",response)
         spans_and_triggers = extract_spans_and_triggers(response)
         processed_spans_and_triggers = update_offsets(spans_and_triggers, sentence)
         for processed_spans_and_trigger in processed_spans_and_triggers:

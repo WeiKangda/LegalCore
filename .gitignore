@@ -4,3 +4,4 @@ output/
 .env
 .blame
 __pycache__/
+.pytest_cache/

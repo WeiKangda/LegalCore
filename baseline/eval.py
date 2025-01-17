@@ -389,7 +389,7 @@ def calculate_micro_macro_ceaf_e(reference_clusters_list, predicted_clusters_lis
         precision, recall, f1 = calculate_ceaf_e_score(ref_clusters, pred_clusters)
 
         # Update micro-level sums
-        total_similarity += sum(len(set(cluster) & set(pred_clusters[i])) for i, cluster in enumerate(ref_clusters))
+        total_similarity += sum(len(set(cluster) & set(ref_clusters[i])) for i, cluster in enumerate(pred_clusters))
         total_predicted += sum(len(cluster) for cluster in pred_clusters)
         total_reference += sum(len(cluster) for cluster in ref_clusters)
 

@@ -31,7 +31,8 @@ def generate_response(model,is_commercial, tokenizer, prompt):
         }
     ]
     if is_commercial:
-        response = model.eval_call(prompt, debug=False)
+        content = model.eval_call(prompt, debug=False)
+        response = model.resp_parse(content)[0]
     else:
         input_ids = tokenizer.apply_chat_template(
             msgs,

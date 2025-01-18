@@ -9,26 +9,73 @@ from post_processing.utils import extract_spans_and_triggers, update_offsets, lo
 from pre_processing.utils import generate_paths
 from eval import calculate_micro_macro_f1, save_metrics_to_file
 import api_utils
-def generate_response(model,is_commercial, tokenizer, prompt):
-    msgs = [
-        {
-            "role": "system",
-            "content": "You are a helpful assistant.",
-        },
-        {
-            "role": "user",
-            "content": f"Please analyze the following text to detect all events. We define an event as any occurrence, action, process or event state \
-                        which deserves a place upon a timeline, and could have any syntactic realization as verbs, nominalizations, nouns, or even adjectives. \
-                        Please respond concisely and directly to the point, avoiding unnecessary elaboration or verbosity.\
-                        If an event is detected, kindly provide its span as index and trigger word/phrase, formatting your response as: \
-                        Span: event span index \
-                        Trigger: trigger word/phrase \
-                        Span: event span index \
-                        Trigger: trigger word/phrase \
-                        ...\
-                        If no event is identified, simply return None. Text: {prompt}" + "Response:"
-        }
-    ]
+def generate_response(model,is_commercial, tokenizer, prompt,inference_mode):
+    if inference_mode=="zero_shot":
+        msgs = [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant.",
+            },
+            {
+                "role": "user",
+                "content": f"Please analyze the following text to detect all events. We define an event as any occurrence, action, process or event state \
+                            which deserves a place upon a timeline, and could have any syntactic realization as verbs, nominalizations, nouns, or even adjectives. \
+                            Please respond concisely and directly to the point, avoiding unnecessary elaboration or verbosity.\
+                            If an event is detected, kindly provide its span as index and trigger word/phrase, formatting your response as: \
+                            Span: event span index \
+                            Trigger: trigger word/phrase \
+                            Span: event span index \
+                            Trigger: trigger word/phrase \
+                            ...\
+                            If no event is identified, simply return None. Text: {prompt}" + "Response:"
+            }
+        ]
+    elif inference_mode=="one_shot":
+        msgs = [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant.",
+            },
+            {
+                "role": "user",
+                "content": f"""Please analyze the following text to detect all events. 
+                                We define an event as any occurrence, action, process, or event state which deserves a place upon a timeline, 
+                                and could have any syntactic realization as verbs, nominalizations, nouns, or even adjectives. 
+                                Please respond concisely and directly to the point, avoiding unnecessary elaboration or verbosity. 
+                                If an event is detected, kindly provide its span as index and trigger word/phrase, formatting your response as:
+                                Span: event span index
+                                Trigger: trigger word/phrase
+                                Span: event span index
+                                Trigger: trigger word/phrase
+                                ...
+                                
+                                If no event is identified, simply return None.
+                                
+                                **Example:**
+                                Text: "The Parties will diligently perform their respective activities set forth in the Research Plan 
+                                (such activities, collectively, the "Research Program") in accordance with the timelines set forth therein, 
+                                with the objective of identifying Hit Compounds and Lead Scaffolds that modulate the applicable Target."
+                                
+                                Response:
+                                Span: 2-6
+                                Trigger: perform
+                                Span: 4-8
+                                Trigger: activities
+                                Span: 11-15
+                                Trigger: activities
+                                Span: 16-20
+                                Trigger: Program
+                                Span: 22-26
+                                Trigger: identifying
+                                Span: 27-31
+                                Trigger: modulate
+                                
+                                Now analyze the following text:
+                                Text: {prompt}
+                                Response:
+                                """
+            }
+        ]
     if is_commercial:
         content = model.eval_call(msgs, debug=False)
         response = model.resp_parse(content)[0]
@@ -47,13 +94,13 @@ def generate_response(model,is_commercial, tokenizer, prompt):
         response = tokenizer.decode(output[0][prompt_length:], skip_special_tokens=True)
     return response
 
-def event_detection(model,is_commercial, tokenizer, data):
+def event_detection(model,is_commercial, tokenizer, data,inference_mode):
     cumulative_offsets = 0
     sentences = data['sentences']
     result = {"id": data["id"], "mentions":[]}
     for sentence in sentences:
         length = len(re.split(r'\s+', sentence))
-        response = generate_response(model,is_commercial, tokenizer, sentence)
+        response = generate_response(model,is_commercial, tokenizer, sentence,inference_mode)
         print("-----------event_detection response--------------\n",response)
         spans_and_triggers = extract_spans_and_triggers(response)
         processed_spans_and_triggers = update_offsets(spans_and_triggers, sentence)
@@ -94,7 +141,7 @@ def run_event_detection(model_name,is_commercial,data_path,output_path,inference
     all_predicted = []
     all_gold = []
     for data in tqdm(all_data):
-        result = event_detection(model,is_commercial, tokenizer, data)
+        result = event_detection(model,is_commercial, tokenizer, data, inference_mode)
         append_to_jsonl(output_file, result)
         all_gold.append(extract_mentions(data["events"]))
         all_predicted.append(result["mentions"])

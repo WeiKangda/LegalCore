@@ -76,6 +76,67 @@ def generate_response(model,is_commercial, tokenizer, prompt,inference_mode):
                                 """
             }
         ]
+    elif inference_mode=="two_shot":
+
+        msgs = [
+            {
+                "role": "system",
+                "content": "You are a helpful assistant.",
+            },
+            {
+                "role": "user",
+                "content": f"""
+                    Please analyze the following text to detect all events. 
+                    We define an event as any occurrence, action, process, or event state which deserves a place upon a timeline, 
+                    and could have any syntactic realization as verbs, nominalizations, nouns, or even adjectives. 
+                    Please respond concisely and directly to the point, avoiding unnecessary elaboration or verbosity. 
+                    If an event is detected, kindly provide its span as index and trigger word/phrase, formatting your response as:
+                    Span: event span index
+                    Trigger: trigger word/phrase
+                    Span: event span index
+                    Trigger: trigger word/phrase
+                    ...
+                    
+                    If no event is identified, simply return None.
+                    
+                    **Example 1:**
+                    Text: "1.4 "Invention" means any invention, know-how, data, discovery or proprietary information, whether or not patentable, that is made or generated solely by the Representatives of Anixa or OntoChem or jointly by the Representatives of Anixa and OntoChem in performing the Research Plan, including all intellectual property rights in the foregoing."
+                    
+                    Span: 0-3
+                    Trigger: Invention
+                    Span: 2-6
+                    Trigger: invention
+                    Span: 6-10
+                    Trigger: discovery
+                    
+                    **Example 2:**
+                    Text: "1. PURCHASE OF EQUIPMENT. BNL at its expense shall obtain, install, maintain, and upgrade as necessary any and all hardware, software, data and telephone lines, other communications equipment, and any other equipment (hereinafter collectively referred to as the "Equipment") which it determines is necessary to allow it to use and access the VIP System pursuant to the terms of this Agreement."
+                    
+                    Response:
+                    Span: 7-11
+                    Trigger: obtain
+                    Span: 8-12
+                    Trigger: install
+                    Span: 9-13
+                    Trigger: maintain
+                    Span: 11-15
+                    Trigger: upgrade
+                    Span: 39-43
+                    Trigger: determines
+                    Span: 43-47
+                    Trigger: allow
+                    Span: 46-50
+                    Trigger: use
+                    Span: 48-52
+                    Trigger: access
+                    
+                    Now analyze the following text:
+                    Text: {prompt}
+                    Response:
+                    """
+
+            }
+        ]
     if is_commercial:
         content = model.eval_call(msgs, debug=False)
         response = model.resp_parse(content)[0]

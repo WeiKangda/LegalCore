@@ -1,9 +1,10 @@
 import re
 
 
-def extract_event_triggers_with_spans(text):
+def extract_event_triggers_with_spans_fixed(text):
     """
     Extract event triggers, their indices, and spans from the input text.
+    Properly handle punctuation, single quotes, and numeric formats (e.g., "1.4").
 
     Args:
         text (str): Input text containing event triggers in the format {EXX trigger_word}.
@@ -11,19 +12,24 @@ def extract_event_triggers_with_spans(text):
     Returns:
         list of dict: Each dict contains 'Span' and 'Trigger' for each event.
     """
-    matches = re.finditer(r"\{E\d+\s+([^\}]+)\}", text)
-    events = []
+    # Replace {EXX trigger_word} with trigger_word
+    cleaned_text = re.sub(r"\{E\d+\s+([^\}]+)\}", r"\1", text)
 
-    # Tokenize text into words and keep track of their positions
-    words = text.replace("{", "").replace("}", "").split()
+    # Use regex to split words while treating numeric formats as single tokens
+    words = re.findall(r'\b\w+(?:\.\w+)?\b', cleaned_text)
+
+    matches = list(re.finditer(r"\{E\d+\s+([^\}]+)\}", text))
+
+    # Extract events and their spans
+    events = []
     current_index = 0
+    print(words)
 
     for word in words:
-        cleaned_word = re.sub(r"[^\w]", "", word)  # Remove punctuation for clean matching
-        # Check if the current word is part of an event trigger
+
         for match in matches:
             trigger_word = match.group(1)
-            if trigger_word.startswith(cleaned_word):
+            if trigger_word==word:
                 # Calculate span range
                 start_index = max(0, current_index - 2)
                 end_index = min(len(words) - 1, current_index + 2)
@@ -33,20 +39,23 @@ def extract_event_triggers_with_spans(text):
                     "Trigger": trigger_word
                 })
                 break
+        print(current_index)
+
         current_index += 1
 
     return events
 
-if __name__=="__main__":
-    # Example usage
-    text = ("The Parties will diligently {E22 perform} their respective {E23 activities} set forth in the Research Plan "
-            "(such {E24 activities} , collectively, the \"Research {E25 Program} \") in accordance with the timelines "
-            "set forth therein, with the objective of {E26 identifying} Hit Compounds and Lead Scaffolds that "
-            "{E27 modulate} the applicable Target.")
 
-    events = extract_event_triggers_with_spans(text)
+# Example usage
+# text = ('1.4 " {E16 Invention} " means any {E17 invention} , know-how, data, '
+#         '{E18 discovery} or proprietary information, whether or not patentable, '
+#         'that is made or generated solely by the Representatives of Anixa or OntoChem '
+#         'or jointly by the Representatives of Anixa and OntoChem in performing the Research Plan, '
+#         'including all intellectual property rights in the foregoing.')
+text="""1. PURCHASE OF EQUIPMENT. BNL at its expense shall  {E13 obtain}  ,  {E14 install}  ,  {E15 maintain}  and  {E16 upgrade}  as necessary any and all hardware, software, data and telephone lines, other communications equipment and any other equipment (hereinafter collectively  referred  to as the "Equipment") which it  {E17 determines}  is necessary to  {E18 allow}  it to  {E19 use}  and  {E20 access}  the VIP System pursuant to the terms of this Agreement."""
+events = extract_event_triggers_with_spans_fixed(text)
 
-    # Output the formatted results
-    for event in events:
-        print(f"Span: {event['Span']}")
-        print(f"Trigger: {event['Trigger']}")
+# Output the formatted results
+for event in events:
+    print(f"Span: {event['Span']}")
+    print(f"Trigger: {event['Trigger']}")

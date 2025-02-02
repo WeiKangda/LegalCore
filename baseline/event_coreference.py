@@ -166,6 +166,7 @@ E274 COREFERENCE E279
 Now analyze the following text:"""+f"\nText: {prompt} \nResponse:"
             }
         ]
+    print(msgs[1]["content"])
     if is_commercial:
         content = model.eval_call(msgs, debug=False)
         response = model.resp_parse(content)[0]

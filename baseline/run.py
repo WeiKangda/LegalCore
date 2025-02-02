@@ -13,6 +13,8 @@ def map_model_name(simple_name):
         "QWen-14b": ("Qwen/Qwen2.5-14B-Instruct",False),
         "Phi": ("microsoft/Phi-3.5-mini-instruct", False),
         "Phi-small": ("microsoft/Phi-3-small-8k-instruct", False),
+        "deepseek_llama-8b": ("deepseek-ai/DeepSeek-R1-Distill-Llama-8B", False),
+        "deepseek_Qwen-14b": ("deepseek-ai/DeepSeek-R1-Distill-Qwen-14B", False),
         "GPT-4-Turbo": ("gpt-4-turbo", True),  # Mark as a commercial model
         "Gemini-2": ("gemini-2", True)
     }
@@ -32,7 +34,7 @@ def main():
         type=str,
         required=True,
         choices=[
-            "Llama-3.1-8b-instruct", "Mistral-7b","Mistral-Nemo", "QWen-7b", "QWen-14b", "Phi", "Phi-small", "GPT-4-Turbo"
+            "Llama-3.1-8b-instruct", "Mistral-7b","Mistral-Nemo", "QWen-7b", "QWen-14b", "Phi", "Phi-small", "GPT-4-Turbo", "deepseek_llama-8b", "deepseek_Qwen-14b"
         ],
         help="Choose the model"
     )

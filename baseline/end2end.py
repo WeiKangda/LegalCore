@@ -70,7 +70,7 @@ def run_end2end(model_name,is_commercial,data_path,output_path,inference_mode):
     all_predicted = [] 
     all_gold = []
     for data in tqdm(all_data):
-        result = event_detection(model,is_commercial, tokenizer, data)
+        result = event_detection(model,is_commercial, tokenizer, data,inference_mode)
         append_to_jsonl(output_file, result)
         all_gold.append(extract_mentions(data["events"]))
         all_predicted.append(result["mentions"])
@@ -94,7 +94,7 @@ def run_end2end(model_name,is_commercial,data_path,output_path,inference_mode):
     all_predicted = [] 
     all_gold = []
     for data in tqdm(all_data):
-        result = event_coreference_end2end(model,is_commercial, tokenizer, data)
+        result = event_coreference_end2end(model,is_commercial, tokenizer, data, inference_mode)
         append_to_jsonl(output_file, result)
         all_predicted.append(result["clusters"])
         all_gold.append(mentions_to_clusters(data["events"]))

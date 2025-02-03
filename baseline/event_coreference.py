@@ -257,7 +257,10 @@ def event_coreference_end2end(model,is_commercial, tokenizer, data, inference_mo
     print("-----------event_coreference_end2end response--------------\n", response)
     result["response"]=response
     coreference_tuples = process_coreference(response)
+    print(coreference_tuples)
     clusters = create_coreference_clusters(coreference_tuples)
+    print(clusters)
+
     result["clusters"] = replace_elements_with_mentions(clusters, mention_list)
 
     return result

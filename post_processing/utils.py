@@ -206,7 +206,8 @@ def replace_elements_with_mentions(clusters, mention_list):
         replaced_cluster = [
             id_to_mention[element] for element in cluster if element in id_to_mention
         ]
-        replaced_clusters.append(replaced_cluster)
+        if replaced_cluster:
+            replaced_clusters.append(replaced_cluster)
 
     return replaced_clusters
 

@@ -240,6 +240,7 @@ def event_coreference(model,is_commercial, tokenizer, data, inference_mode):
     mention_list = data["events"]
     response = generate_response(model,is_commercial, tokenizer, text, inference_mode)
     print("-----------event_coreference response--------------\n", response)
+    result["response"] = response
     coreference_tuples = process_coreference(response)
     clusters = create_coreference_clusters(coreference_tuples)
     result["clusters"] = replace_elements_with_mentions(clusters, mention_list)
@@ -252,6 +253,7 @@ def event_coreference_end2end(model,is_commercial, tokenizer, data, inference_mo
     mention_list = data["events"]
     response = generate_response(model,is_commercial, tokenizer, text, inference_mode)
     print("-----------event_coreference_end2end response--------------\n", response)
+    result["response"]=response
     coreference_tuples = process_coreference(response)
     clusters = create_coreference_clusters(coreference_tuples)
     result["clusters"] = replace_elements_with_mentions(clusters, mention_list)

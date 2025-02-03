@@ -158,10 +158,12 @@ def event_detection(model,is_commercial, tokenizer, data,inference_mode):
     cumulative_offsets = 0
     sentences = data['sentences']
     result = {"id": data["id"], "mentions":[]}
+    result["resonse_list"]=[]
     for sentence in sentences:
         length = len(re.split(r'\s+', sentence))
         response = generate_response(model,is_commercial, tokenizer, sentence,inference_mode)
         print("-----------event_detection response--------------\n",response)
+        result["resonse_list"].append(response)
         spans_and_triggers = extract_spans_and_triggers(response)
         processed_spans_and_triggers = update_offsets(spans_and_triggers, sentence)
         for processed_spans_and_trigger in processed_spans_and_triggers:

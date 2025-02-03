@@ -111,11 +111,27 @@ def process_coreference(text):
     coreference_tuples = []
 
     # Process each line
+    # for line in lines:
+    #     # Split the line by spaces and extract the elements
+    #     elements = line.split()
+    #     if len(elements) == 3 and elements[1] == "COREFERENCE":
+    #         coreference_tuples.append((elements[0], elements[2]))
+    #
+    # return coreference_tuples
     for line in lines:
         # Split the line by spaces and extract the elements
         elements = line.split()
         if len(elements) == 3 and elements[1] == "COREFERENCE":
-            coreference_tuples.append((elements[0], elements[2]))
+            # Extract numeric index using regex
+            num1 = re.search(r'\d+', elements[0])  # Find number in first element
+            num2 = re.search(r'\d+', elements[2])  # Find number in second element
+
+            if num1 and num2:
+                # Convert extracted numbers back to EXX format
+                exx1 = f"E{int(num1.group())}"  # E0, E1, E25, etc.
+                exx2 = f"E{int(num2.group())}"
+
+                coreference_tuples.append((exx1, exx2))
 
     return coreference_tuples
 

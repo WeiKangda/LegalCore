@@ -120,11 +120,11 @@ def process_coreference(text):
     # return coreference_tuples
     for line in lines:
         # Split the line by spaces and extract the elements
-        elements = line.split()
-        if len(elements) == 3 and elements[1] == "COREFERENCE":
+        elements = line.split("COREFERENCE")
+        if len(elements) == 2:
             # Extract numeric index using regex
             num1 = re.search(r'\d+', elements[0])  # Find number in first element
-            num2 = re.search(r'\d+', elements[2])  # Find number in second element
+            num2 = re.search(r'\d+', elements[1])  # Find number in second element
 
             if num1 and num2:
                 # Convert extracted numbers back to EXX format

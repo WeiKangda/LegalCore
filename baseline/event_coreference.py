@@ -31,12 +31,12 @@ For example:
 
 Response Format:
 List all coreference relations strictly following this format:
-  - {E01} COREFERENCE {E03}
-  - {E02} COREFERENCE {E05}
+  E01 COREFERENCE E03
+  E02 COREFERENCE E05
 
 IMPORTANT:
-- Use exactly the same event identifiers and trigger words as in the text.
-- Do not change the format of the event IDs (always use {E##}).
+- Use exactly the same event identifiers as in the text.
+- Do not change the format of the event IDs (always use E##).
 - If there are multiple coreference relations, list each on a new line.
 - If no coreference relation is detected, return "None" (do not add any explanation).
 """+f"Text: {str(prompt)}\nResponse:"
@@ -64,12 +64,12 @@ For example:
 
 Response Format:
 List all coreference relations strictly following this format:
-  - {E01} COREFERENCE {E03}
-  - {E02} COREFERENCE {E05}
+  E01 COREFERENCE E03
+  E02 COREFERENCE E05
 
 IMPORTANT:
-- Use exactly the same event identifiers and trigger words as in the text.
-- Do not change the format of the event IDs (always use {E##}).
+- Use exactly the same event identifiers as in the text.
+- Do not change the format of the event IDs (always use E##).
 - If there are multiple coreference relations, list each on a new line.
 - If no coreference relation is detected, return "None" (do not add any explanation).
                             
@@ -130,12 +130,12 @@ For example:
 
 Response Format:
 List all coreference relations strictly following this format:
-  - {E01} COREFERENCE {E03}
-  - {E02} COREFERENCE {E05}
+  E01 COREFERENCE E03
+  E02 COREFERENCE E05
 
 IMPORTANT:
-- Use exactly the same event identifiers and trigger words as in the text.
-- Do not change the format of the event IDs (always use {E##}).
+- Use exactly the same event identifiers as in the text.
+- Do not change the format of the event IDs (always use E##).
 - If there are multiple coreference relations, list each on a new line.
 - If no coreference relation is detected, return "None" (do not add any explanation).                            
 **Example 1:**

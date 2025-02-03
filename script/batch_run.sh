@@ -7,27 +7,27 @@ BASE_DIR="/scratch/user/xishi/llm/event_extract"
 CURRENT_MONTH=$(date +%m)
 CURRENT_DAY=$(date +%d)
 # OUTPUT_PATH="${BASE_DIR}/output/${CURRENT_MONTH}/${CURRENT_DAY}/"
-OUTPUT_PATH="${BASE_DIR}/output/${CURRENT_MONTH}/${CURRENT_DAY}/bebug/"
+OUTPUT_PATH="${BASE_DIR}/output/${CURRENT_MONTH}/${CURRENT_DAY}/"
 
 mkdir -p ${OUTPUT_PATH}
 echo "Output directory: ${OUTPUT_PATH}"
 cd ${OUTPUT_PATH}
 # Declare task-specific parameters
 # declare -a tasks=("event_detection" "event_coreference" "end2end")
-declare -a tasks=("event_coreference" "end2end")
+declare -a tasks=("event_coreference" "event_detection")
 
 # declare -a tasks=("event_detection" "end2end")
 
 
 # declare -a models=("Llama-3.1-8b-instruct" "Mistral-7b" "QWen-7b" "QWen-14b" "Phi" "Phi-small" "GPT-4-Turbo" "Mistral-Nemo" "deepseek_llama-8b" "deepseek_Qwen-14b")
-# declare -a models=("Llama-3.1-8b-instruct" "QWen-14b" "GPT-4-Turbo" "Mistral-Nemo" "deepseek_llama-8b" "deepseek_Qwen-14b")
-declare -a models=("QWen-14b")
+# declare -a models=("Llama-3.1-8b-instruct" "QWen-14b" "GPT-4-Turbo" "Mistral-Nemo")
+# declare -a models=("deepseek_llama-8b" "deepseek_Qwen-14b")
 # declare -a models=("QWen-7b" "Phi" "Phi-small" "Mistral-7b")
 #declare -a models=("Llama-3.1-8b-instruct")
-# declare -a models=("Mistral-Nemo" "QWen-14b")
+declare -a models=( "QWen-14b")
 
- declare -a prompts=("zero_shot" "one_shot" "two_shot")
-# declare -a prompts=("zero_shot")
+#  declare -a prompts=("zero_shot" "one_shot" "two_shot")
+declare -a prompts=("zero_shot")
 
 DATA_PATH="./annotation_validation/jonathan_annotations/data.jsonl"
 # DATA_PATH="./annotation_validation/completed_data.jsonl"

@@ -6,8 +6,8 @@ def calculate_f1_score(predicted_list, gold_list):
     predicted_set = set(predicted_list)
     gold_set = set(gold_list)
     
-    print(predicted_set)
-    print(gold_set)
+    # print(predicted_set)
+    # print(gold_set)
     # Calculate True Positives, False Positives, and False Negatives
     true_positives = predicted_set & gold_set
     false_positives = predicted_set - gold_set
@@ -438,7 +438,7 @@ def calculate_blanc_score(reference_clusters, predicted_clusters):
         for cluster in clusters:
             pairs.update({tuple(sorted((a, b))) for a in cluster for b in cluster if a != b})
         return pairs
-    print(predicted_clusters)
+    # print(predicted_clusters)
     ref_pairs = generate_pairs(reference_clusters)
     pred_pairs = generate_pairs(predicted_clusters)
 

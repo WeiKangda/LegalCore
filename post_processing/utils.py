@@ -189,7 +189,7 @@ def replace_elements_with_mentions(clusters, mention_list):
     Returns:
         list: A list of clusters with elements replaced by their (offset, trigger_word) tuples.
     """
-    # Create a mapping from singleton_id to (offset, trigger_word)
+    # Create a mapping from singleton_id to (offset, trigger_word) (e123,e124)
     id_to_mention = {
         mention["singleton_id"]: (mention["offset"], mention["trigger_word"])
         for entry in mention_list

@@ -40,5 +40,5 @@ if __name__ == "__main__":
     process_txt_files(input_folder, output_file, convert_to_llm_style)
 
     input_folder = "./data"
-    output_file = "./data.jsonl"
+    output_file = "./data/train.jsonl"
     process_txt_files(input_folder, output_file, convert_to_maven_ere_style)

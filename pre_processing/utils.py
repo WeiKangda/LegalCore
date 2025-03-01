@@ -310,7 +310,7 @@ def convert_to_maven_ere_style(file_path):
     converted_data = {}
     processed_text, processed_words, processed_sentences, indices_dict, singleton_text, processed_text_tokens = process_text_maven_ere(input_text)
 
-    converted_data["id"] = file_path.split("/")[-1].replace("_Jonathan.txt", "")
+    converted_data["id"] = file_path.split("/")[-1].replace(".txt", "")
     converted_data["tokens"] = processed_text_tokens
     converted_data["words"] = processed_words
     converted_data["sentences"] = processed_sentences
@@ -352,5 +352,3 @@ if __name__ == "__main__":
     #print(converted_data["singleton_text"])
     sections = split_by_sections(converted_data["text"])
     print(sections)
-    #print(get_words_by_index(converted_data["text"], 2490))
-    

@@ -1,0 +1,106 @@
+Exhibit 10.5
+
+Note: Portions of this exhibit  {E1 indicated}  by"[*]" are subject to a confidential treatment {E257 request}, and have been  {E2 omitted}  from this exhibit. Complete, unredacted copies of this exhibit have been  {E3 filed}  with the Securities and Exchange Commission as part of this Company's confidential treatment {E257 request}. Distributor Agreement                               ---------------------
+
+This Distributor Agreement (the "Agreement") is  {E4 made}  effective as of the 31st  day  of  March ,  2000  (the "Effective  Date  "), by and between Airspan Networks Incorporated, a company  {E5 incorporated}  under the laws of the State of Washington  {E6 having}  its principal office at 777 108th Avenue NE, Suite  1895 , Bellevue, Washington 98004 ("Airspan") and GLS LLC, ("Distributor") a limited liability company  {E7 incorporated}  under the laws of the State of South Dakota  {E8 having}  its principal office at 501 Fourth Street, Sergeant Bluff, IA 51054. WITNESSETH:
+
+WHEREAS, Airspan is  {E9 engaged}  in the {E258 design} and {E259 manufacture} of various telecommunications product lines,  {E10 including}  , among others, those product lines more completely  {E13 described}  in Schedule I  {E12 hereto}  (the product lines  {E13 described}  in Schedule I, as from time to time  {E14 amended}  in accordance with the provisions of this Agreement, are hereinafter  {E15 called}  the "Airspan Products") the hardware components thereof are sometimes  {E16 referred}  to separately as "Equipment," the software components thereof are sometimes  {E17 referred}  to separately as "Software" as  {E18 defined}  in Section 11.1, and an arrangement of Equipment which, when  {E19 interfaced}  with Software, is operable to  {E20 perform}  predetermined functions, is  {E21 referred}  to as a "System");
+
+WHEREAS, Distributor is  {E22 engaged}  in the {E260 promotion} of {E261 sales} of telecommunications products; and
+
+WHEREAS, Airspan  {E23 desires}  to  {E263 appoint}  Distributor as a Distributor for the Airspan Products for the territory  {E25 described}  in Schedule II hereto (the "Territory"). NOW, THEREFORE, in consideration of the mutual promises herein  {E26 contained}  , it is hereby  {E27 agreed}  as  follows  :
+
+1. APPOINTMENT. -----------
+
+1.1  Subject to the provisions of this Agreement, Airspan hereby  {E263 appoints}  Distributor as an independent, exclusive distributor to  {E29 assist}  Airspan in  {E30 marketing}  the Airspan Products to customers in the Territory, and Distributor hereby  {E31 accepts}  such {E263 appointment} as of the Effective  Date  of this Agreement. Distributor's {E263 appointment} as a distributor of the Airspan Products grants to Distributor only a license to  {E32 resell}  the
+
+- -------------------------------------------------------------------------------
+
+Page 1
+
+Airspan Products to Distributor's customers in the Territory, and  does  not  {E33 transfer}  any right, title, or interest in any of the Airspan Software to Distributor. 1.2  Distributor's relationship to Airspan is that of an independent contractor, and nothing in this Agreement shall  {E34 constitute}  Distributor as the agent or employee of Airspan. Distributor shall have no authority to  {E35 accept}  any {E264 order} or  {E36 make}  any {E265 offer} (except as herein  {E37 stated}  ), or  {E38 execute}  any instrument or  {E39 make}  any {E344 commitment} on behalf of Airspan. Specifically, without in any way  {E40 limiting}  the generality of the foregoing, Distributor  {E41 agrees}  not to  {E42 make}  any {E346 representation}, {E348 guarantee}, or {E350 warranty} on Airspan's behalf  {E43 concerning}  the Airspan Products, but will  {E44 refer}  customers to Airspan's  {E45 printed}  literature. Nothing  {E46 contained}  in this Agreement is to be  {E47 construed}  as a limitation or restriction upon Airspan in the {E266 sale} or other {E267 disposition} of any of its products to any person, firm, or corporation inside or outside of the Territory. Airspan will  {E48 pay}  no commissions under this Agreement. Distributor's {E268 compensation} is to be  {E49 obtained}  solely by the difference between the price Distributor  {E50 pays}  to Airspan and the price Distributor  {E51 charges}  its customers. The parties also  {E52 acknowledge}  that this Agreement is not  {E53 intended}  to  {E54 create}  a joint venture or partnership between Airspan and Distributor. 1.3  Distributor will  {E55 use}  its best {E269 efforts} to  {E56 maintain}  and  {E57 support}  the Airspan Products within the Territory by  {E58 devoting}  such attention, time, and effort as may be reasonably necessary to fully  {E59 develop}  the available market potential. During the  term  of this Agreement, and for a period of three (3)  months   {E60 following}  the {E270 expiration} or {E271 termination} of this Agreement, Distributor  {E61 agrees}  that neither it nor any organization or entity  {E62 controlled}  or  {E63 directed}  by it will, without Airspan's prior,  {E64 written}  consent,  {E65 represent}  a manufacturer or supplier of products similar in design or performance to or which are of such a nature as to be competitive with any products  {E66 contained}  in the Airspan Products, nor will Distributor market or otherwise  {E67 promote}  the {E272 sale} of such products. Distributor will  {E68 give}  Airspan thirty (30)  days  ' prior,  {E69 written}  notice of each new potential representation role being  {E70 considered}  by Distributor, and Distributor will not  {E71 undertake}  such representation without Airspan's prior,  {E72 written}  consent, such consent not to be unreasonably  {E73 withheld}  . Except as
+
+{E74 provided}  above, in no event will  Airspan  consent to Distributor's {E273 consultation} for or {E274 representation} of a manufacturer or supplier, which is directly or indirectly, a competitor of Airspan. 1.4  Distributor shall  {E75 maintain}  a place of business at the location  {E76 specified}  in Section 21.10 where Distributor can be  {E77 contacted}  by Airspan, customers, and prospective customers during regular business hours with a permanent mailing address and an accessible cellular telephone, and will  {E78 provide}  Airspan with  {E79 written}  notice promptly upon any change in address. Distributor  {E80 agrees}  to  {E81 assume}  all of the expenses of this place of business,  {E82 including}  rent, stenographic services, and all other expenses except as specifically  {E83 assumed}  in writing by Airspan. - --------------------------------------------------------------------------------
+
+Page 2
+
+1.5  Airspan will  {E84 provide}  Distributor with such commercial and technical {E275 assistance} and {E276 training} as may reasonably be necessary, in Airspan's sole judgment, to  {E85 enable}  Distributor to effectively  {E86 carry}  out its {E277 activities} under this Agreement and, in connection therewith, to  {E87 provide}  such sales promotional materials, as Airspan may  {E88 deem}  appropriate. Airspan will  {E89 provide}  such technical {E278 support} as is reasonable and necessary to  {E90 maintain}  the product line as a viable competitor in the market. 2. REPRESENTATIONS AND WARRANTIES. Distributor hereby  {E91 represents}  and warrants as  follows  :
+
+a. Distributor has been duly  {E92 registered}  in accordance with any and all relevant legislation, has  {E93 received}  any and all necessary governmental authorizations to  {E279 enter}  into and  {E280 perform}  its obligations under this Agreement, and that its {E279 entry} into and {E280 performance} under this Agreement will not  {E96 violate}  applicable legislation;
+
+b. Distributor is duly  {E97 registered}  with all necessary tax authorities and is in compliance with all payment obligations in accordance with applicable legislation. No claims against or investigations of Distributor with respect to its tax obligations  {E98 exist}  ;
+
+c. Distributor is not  currently   {E99 involved}  in any litigation, arbitration, or other legal {E281 proceedings} in which {E282 claims} are being  {E100 asserted}  against Distributor which might  {E101 affect}  its ability to  {E102 perform}  its obligations under this Agreement, nor is Distributor aware of any unasserted {E283 claims} against Distributor of this nature; and
+
+d. Distributor's bank accounts have been  {E103 established}  and  {E104 operated}  in accordance with applicable legislation. All {E351 transactions} of Distributor  {E105 required}  to be  {E106 carried}  out through  {E107 authorized}  banks have been so  {E108 carried}  out. Distributor is not, has not, and warrants that it will not  {E109 breach}  any currency regulation or currency control legislation. Distributor further warrants that it is not, has not, and will not  {E110 breach}  any bank secrecy act, rules or regulations. 3. SERVICES. 3.1  In addition to the above, the Distributor will  {E111 perform}  the  following       {E285 services} under this Agreement:
+
+a. In cooperation with Airspan,  {E112 identify}  potential customers and project      opportunities within the Territory that will  {E113 lead}  to {E284 sales}/{E352 licenses} of      Airspan Products and {E289 services};
+
+b. Prepare  {E114 reports}  on the opportunities that will  {E115 include}  :  (1) description      of the {E287 project}; (2) {E288 assessment} of the appropriate fit to Airspan Products      and
+
+- --------------------------------------------------------------------------------
+
+Page 3
+
+{E289 services}; (3) dollar size and timing of the {E287 project}; (4) competitive      {E291 assessment}; and (5) {E292 identification} of key decision makers and other      technical and commercial contacts;
+
+c. Assist and  {E116 advise}  Airspan in the {E293 preparation} and {E294 delivery} of appropriate      marketing and sales programs;
+
+d. Initiate and  {E117 coordinate}  {E295 meetings} at all levels for the appropriate      Airspan employees to  {E118 evaluate}  the  {E119 identified}  {E296 projects};
+
+e. Initiate and  {E120 assist}  in the {E297 preparation} of sales and technical {E298 meetings}      with customers, and where appropriate,  {E121 attend}  these {E298 meetings} with Airspan      personnel and  {E122 provide}  administrative {E300 support} and translation {E301 services};
+
+3.2  Distributor will  {E123 use}  its best {E302 efforts} to vigorously and aggressively       {E124 promote}  the {E303 sale} of Airspan Products within the Territory. Such {E304 efforts}      shall  {E125 include}  , but shall not be  {E126 limited}  to, that {E305 advertising} within the      Territory which is reasonably necessary. All such {E305 advertising} shall  {E127 follow}       the general statements  {E128 made}  in advertising  {E129 prepared}  by Airspan. All      {E305 advertising} shall  {E130 contain}  a prominent reference to Airspan,  {E131 indicating}  the      actual commercial origin of Airspan Products so  {E132 advertised}  . Distributor      shall not  {E133 make}  any {E311 claims} in its {E305 advertising} which  {E134 exceed}  or  {E135 contradict}
+
+{E310 claims}  {E136 made}  by Airspan in its  {E137 printed}  materials. 3.3  Distributor will  {E138 train}  and  {E139 maintain}  a sufficient number of technical      and sales personnel in order to: (a)  {E140 serve}  the {E312 demands} and needs of its      customers for Airspan Products, {E313 service}, and {E314 support}; and (b)  {E141 carry}  out the      obligations of Distributor under this Agreement. 3.4  Distributor and its staff will be conversant with the technical      language  {E142 related}  to Airspan Products and will  {E143 develop}  sufficient knowledge      of the industry, Airspan Products, and products competitive with Airspan      Products ( including  specifications, features, and benefits) so as to be      able to  {E144 explain}  in detail to customers the differences between Airspan      Products and competitive products. Distributor will  {E145 conduct}  or  {E146 provide}  for      any {E315 training} of its personnel which may be necessary to  {E147 impart}  such      knowledge. 3.5  Distributor and its staff will  {E148 research}  the technical requirements and      specifications of the market for Airspan Products in the Territory and  {E149 make}       information  {E150 known}  to Airspan such that Airspan may, at its discretion,       {E151 implement}  appropriate technical {E316 changes} to the Products to  {E152 enable}  them to      be  {E153 sold}  in the Territory. Airspan  {E154 acknowledges}  that, subject to a further      and separate Agreement, such {E316 changes} may be  {E155 implemented}  in the future by      Distributor, with the {E318 assistance} of Airspan. - ------------------------------------------------------------------------------
+
+Page 4
+
+3.6  Distributor  {E156 agrees}  to  {E157 purchase}  and  {E158 stock}  a comprehensive inventory of      spare parts  {E159 based}  upon the  {E160 recommended}  list set forth in Schedule III to      this Agreement. 3.7  Distributor  {E161 agrees}  to  {E162 provide}  to its customers' installation {E320 services}      for all Airspan Products. All such installation {E320 services} shall be       {E163 performed}  by Distributor in accordance with Airspan's latest installation      standards as  {E164 provided}  by Airspan. 3.8  Distributor  {E165 agrees}  to  {E166 train}  and have readily available a maintenance      staff to efficiently and expeditiously  {E321 maintain}  or  {E168 upgrade}  all Airspan      Products  {E169 purchased}  or  {E170 licensed}  by Distributor from Airspan. {E321 Maintenance}      shall be  {E171 performed}  in accordance with Airspan's latest maintenance      standards for Airspan Products, as  {E172 provided}  by Airspan, by Distributor's      own personnel and may not be  {E173 subcontracted}  or  {E174 delegated}  to any other person      or entity without Airspan's prior,  {E175 written}  authorization. 3.9  Distributor  {E176 agrees}  to  {E177 provide}  and  {E178 maintain}  those facilities adequate      to  {E179 meet}  the obligations set forth in this section and of the Agreement. Distributor further  {E180 agrees}  to  {E181 provide}  all of the sales and support      functions set forth in this section at no charge to Airspan. 3.10 Distributor  {E182 agrees}  not to actively  {E183 seek}  to  {E184 promote}  ,  {E185 rent}  , lease,  {E186 sell}  ,      sublicense or  {E187 authorize}  the {E322 rental}, {E323 sale} or {E324 sublicense} of Airspan Products      outside of the Territory [without the prior  {E188 written}  approval of Airspan],      but nothing in this Agreement shall  {E189 prevent}  Distributor from  {E190 renting}  ,      selling or  {E191 sublicensing}  the Airspan Products to customers outside of the      Territory in response to an unsolicited {E325 request} from such customer. 3.11 During the  term  of this Agreement Distributor  {E192 agrees}  that neither it      nor any organization or entity  {E193 controlled}  or  {E194 directed}  by it will, without      Airspan's prior,  {E195 written}  consent,  {E196 represent}  a manufacturer or supplier of      products similar in design or performance to or which are of such a nature      as to be competitive with any products  {E197 contained}  in the Airspan Products. 3.12 The parties mutually  {E198 agree}  that by  April 30, 2000 , the parties will       {E199 negotiate}  and  {E200 execute}  a National Accounts Consulting Agreement whereby the      Distributor will  {E201 receive}  consulting fees and commissions for the {E326 sale} and      {E327 deployment} of Airspan's products on a national basis. It is the intent of      the parties to jointly  {E202 pursue}  the {E326 sale} of products to  {E203 said}  companies and to       {E204 enter}  into and complete contracts for the deployment of products in this      manner. - --------------------------------------------------------------------------------
+
+Page 5
+
+4. ORDERING PROCEDURE. 4.1  The  following  procedures shall be  {E205 followed}  with respect to each      purchase order  {E206 issued}  by Distributor:
+
+a. During the  Term  , Distributor will  {E207 inform}  Airspan of its intent to      purchase Equipment and Installation {E320 Services} (but only if Airspan expressly       {E208 agrees}  to  {E209 perform}  such Installation {E320 Services}) and to  {E210 license}  Software, by       {E211 sending}  to Airspan a  {E213 written}  order. This  {E213 written}  order (the "Purchase      Order") will  {E214 state}  the type of Equipment, System, or Installation {E320 Services}      that Distributor  {E215 wants}  to  {E216 purchase}  and the Software Distributor  {E217 wants}  to      license, the price of the  {E218 ordered}  items (the "Contract Price") as set forth      in Schedule IV, "Price List" (which is hereby  {E219 incorporated}  by reference)      and the  {E220 proposed}  delivery and installation dates, if applicable. b. Each Purchase Order shall specifically  {E221 incorporate}  by reference the      terms and conditions of this Agreement, and no additional or different      terms and conditions  {E222 stated}  in a Purchase Order, any letter, or otherwise
+
+shall be  {E223 binding}  unless expressly  {E224 referred}  and  {E225 agreed}  to by Airspan in      writing. In the event of a {E332 conflict} between the terms and conditions of      this Agreement and of any Purchase Order  {E226 issued}  hereunder, or if the      Purchase Order  does  not  {E227 reference}  the terms and conditions of this      Agreement, the terms and conditions of this Agreement shall  {E228 control}  . 4.2  If a Purchase {E343 Order} is  {E229 accepted}  by Airspan, Airspan will  {E230 issue}  an      order acknowledgment to Distributor within five (5) business  days  of      Airspan's {E333 receipt} of the  {E231 written}  Purchase Order from Distributor. 5. RECORDS AND REPORTING. 5.1  At Airspan's {E334 request}, within fifteen (15)  days  of the end of each      calendar  month  , Distributor will  {E232 provide}  to Airspan a  {E233 written}  report       {E234 showing}  , for the just- {E235 ended}  calendar  month  : (a) Distributor's {E335 shipments} of      Airspan Products by dollar volume, both in the aggregate and for such      categories as Airspan may  {E236 designate}  from time to time; (b) forecasts of      Distributor's anticipated orders by product; (c) Distributor's  current       inventory levels of Airspan Products, in the aggregate and by product; and      (d) any other information which Airspan may reasonably  {E237 request}  . 5.2  Distributor will promptly  {E238 advise}  Airspan  {E239 concerning}  any market      information which  {E240 comes}  to Distributor's attention  {E241 regarding}  Airspan,      Airspan Products, Airspan's market position, or the  {E242 continued}       competitiveness of Airspan Products in the marketplace. Distributor will       {E243 confer}  with Airspan from
+
+- --------------------------------------------------------------------------------
+
+Page 6
+
+time to time, at Airspan's {E336 request}, on matters  {E244 relating}  to market      conditions, distribution forecasting, and product planning. 5.3  For at least two (2)  years  after {E337 termination} of this Agreement,      Distributor will  {E245 maintain}  its records, contracts, and accounts  {E246 relating}  to      {E338 distribution} of Airspan Products, and will  {E247 permit}  {E339 examination} thereof by       {E248 authorized}  representatives of Airspan at all reasonable times. 6. CONTRACT PRICE
+
+6.1  The Contract Price for each item of Equipment, Installation {E320 Services},      or Software is as  {E249 specified}  in Schedule IV and shall be  {E250 paid}  to Airspan in      US Dollars (US$) free of any withholding tax and of any currency controls      or other restrictions. The Contract Price  {E251 includes}  :
+
+a. The price of the Equipment;
+
+b. The fee for the licensing of the Software;
+
+c. If Installation {E320 Services} are  {E342 ordered}  and such {E342 order} is  {E253 accepted}                 by Airspan, the charges for  {E254 installing}  and  {E255 testing}  each unit of                Equipment or Software;
+
+d. The charges for the warranty of the Equipment and Software in                accordance with Sections 14 and 15; and
+
+e.
+
+
+
+#COLOR:E257=hsl(0, 100%, 80%)
+#COLOR:E13=hsl(25, 100%, 80%)
+#COLOR:E263=hsl(50, 100%, 80%)
+#COLOR:E279=hsl(75, 100%, 80%)
+#COLOR:E280=hsl(100, 100%, 80%)
+#COLOR:E289=hsl(125, 100%, 80%)
+#COLOR:E287=hsl(300, 100%, 80%)
+#COLOR:E298=hsl(325, 100%, 80%)
+#COLOR:E305=hsl(150, 100%, 80%)
+#COLOR:E316=hsl(350, 100%, 80%)
+#COLOR:E320=hsl(175, 100%, 80%)
+#COLOR:E321=hsl(200, 100%, 80%)
+#COLOR:E326=hsl(0, 100%, 70%)
+#COLOR:E213=hsl(250, 100%, 80%)
+#COLOR:E342=hsl(275, 100%, 80%)
+
+#TOKENIZATION-TYPE:1
+

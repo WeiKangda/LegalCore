@@ -1,7 +1,7 @@
 import os
 import json
 import re
-from utils import convert_to_maven_ere_style
+from utils import convert_to_maven_ere_style, convert_to_llm_style
 
 def process_txt_files(input_folder, output_file, processing_function):
     """
@@ -35,6 +35,10 @@ def process_txt_files(input_folder, output_file, processing_function):
     print(f"Processing complete. Results saved to {output_file}.")
 
 if __name__ == "__main__":
-    input_folder = "./annotation_validation/jonathan_annotations"
-    output_file = "./annotation_validation/jonathan_annotations/data.jsonl"
+    input_folder = "./data"
+    output_file = "./data/data.jsonl"
+    process_txt_files(input_folder, output_file, convert_to_llm_style)
+
+    input_folder = "./data"
+    output_file = "./data.jsonl"
     process_txt_files(input_folder, output_file, convert_to_maven_ere_style)

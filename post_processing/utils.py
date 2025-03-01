@@ -252,36 +252,4 @@ if __name__ == "__main__":
 
     gold_clusters = mentions_to_clusters(mention_list)
     print(gold_clusters)
-    '''# Example usage
-    raw_trigger_words = """
-    Span: 1-4 
-    Trigger: acknowledges 
-
-    Span: 5-14 
-    Trigger: cooperate 
-
-    Span: 15-24 
-    Trigger: logistics 
-
-    Span: 25-31 
-    Trigger: management 
-
-    Span: 32-37 
-    Trigger: storage 
-
-    Span: 38-46 
-    Trigger: dispensation
-    """
-
-    text = "Sponsor  acknowledges  that Sponsor shall  cooperate  with the Concessionaire  regarding  logistics and management of the Sponsor's food products, and appropriate storage and dispensation of the food products."
-    spans_and_triggers = extract_spans_and_triggers(raw_trigger_words)
-    print(spans_and_triggers)
-
-    processed_spans_and_triggers = update_offsets(spans_and_triggers, text)
-    print(processed_spans_and_triggers)'''
-
-    '''all_data = load_jsonl("/scratch/user/kangda/Legal-Coreference/annotation_validation/jonathan_annotations/data.jsonl")
-    data = all_data[0]
-    data = data["events"]
-    data = extract_mentions(data)
-    print(data)'''
+    

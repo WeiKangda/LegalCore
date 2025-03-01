@@ -38,7 +38,7 @@ def main():
         ],
         help="Choose the model"
     )
-    parser.add_argument("--data_path", type=str, default="./annotation_validation/jonathan_annotations/data.jsonl", help="The path to the dataset.")
+    parser.add_argument("--data_path", type=str, default="./data/data.jsonl", help="The path to the dataset.")
     parser.add_argument("--output_path", type=str)
 
     parser.add_argument(

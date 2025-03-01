@@ -76,18 +76,5 @@ class GPT:
 def load_model(model_name, api_idx, **kwargs):
     if "gpt" in model_name and "gpt2" not in model_name:
         return GPT(model_name, **kwargs)
-
-    # elif "gpt2" in model_name:
-    #     return GPT2(model_name, api_idx=api_idx, **kwargs)
-    #
-    # elif "gemini" in model_name:
-    #     return Gemini(api_idx=api_idx, **kwargs)
-    #
-    # elif "claude" in model_name:
-    #     return Claude(model_name, **kwargs)
-    # elif "llama" in model_name:
-    #     if "llama-vllm" in model_name:
-    #         return Llama_vllm(model_name, **kwargs)
-    #     return Llama_api(model_name, **kwargs)
     else:
         raise ValueError(f"model_name invalid")

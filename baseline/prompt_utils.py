@@ -46,23 +46,8 @@ def extract_event_triggers_with_spans_fixed(text):
 
     return events
 
-
-# Example usage
-# text = ('1.4 " {E16 Invention} " means any {E17 invention} , know-how, data, '
-#         '{E18 discovery} or proprietary information, whether or not patentable, '
-#         'that is made or generated solely by the Representatives of Anixa or OntoChem '
-#         'or jointly by the Representatives of Anixa and OntoChem in performing the Research Plan, '
-#         'including all intellectual property rights in the foregoing.')
-# text="""1. PURCHASE OF EQUIPMENT. BNL at its expense shall  {E13 obtain}  ,  {E14 install}  ,  {E15 maintain}  and  {E16 upgrade}  as necessary any and all hardware, software, data and telephone lines, other communications equipment and any other equipment (hereinafter collectively  referred  to as the "Equipment") which it  {E17 determines}  is necessary to  {E18 allow}  it to  {E19 use}  and  {E20 access}  the VIP System pursuant to the terms of this Agreement."""
-# events = extract_event_triggers_with_spans_fixed(text)
-#
-# # Output the formatted results
-# for event in events:
-#     print(f"Span: {event['Span']}")
-#     print(f"Trigger: {event['Trigger']}")
-
 def coreference_fewshot_prompt_generate(prompt,inference_mode):
-    data_path = "../annotation_validation/jonathan_annotations/data.jsonl"
+    data_path = "../data/data.jsonl"
 
     all_data = load_jsonl(data_path)
     all_gold = []

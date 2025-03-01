@@ -185,15 +185,6 @@ def run_event_detection(model_name,is_commercial,data_path,output_path,inference
         model = AutoModelForCausalLM.from_pretrained(model_name, pad_token_id=tokenizer.eos_token_id, device_map="auto", trust_remote_code=True)
         model.eval()
 
-    #prompt = "Sponsor  acknowledges  that Sponsor shall  cooperate  with the Concessionaire  regarding  logistics and management of the Sponsor's food products, and appropriate storage and dispensation of the food products."
-    #response = generate_response(model, tokenizer, prompt)
-    #print(response)
-    # all_data = load_jsonl("./annotation_validation/jonathan_annotations/data.jsonl")
-    # #data = all_data[0]
-    # #result = event_detection(model, tokenizer, data)
-    # #print(result)
-    # output_file = "./annotation_validation/jonathan_annotations/detection_output.jsonl"
-    # final_result_file = "./annotation_validation/jonathan_annotations/detection_result.txt"
     all_data = load_jsonl(data_path)
     # Set the output and result file path for event detection
     task_name = "detection"
@@ -210,7 +201,6 @@ def run_event_detection(model_name,is_commercial,data_path,output_path,inference
         print("Gold mentions:" + str(extract_mentions(data["events"])))
         print("Predicted mentions:" + str(result["mentions"]))
         print("########################")
-        #break
     
     final_result = calculate_micro_macro_f1(all_predicted, all_gold)
     print(final_result)

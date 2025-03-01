@@ -282,10 +282,6 @@ def run_event_coreference(model_name,is_commercial,data_path,output_path,inferen
     base_dir = output_path
     output_file, final_result_file = generate_paths(base_dir, task_name, model_name, inference_mode)
 
-    # all_data = load_jsonl("./annotation_validation/jonathan_annotations/data.jsonl")
-    # output_file = "./annotation_validation/jonathan_annotations/coreference_output.jsonl"
-    # final_result_file = "./annotation_validation/jonathan_annotations/coreference_result.txt"
-
     all_predicted = [] 
     all_gold = []
     for data in tqdm(all_data):

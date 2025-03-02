@@ -1,6 +1,7 @@
 # LegalCore Dataset
 
 LegalCore is the first dataset for the legal domain that has been annotated with comprehensive event and event coreference information.
+![Figure 1](../images/main.png)
 
 ## Raw Data
 - The raw text data is available in the `./raw_data` directory in `.txt` format.

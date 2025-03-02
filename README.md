@@ -7,7 +7,7 @@ This repository contains the code and datasets used in the [paper](https://arxiv
 > **"LegalCore: A Dataset for Event Coreference Resolution in Legal Documents"**\
 > *Authors: Kangda Wei, Xi Shi, Jonathan Tong, Sai Ramana Reddy, Anandhavelu Natarajan, Rajiv Jain, Aparna Garimella, Ruihong Huang*
 
-![Figure 1](images/main.png)
+![Figure 1](images/intro.png)
 ## Installation
 
 To get started with LegalCore, clone the repository and install the required dependencies:

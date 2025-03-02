@@ -1,5 +1,12 @@
 # LegalCore
 
+## Overview
+
+This repository contains the code and datasets used in the paper:
+
+> **"LegalCore: A Dataset for Event Coreference Resolution in Legal Documents"**\
+> *Authors: Kangda Wei, Xi Shi, Jonathan Tong, Sai Ramana Reddy, Anandhavelu Natarajan, Rajiv Jain, Aparna Garimella, Ruihong Huang*
+
 ## Installation
 
 To get started with LegalCore, clone the repository and install the required dependencies:
@@ -44,6 +51,26 @@ LegalCore/
 └── requirements.txt  # Python dependencies
 ```
 
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
+@misc{wei2025legalcoredatasetlegaldocuments,
+      title={LegalCore: A Dataset for Legal Documents Event Coreference Resolution}, 
+      author={Kangda Wei and Xi Shi and Jonathan Tong and Sai Ramana Reddy and Anandhavelu Natarajan and Rajiv Jain and Aparna Garimella and Ruihong Huang},
+      year={2025},
+      eprint={2502.12509},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.12509}, 
+}
+```
+
 ## License
 
 LegalCore is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details. 
+
+---
+
+For questions, please open an issue or contact kangda@tamu.edu.

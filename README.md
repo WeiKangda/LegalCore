@@ -19,6 +19,12 @@ pip install -r requirements.txt
 
 **Note**: Ensure that you have Python 3.6 or higher installed.
 
+## Usage
+
+To run LLMs evaluation, run the commands in ```./script/batch_run.slurm```, modify the parameters based on your need.
+
+To run the supervised baseline, run the commands in ```./script/supervised_detection.slurm``` for the event detection baseline. Run the commands in ```./script/supervised_coreference.slurm``` for the event coreference baseline.
+
 ## Project Structure
 
 The repository is organized as follows:

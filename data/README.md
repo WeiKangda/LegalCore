@@ -138,10 +138,3 @@ python ../pre_processing/pre_processing.py
 ```
 
 This script processes the raw `.txt` files in `./raw_data` and generates the required JSONL files.
-
-## License
-Specify the dataset license here.
-
-## Citation
-If you use LegalCore in your research, please cite it appropriately.
-

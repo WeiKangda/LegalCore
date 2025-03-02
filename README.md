@@ -25,7 +25,7 @@ LegalCore/
 │
 ├── data/              # Raw and processed data
 │   ├── raw_data/
-│   └── processed_data/
+│   └── ...
 │
 ├── post_processing/   # Post-processing utilities
 │   ├── __init__.py
@@ -36,7 +36,7 @@ LegalCore/
 │   └── ...
 │
 ├── script/            # Example scripts
-│   └── example.py
+│   └── ...
 │
 ├── .gitignore
 ├── LICENSE
